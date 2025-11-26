@@ -1,0 +1,439 @@
+Supplement
+Selenium
+Selenium is a trace element incorporated into selenoproteins, some of which function as antioxidants protecting cells from damage.
+Selenium
+Cancer Impact Summary
+Click  to Learn More
+
+Induces Apoptosis
+Yes
+Inhibit Cell Proliferation
+Yes
+Target Specific Pathways
+Yes
+Angiogenesis Inhibition
+Yes
+Role in Immunotherapy
+Yes
+Anti-Inflammatory Properties
+Yes
+Full Supplement Details
+
+Selenium, an essential trace element, demonstrates significant potential in cancer prevention and treatment through its dual role in modulating oxidative stress and targeting cancer-specific pathways. Emerging research highlights its ability to enhance conventional therapies while protecting healthy cells, positioning selenium as a promising adjunct in metabolic and anti-cancer strategies.
+
+Mechanisms of Selenium’s Anti-Cancer Activity
+Redox Modulation
+Selenium exerts its effects by balancing antioxidant and pro-oxidant actions:
+
+Antioxidant Protection: Selenoproteins like glutathione peroxidase (GPx) and thioredoxin reductase (TrxR) neutralise excess reactive oxygen species (ROS) in healthy cells, preventing DNA damage and carcinogenesis28.
+
+Pro-Oxidant Cytotoxicity: In cancer cells, which inherently have elevated ROS levels, selenium compounds like sodium selenite selectively amplify oxidative stress, overwhelming their antioxidant defences and triggering apoptosis2812.
+
+Apoptosis and Cell Cycle Arrest
+
+Upregulates pro-apoptotic proteins (Bax, caspase-3) and suppresses anti-apoptotic Bcl-218.
+
+Induces G1/S phase cell cycle arrest by increasing p21cip1 and p27kip1 expression, blocking uncontrolled proliferation28.
+
+DNA Repair and Gene Regulation
+
+Enhances DNA damage repair via selenoprotein-mediated ROS scavenging28.
+
+Downregulates oncogenes (c-myc) and upregulates tumour suppressors (p53), inhibiting telomerase activity in cancer cells2812.
+
+Synergy with Conventional Therapies
+Combination	Effect	Study Findings
+Chemotherapy	Enhances drug efficacy while reducing toxicity	Sodium selenite boosts polyene paclitaxel’s effect on prostate cancer cells8. Selenocysteine synergises with 5-fluorouracil, increasing apoptosis via ERK pathway blockade8.
+Radiation	Protects healthy tissues; sensitises tumours	Selenomethionine reduces DNA damage in normal cells exposed to cisplatin2. Nanoparticles enhance irinotecan’s killing effect in colorectal cancer8.
+Targeted Therapies	Improves drug delivery and specificity	Methotrexate-loaded selenium nanostructures combined with radiation show 55% response rate in renal cell carcinoma59.
+Nanotechnology Advances
+Selenium Nanoparticles (SeNPs): Coated with bacterial exopolysaccharides (e.g., AZEPS-SeNPs), these exhibit:
+
+High cytotoxicity against lung adenocarcinoma (A549 cells, IC₅₀: 1.7 µg/mL)1.
+
+pH-responsive drug release, improving tumour targeting9.
+
+Orthopaedic Implants: Selenium-coated titanium reduces cancerous bone cell activity by 50% while promoting healthy osteoblast function6.
+
+Clinical Evidence and Considerations
+Positive Outcomes:
+
+In a Phase II trial, selenomethionine + axitinib achieved 55% objective response rate in advanced kidney cancer5.
+
+Ovarian cancer models show SeNPs reduce 3D tumour growth by 70%3.
+
+Limitations:
+
+Mixed results in prostate cancer; selenium supplementation alone lacks efficacy but shows promise in combination212.
+
+Optimal dosing varies by cancer type, with toxicity risks at high doses310.
+
+Future Directions
+Personalised Approaches: Targeting SECISBP2 to regulate selenoprotein expression may improve therapeutic selectivity7.
+
+Metabolic Targeting: Exploiting selenium’s role in thiol depletion and angiogenesis inhibition to block metastasis11.
+
+Selenium’s multifaceted anti-cancer properties, particularly when integrated with nanotechnology and combination therapies, offer a compelling avenue for metabolic oncology. While clinical translation requires further optimisation, current evidence underscores its potential to reshape cancer treatment paradigms.
+
+Dosage
+
+Established safe dosage guidelines for selenium exist, with specific thresholds to balance efficacy and toxicity risks:
+
+Recommended Dietary Allowance (RDA)
+The daily intake varies by age and physiological state:
+
+Adults 19+: 55 mcg
+
+Pregnancy: 60 mcg
+
+Breastfeeding: 70 mcg
+
+Children:
+
+1–3 years: 20 mcg
+
+4–8 years: 30 mcg
+
+9–13 years: 40 mcg
+
+14–18 years: 55 mcg125
+
+Tolerable Upper Intake Level (UL)
+Adults and adolescents 14+: 400 mcg/day
+
+Children 9–13: 280 mcg/day235
+Exceeding these limits increases risks of toxicity (hair loss, nausea, organ damage) and diabetes with prolonged use13.
+
+Anti-Cancer Context
+While studies explore high-dose selenium (e.g., 200–7,200 mcg/day) for cancer therapy, these doses:
+
+Require strict medical supervision due to severe toxicity risks (fatigue, diarrhoea, neuropathy)4.
+
+Show mixed efficacy; some trials report enhanced chemotherapy effects at 7,200 mcg twice daily for 7 days, but safety is not established for general use4.
+
+For public health recommendations, 55 mcg/day remains the standard RDA, with 400 mcg/day as the absolute safety ceiling for adults25.
+
+Cancer Types Tested Against
+Colorectal Cancer, Lung Cancer, Prostate Cancer
+
+Side Effects
+
+Selenium supplementation carries dose-dependent risks, with side effects ranging from mild discomfort to life-threatening toxicity.
+
+Key considerations include:
+
+Common Side Effects (400–1,000 mcg/day)
+Gastrointestinal: Diarrhea25, nausea26, vomiting9
+
+Dermatological: Hair loss25, brittle nails26, skin rashes2
+
+Neurological: Fatigue35, metallic taste26, headache3
+
+Systemic: Garlic-like breath26, joint/muscle pain5
+
+Severe Toxicity (>1,000 mcg/day)
+Organ damage: Kidney failure2, heart complications25
+
+Neurological crises: Tremors2, difficulty breathing6, ataxia5
+
+Persistent effects: Memory loss5, mood changes5, nail loss5 (lasting ≥90 days post-exposure)
+
+Chronic Risks
+Diabetes: Elevated risk with prolonged intake >55 mcg/day39
+
+Skin cancer: Squamous cell carcinoma association in high-risk populations9
+
+Thresholds and Precautions
+Category	Dose	Risk Level
+Safe upper limit (adults)	≤400 mcg/day	Minimal side effects23
+Therapeutic anti-cancer*	200–7,200 mcg	High toxicity risk17
+Acute toxicity	>40,000 mcg	Organ failure/death5
+*Requires medical supervision due to narrow therapeutic window17.
+
+Notable Interactions
+Chemotherapy: May alter drug efficacy9
+
+Statins/Corticosteroids: Potential synergistic toxicity9
+
+Birth control: Unclear pharmacokinetic effects9
+
+While selenium nanoparticles show targeted cytotoxicity in cancer cells (IC₅₀: 8.3–72.8 µg/mL)17, systemic formulations still risk collateral toxicity at elevated doses. Patients using Brazil nuts or supplements should monitor cumulative intake to stay below 400 mcg/day26.
+
+Combination Therapies
+
+Selenium has been extensively tested in combination therapies, demonstrating synergistic effects with chemotherapy, radiation, and targeted treatments across multiple cancer types while mitigating toxicity. Key findings include:
+
+Chemotherapy Combinations
+Platinum-Based Regimens:
+
+Selenium yeast (200 µg/day) reduced nausea, appetite loss, and weight decline in platinum-treated patients, improving Karnofsky scores by 20%4.
+
+Phase I trials of IV selenious acid (50–5,000 µg) with carboplatin/paclitaxel showed no pharmacokinetic interference and manageable toxicity (neutropenia: 66.6%) in ovarian/gynaecologic cancers36.
+
+Taxanes:
+
+Selenium (10 µM) synergised with docetaxel in triple-negative breast cancer (MDA-MB-231), doubling apoptosis rates (63% vs. 26%) and enhancing G2/M arrest. No benefit observed in ER+ MCF-7 cells713.
+
+Selenite reduced docetaxel-induced lymphedema in preclinical models8.
+
+Radiation Therapy
+Doses of 200–500 µg/day (as selenomethionine) improved radiotherapy tolerance:
+
+Reduced mucositis and xerostomia in head/neck cancer patients.
+
+Maintained plasma selenium levels during treatment without compromising efficacy5.
+
+Targeted Therapies
+Combination	Outcome	Cancer Type
+Axitinib (VEGFR inhibitor)	55% objective response rate (3 CR + 14 PR) in advanced kidney cancer	Renal cell carcinoma11
+PD98059 (MAPK inhibitor)	Synergistic tumour shrinkage in BRAF-mutant breast/melanoma cells	Breast, melanoma9
+Methotrexate	55% response rate in renal cancer via selenium nanostructures + radiation	Renal cell carcinoma1
+Nanotechnology Applications
+FA-SeNPs: Folic acid-coated selenium nanoparticles enhanced PD98059 uptake in FAR+ tumours, reducing spheroid size by 60%9.
+
+Radiosensitisation: Nano-Se + radiotherapy inhibited NSCLC metastasis by 70% and doubled apoptosis rates via ROS amplification10.
+
+Mechanism-Driven Synergy
+HDAC Inhibition: The prodrug SeSA-DCA (selenium + dichloroacetate) outperformed standalone agents in prostate cancer, inducing apoptosis via CDC25A suppression1.
+
+DNA Repair Blockade: Selenium downregulated RAD51AP1, sensitising ovarian tumours to carboplatin6.
+
+Clinical data support selenium’s role as a chemo/radio-enhancer with a tolerable safety profile at ≤5,000 µg (IV) or 200–500 µg (oral). Ongoing trials explore sequential dosing and nanoparticle formulations to optimise therapeutic windows1112.
+
+Links to Scientific Studies
+
+– US National Library of Medicine
+– Europe PMC
+– Pubmed
+
+Quality of Life Effects
+
+Selenium supplementation demonstrates measurable quality-of-life (QoL) improvements for cancer patients, particularly during active treatment and rehabilitation.
+
+Key impacts supported by clinical evidence include:
+
+Symptom and Side Effect Reduction
+Radiation Therapy:
+
+78% reduction in radiation-induced diarrhoea (400 µg/day sodium selenite)45.
+
+Diminished xerostomia (dry mouth) and mucositis severity in head/neck cancer patients14.
+
+Chemotherapy:
+
+Reduced nausea, appetite loss, and weight decline (Karnofsky score improvement: +20%)24.
+
+Lowered lymphedema progression in breast cancer survivors (500 µg/day for 4–6 weeks)4.
+
+Functional and Emotional Benefits
+Domain	Improvement	Dose/Duration
+Physical Function	Enhanced energy levels and mobility post-rehab	600 µg/day for 3 weeks
+Emotional Health	Reduced anxiety/depression scores (EORTC QLQ-C30)	300–600 µg/day sustained for 3 months
+Global QoL	30% increase in self-reported well-being	200–500 µg/day during radiotherapy
+Mechanistic Drivers
+Immune Support: Sodium selenite (200 µg/day) enhances interleukin-2 receptor expression, improving cell-mediated immunity during radiation4.
+
+Oxidative Balance: Normalises glutathione peroxidase (GPx) and superoxide dismutase (SOD) activity, reducing treatment-related fatigue24.
+
+Dose-Dependent Effects
+Optimal Range: 300–600 µg/day (higher doses more effective for deficiency correction)2.
+
+Baseline Dependency: Patients with initial selenium <100 µg/L saw greater QoL gains (141.2 µg/L post-supplementation vs. 127.1 µg/L at lower doses)2.
+
+Longevity of Effects
+Post-Rehab Sustainability: Patients maintaining selenium levels >130 µg/L retained QoL improvements for ≥3 months, while declining levels correlated with fatigue recurrence2.
+
+Food vs. Supplements: Dietary selenium correlates with long-term cancer prevention, while supplements excel in acute symptom management during therapy35.
+
+Clinical Recommendations
+Radiation/Chemo Patients: 400–600 µg/day sodium selenite during treatment to mitigate toxicity.
+
+Rehabilitation: Continue 300–600 µg/day for ≥3 months post-treatment to sustain functional gains.
+
+Monitoring: Check whole-blood selenium levels monthly, targeting 120–150 µg/L for optimal QoL outcomes.
+
+Selenium’s QoL benefits are most pronounced in patients with baseline deficiencies, emphasising the need for personalised dosing guided by biomarker testing.
+
+Answers to all your questions
+We’ve done our best to include as much information as possible for this supplement. 
+
+If you have any other questions, please send us a message or join our Skool Group and ask our knowledgeable and friendly community.
+
+How accessible is this supplement?
+Selenium supplements are readily available through multiple channels including pharmacies, health food stores, and online retailers. Regulatory status and accessibility may differ across countries.
+
+What patient demographic Does this work Best for?
+Selenium’s efficacy in cancer management shows demographic variability influenced by baseline selenium levels, cancer type, sex, and genetic factors. Key determinants include:
+
+Baseline Selenium Status
+Low-selenium populations: Benefit most from supplementation, with observational studies showing 24% lower cancer risk (OR: 0.76)5.
+
+Adequate-selenium regions: No significant risk reduction in RCTs (RR: 1.01 for cancer incidence)4.
+
+Cancer-Type Specificity
+Cancer Type	Effect	Evidence
+Breast	Lower mortality with higher pre-diagnosis intake (HR: 0.69)1, but no benefit in populations with adequate baseline levels4.	Polish cohort: 10-year mortality risk doubled with low serum selenium1.
+Renal Cell	Non-sarcomatoid morphology: 62% response rate to selenomethionine + axitinib vs. 20% in sarcomatoid3.	Phase I/II trial: mPFS 17.1 months vs. 9.92 months overall3.
+Colorectal	Dose-dependent reduction in aberrant crypt foci (β = -0.34 per µg/day)1.	Rat studies: Higher dietary selenium reduced ACF by 50%1.
+Sex Differences
+Men: Observational data suggest stronger protective effects (OR: 0.72 vs. women’s 0.90)4.
+
+Women: Mixed results in breast cancer trials; selenium from food reduces risk, but supplements show no benefit12.
+
+Genetic and Molecular Factors
+Selenoprotein H (SELH): Knockout accelerates cancer cell cycles; high SELH expression inhibits proliferation (G1/S arrest)1.
+
+p53 Status: Selenium protects wild-type p53 cells from platinum drug toxicity but not p53-deficient cells1.
+
+Diet vs. Supplements
+Food-derived selenium correlates with reduced breast, lung, and colorectal cancers (OR: 0.75)5.
+
+Supplements lack preventive efficacy but improve radiotherapy tolerance (e.g., 40% reduction in radiation-induced diarrhoea)2.
+
+Geographic Variation
+Europe/Asia: Greater benefit in regions with lower baseline selenium (e.g., Poland, Sweden)15.
+
+North America: Limited impact in selenium-replete populations4.
+
+Clinical Implications
+Target low-selenium patients with specific cancers (renal, breast, colorectal).
+
+Prioritise dietary selenium for prevention and supplements as chemo/radio-adjuvants.
+
+Screen for SELH expression and p53 status to personalise therapy.
+
+Current evidence supports stratified approaches rather than universal application, emphasising the need for biomarker-guided trials.
+
+Are there any known resistance mechanisms?
+Emerging research identifies several resistance mechanisms that can limit selenium’s anti-cancer efficacy, along with strategies to counter them through targeted interventions:
+
+Antioxidant System Upregulation
+Nrf2/Prx1 Pathway: Cancer cells overexpress nuclear factor erythroid 2-related factor 2 (Nrf2) and peroxiredoxin 1 (Prx1) to detoxify chemotherapeutic agents. Selenium suppresses these pathways, reversing resistance to irinotecan and platinum drugs47.
+
+Thioredoxin Reductase (TR): Radiation-resistant NSCLC cells upregulate TR to neutralise reactive oxygen species (ROS). Ethaselen, a TR inhibitor, overcomes radioresistance by blocking NF-κB activation (IC₅₀: 5 µM)5.
+
+Survival Pathway Activation
+Akt/mTOR Signalling: Trastuzumab-resistant breast cancer cells (JIMT-1) exhibit hyperactive Akt/mTOR signalling. Sodium selenite (10 µM) downregulates phosphorylated Akt (p-Akt) and synergises with trastuzumab, reducing viability by 60%6.
+
+HIF-1α/2α Stabilisation: Hypoxia-induced resistance in renal and head/neck cancers is reversed by selenomethionine (0.2 mg/mouse/day), which destabilises HIF proteins and enhances drug delivery47.
+
+Autophagy-Mediated Evasion
+Beclin-1 Overexpression: Selenium inhibits autophagy in trastuzumab-resistant breast cancer by downregulating beclin-1, shifting cells toward apoptosis. Combined treatment reduces JIMT-1 spheroid growth by 40%6.
+
+Drug Efflux and Metabolism
+ABC Transporter Overactivity: Selenium nanoparticles (SeNPs) bypass P-glycoprotein-mediated drug efflux in glioblastoma, restoring sorafenib sensitivity at nanomolar concentrations3.
+
+CYP450 Detoxification: High-dose selenocysteine (10 mg/g body weight/day) inhibits cytochrome P450 enzymes, prolonging paclitaxel retention in prostate cancer models8.
+
+Genetic and Epigenetic Adaptations
+SECISBP2 Dysregulation: Reduced SECISBP2 expression impairs selenoprotein synthesis, diminishing selenium’s pro-apoptotic effects. Restoring SECISBP2 enhances selenite efficacy in colorectal cancer1.
+
+Oncogenic miRNA Overexpression: Selenium downregulates miR-21 and miR-155, which drive resistance to axitinib in renal cell carcinoma4.
+
+Strategies to Overcome Resistance
+Resistance Mechanism	Selenium Intervention	Outcome
+HIF-α stabilisation	Selenomethionine (4,000 µg/day)	55% response rate in renal cancer when combined with axitinib4
+Akt/mTOR hyperactivation	Sodium selenite (5–10 µM)	Synergy with trastuzumab reduces JIMT-1 viability by 60%6
+Autophagy upregulation	SeNPs + chloroquine	Doubles apoptosis in glioblastoma via ER stress3
+Nrf2-mediated detoxification	Methylselenocysteine (10 mg/kg) pre-treatment	Enables 4× irinotecan dose escalation in colon cancer models7
+Clinical Implications
+Biomarker-Guided Dosing: Tumours with low SECISBP2 or high HIF-1α may require ≥7,200 µg/day selenium to overcome resistance14.
+
+Sequential Scheduling: Administering selenium 7 days before chemotherapy maximises HIF/Nrf2 suppression and minimises toxicity7.
+
+Selenium’s ability to modulate redox balance, survival pathways, and epigenetic drivers positions it as a versatile adjuvant to counteract therapeutic resistance. However, efficacy depends on tumour-specific molecular profiles and optimised dosing regimens.
+
+Have there been any preclinical studies?
+Selenium’s preclinical studies demonstrate promising anti-cancer mechanisms and synergistic potential with conventional therapies, supported by diverse in vitro and in vivo models. Key findings include:
+
+Combination Therapies
+HDAC Inhibition: The prodrug SeSA-DCA (selenium + dichloroacetate) outperformed standalone agents in prostate cancer models, inducing apoptosis via CDC25A suppression. Oral administration caused significant tumour regression in mice without toxicity1.
+
+Chemotherapy Synergy:
+
+Selenomethionine (SLM) enhanced axitinib efficacy in renal cell carcinoma xenografts, achieving 55% objective response rates910.
+
+Sodium selenite (10 µM) synergised with trastuzumab, reducing viability of trastuzumab-resistant breast cancer cells (JIMT-1) by 60%9.
+
+Nanoparticle Formulations
+Type	Mechanism	Model	Outcome
+Biogenic SeNPs	Induced immunogenic cell death via calreticulin exposure and HMGB1 release	CT26 mouse colon cancer	Suppressed tumour growth (oral administration) and enhanced macrophage phagocytosis2.
+Fucoidan-coated SeNPs	Apoptosis via ROS generation and caspase-3 activation	In vitro colon cancer	IC₅₀: 8.3–72.8 µg/mL, with minimal toxicity to normal cells6.
+Polysaccharide-Se	Mitochondrial apoptosis (Bax/Bcl-2 modulation, cytochrome C release)	A549 lung cancer	Reduced tumour volume by 70% in xenografts7.
+Apoptosis and Immunogenic Effects
+Colon Cancer: Lactobacillus-derived SeNPs triggered caspase-3 activation and upregulated ICD biomarkers (ATP, ERp57) in HT29 and CT26 cells2.
+
+Prostate Cancer: SeSA-DCA promoted G1/S arrest and apoptosis via p21cip1 upregulation and c-myc suppression1.
+
+Inflammation-Driven Models: Dietary selenium reduced DMH/DSS-induced colon tumours in APN-knockout mice by normalising Muc-2 and Math-1 expression8.
+
+In Vivo Efficacy
+Tumour Regression:
+
+SeSA-DCA (oral) reduced prostate tumour volume by 85% in mice1.
+
+SLM (0.2 mg/mouse/day) stabilised tumour vasculature, improving irinotecan delivery in head/neck cancer xenografts9.
+
+Metastasis Inhibition: Nano-Se + radiation blocked NSCLC metastasis by 70% via ROS amplification10.
+
+Safety and Toxicity
+Dose Dependency:
+
+Biogenic SeNPs showed no organ damage at therapeutic doses (≤2 mg/kg)2.
+
+SLM (4,000 µg/day) in mice caused reversible weight loss but protected normal tissues from chemo toxicity9.
+
+Toxicity Threshold: Selenite induced neurotoxicity at ≥10 µM, while SeNPs remained safe up to 50 µg/mL47.
+
+Preclinical evidence supports selenium’s role as a multifaceted anti-cancer agent, particularly in nanoparticle forms and combination regimens. However, efficacy and safety are highly dependent on formulation, dosing, and tumour type.
+
+Are there current clinical trials?
+For an up-to-date list of active clinical trials investigating selenium in cancer treatment, visit ClinicalTrials.gov.
+
+Are there genetic markers that might affect effectiveness?
+Genetic markers influencing selenium’s anti-cancer efficacy have been identified, primarily involving selenoprotein polymorphisms and expression levels. Key findings include:
+
+Selenoprotein P (SELENOP) Variants
+rs3877899 (Ala234Thr):
+
+Homozygous Thr carriers show reduced breast cancer risk (OR: 0.72)23.
+
+Interacts with SOD2 polymorphisms to increase prostate cancer risk in men with AA genotype (rs7579)23.
+
+rs7579 (3′ UTR SECIS):
+
+Linked to lower plasma SELENOP levels, impairing selenium transport into cells and increasing colorectal cancer susceptibility23.
+
+Selenoprotein F (SELENOF) Polymorphisms
+rs5845 (C/T) and rs5859 (G/A):
+
+Form a functional haplotype affecting SELENOF synthesis.
+
+AA genotype (rs5859) correlates with 36% higher prostate cancer mortality in African American men2.
+
+Synergises with SELENOP variants to modulate prostate cancer outcomes2.
+
+Glutathione Peroxidase 1 (GPx-1) Pro198Leu
+Pro/Leu polymorphism:
+
+Leu allele reduces enzyme activity responsiveness to selenium, diminishing protective effects against oxidative DNA damage in breast cancer models3.
+
+Selenoprotein H (SELENOH)
+Knockout effects: Accelerates G1/S phase transition in colorectal cancer cells, counteracting selenium’s cell cycle arrest effects1.
+
+Ethnic and Population-Specific Effects
+Population	Marker	Impact
+European	SELENOP rs3877899	24% lower breast cancer risk in Thr homozygotes23.
+African American	SELENOF rs5859	36% higher prostate cancer mortality in AA genotype carriers2.
+Asian	GPx-1 Pro198Leu	Reduced antioxidant protection in Leu carriers exposed to low selenium3.
+Functional Consequences
+DNA Repair Modulation: Wild-type p53 status enhances selenium’s DNA repair effects (e.g., 10 μmol/L selenomethionine reduces cisplatin-induced damage in p53 WT cells)1.
+
+Oncogene Regulation: Sodium selenite suppresses c-myc and upregulates p53, inhibiting telomerase activity in stem cells1.
+
+Clinical Implications
+Screening: SELENOP and SELENOF genotyping may stratify patients for selenium-based therapies.
+
+Combination Strategies: SELENOH-high tumours may benefit from selenium’s G1/S phase arrest, while GPx-1 Leu carriers require higher doses for efficacy13.
+
+These genetic markers highlight selenium’s context-dependent efficacy, emphasising the need for personalised approaches based on selenoprotein profiles and ancestry.

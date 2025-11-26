@@ -1,0 +1,503 @@
+Vitamin A
+Vitamin A, encompassing retinoids like retinol and retinal, is a crucial micronutrient essential for cell growth, vision, and immune function. It acts as a potent signalling molecule, influencing gene expression and regulating various cellular processes critical for maintaining health and preventing disease.
+Vitamin A
+Cancer Impact Summary
+Click  to Learn More
+
+Induces Apoptosis
+Yes
+Inhibit Cell Proliferation
+Yes
+Target Specific Pathways
+Yes
+Angiogenesis Inhibition
+Yes
+Role in Immunotherapy
+Yes
+Anti-Inflammatory Properties
+Yes
+Full Supplement Details
+
+Vitamin A, traditionally known for its role in vision and skin health, has garnered significant scientific interest for its potential anti-cancer properties. Research over recent decades has explored both the preventive and therapeutic roles of vitamin A and its derivatives (retinoids and carotenoids) in various cancers.
+
+Mechanisms of Action
+Vitamin A and its derivatives regulate cell proliferation, growth, and differentiation, processes that are often disrupted in cancer. Retinoids can induce growth arrest, promote apoptosis (programmed cell death), and encourage the re-differentiation of malignant cells, thereby inhibiting tumour progression145.
+
+As a potent antioxidant, vitamin A helps neutralise free radicals, reducing oxidative stress and tissue damage that can lead to cancer initiation and progression13.
+
+Both retinol (preformed vitamin A) and carotenoids (provitamin A) have demonstrated the ability to inhibit cell proliferation and increase apoptosis in cancer cell lines, particularly in breast cancer research1.
+
+Evidence from Epidemiological and Clinical Studies
+Multiple studies have highlighted an inverse relationship between serum levels of vitamin A or carotenoids and the risk of several cancers, including breast, cervical, skin, prostate, oral, and leukaemia134.
+
+Clinical trials have shown that vitamin A supplementation can improve therapeutic responses in certain cancers. For example, oral vitamin A reduced chemoresistance in gestational trophoblastic neoplasia and enhanced the response to chemotherapy in advanced cervical carcinoma23.
+
+Retinoic acid, a derivative of vitamin A, is an established treatment for acute promyelocytic leukaemia (APL), demonstrating the clinical utility of vitamin A compounds in oncology5.
+
+Cancer Types Studied
+Cancer Type	Evidence for Benefit	Notes
+Breast	Inverse association with risk	Lower serum levels in patients; conflicting evidence exists13
+Cervical	Improved response to chemotherapy	Supplementation shown to enhance treatment outcomes23
+Leukaemia (especially APL)	Established therapeutic use	Retinoic acid is a standard treatment5
+Skin, Prostate, Oral, GI	Inhibitory effects observed in vitro	Role in prostate cancer prevention remains unclear4
+Pancreatic, Bladder	Potential benefit in cell studies	Further research needed35
+Limitations and Conflicting Evidence
+While many studies suggest a protective effect, some epidemiological data do not find a significant association between vitamin A or carotenoid intake and reduced cancer risk, particularly in prostate cancer134.
+
+High-dose carotenoid supplementation has been associated with increased lung cancer risk in smokers, highlighting the need for caution and individualised recommendations1.
+
+The mechanisms by which vitamin A exerts anti-cancer effects are complex and not entirely dependent on retinoic acid receptor pathways. Recent studies suggest that retinol itself may have unique anti-cancer actions not mediated by these receptors5.
+
+Safety and Clinical Application
+Vitamin A is generally safe when consumed at recommended dietary levels, but excessive intake can be toxic.
+
+Its use as an adjunct in cancer therapy is promising, especially in combination with conventional treatments, but requires further research to determine optimal dosing and patient selection2345.
+
+Summary
+Vitamin A and its derivatives show promising anti-cancer properties through multiple mechanisms, including antioxidant activity, regulation of cell growth, and induction of apoptosis. While there is substantial evidence supporting their preventive and therapeutic roles in certain cancers, the benefits can vary depending on cancer type, patient population, and form of vitamin A used. More research is needed to clarify optimal use, especially in clinical settings, and to identify patient groups most likely to benefit from vitamin A-based interventions12345.
+
+Dosage
+
+A recommended safe dosage for vitamin A has been well established by health authorities:
+
+For adults aged 19 to 64 in the UK:
+Men: 700 micrograms (µg) per day
+
+Women: 600 µg per day
+
+You should not exceed a total intake of 1,500 µg (1.5 mg) per day from food and supplements combined1.
+
+International guidelines (including the US and WHO):
+The Recommended Dietary Allowance (RDA) is:
+
+Men: 900 µg retinol activity equivalents (RAE) per day
+
+Women: 700 µg RAE per day279
+
+The Tolerable Upper Intake Level (UL) for adults is 3,000 µg RAE per day (equivalent to 10,000 IU)2456789.
+
+Key Points:
+Vitamin A is fat-soluble and stored in the body, so excess intake over time can lead to toxicity.
+
+The upper limit (UL) of 3,000 µg RAE per day applies to preformed vitamin A (retinol and retinyl esters) from both food and supplements2456789.
+
+Beta-carotene and other provitamin A carotenoids from plant sources do not have the same toxicity risk, but high-dose supplements are not recommended, especially for smokers9.
+
+Risks of Excess:
+Consistently exceeding the upper limit can cause serious side effects, including liver damage, bone thinning, and birth defects if taken during pregnancy3457.
+
+The NHS specifically advises not to take more than 1.5 mg (1,500 µg) of vitamin A per day from all sources, particularly if you eat liver or liver products regularly1.
+
+Summary Table
+Group	Recommended Daily Intake	Upper Safe Limit (UL)
+Adult men	700–900 µg RAE	3,000 µg RAE (10,000 IU)
+Adult women	600–700 µg RAE	3,000 µg RAE (10,000 IU)
+Pregnant women	770 µg RAE	3,000 µg RAE (10,000 IU)
+Children	Varies by age	Varies by age
+Conclusion:
+Vitamin A is safe and beneficial at recommended levels, but supplementation should not exceed 3,000 µg RAE (10,000 IU) per day for adults to avoid toxicity.
+
+Most people can meet their needs through a balanced diet without supplementation.
+
+Cancer Types Tested Against
+Breast Cancer, Leukemia
+
+Side Effects
+
+Vitamin A can cause a range of side effects, particularly when taken in high or therapeutic doses, such as those sometimes used in cancer treatment.
+
+Common Side Effects
+Nausea and vomiting
+
+Headache
+
+Blurred vision
+
+Drowsiness and irritability
+
+Muscular weakness
+
+Rash and skin peeling
+
+Dryness of skin and mucous membranes
+
+Abdominal pain
+
+Elevated liver function tests and liver toxicity
+
+Increased serum triglycerides
+
+Asymptomatic hypercalcaemia (rarely)
+
+Joint pain (arthralgia)
+
+Hair loss or changes in hair texture145
+
+Acute vs. Chronic Toxicity
+Type of Toxicity	Typical Causes and Symptoms
+Acute	Large, single dose (usually accidental, e.g. in children). Symptoms: headache, drowsiness, abdominal pain, nausea, vomiting, rash, irritability. Symptoms usually resolve after stopping intake45.
+Chronic	Prolonged intake of high doses (10,000 IU/day or more in adults). Symptoms: changes in skin, hair, and nails, liver toxicity, increased intracranial pressure, bone pain, hypercalcaemia, risk of osteoporosis, and in pregnancy, birth defects145.
+Cancer Therapy and High-Dose Effects
+Therapeutic doses for cancer are often much higher than standard dietary recommendations. In clinical trials, doses ranged from 100,000 IU/m² to 350,000 IU/m² per day. At these levels, the following toxicities have been reported:
+
+Neuropsychiatric changes (e.g. mood alterations, confusion) were the earliest dose-limiting toxicities, occurring in patients receiving more than 240,000 IU/m² for 3–4 months.
+
+Hepatomegaly (enlarged liver) and biopsy-proven liver toxicity developed in some patients at doses above 270,000 IU/m².
+
+Elevated triglycerides were observed at 200,000 IU/m².
+
+Skin and mucous membrane dryness was common above 150,000 IU/m².
+
+Chronic liver toxicity and significant hepatotoxicity have occurred at doses as low as 20,000 IU, especially in those who consume alcohol regularly12.
+
+For future cancer trials, a dose of 200,000 IU/m²/day was recommended due to toxicity concerns2.
+
+Controversies and Risks During Cancer Therapy
+Some studies suggest vitamin A supplementation may improve therapeutic response and reduce side effects in certain cancers, but others indicate no survival benefit or even increased risk of recurrence and death when used during chemotherapy3.
+
+High-dose vitamin A (especially when combined with beta-carotene) has been linked to increased lung cancer risk and mortality in smokers345.
+
+There is concern that antioxidants like vitamin A may counteract the intended effects of chemotherapy and radiotherapy by protecting both healthy and cancerous cells from oxidative damage3.
+
+Summary Table: Side Effects at Therapeutic and High Doses
+Side Effect	Acute Toxicity	Chronic Toxicity	High-Dose Cancer Therapy
+Headache	Yes	Yes	Yes
+Nausea/Vomiting	Yes	Sometimes	Yes
+Liver toxicity	Rare	Yes	Yes (dose-limiting)
+Skin/mucous dryness	Sometimes	Yes	Yes (common at >150,000 IU/m²)
+Neuropsychiatric changes	Rare	Yes	Yes (at >240,000 IU/m²)
+Hypercalcaemia	Rare	Yes	Rare
+Bone pain/osteoporosis	No	Yes	Possible
+Birth defects (pregnancy)	No	Yes	Yes
+Conclusion
+Vitamin A, particularly at therapeutic doses for cancer, can cause significant side effects, most notably liver toxicity, neuropsychiatric symptoms, and skin changes. Acute toxicity is rare but possible with large single doses, while chronic toxicity is a risk with prolonged high intake. Cancer patients considering vitamin A supplementation should do so only under strict medical supervision, as the risks can outweigh the benefits, especially at high doses or when combined with other treatments.
+
+Combination Therapies
+
+Vitamin A and its derivatives have been extensively tested in combination with other therapies for various cancers, both in clinical trials and preclinical studies.
+
+Key Findings from Recent Research:
+Pancreatic Cancer:
+
+The STARPAC phase I clinical trial in the UK demonstrated that adding all-trans retinoic acid (ATRA, a form of vitamin A) to standard chemotherapy for pancreatic cancer is safe, with no additional harmful effects compared to chemotherapy alone. This combination appears to modify the tumour stroma, potentially making the cancer more responsive to treatment. A follow-up phase II trial (STARPAC2) is underway to evaluate whether ATRA enhances the efficacy of chemotherapy in these patients12310.
+
+Cervical Cancer:
+
+A randomised double-blind clinical trial found that supplementing neoadjuvant chemotherapy (cisplatin and paclitaxel) with vitamin A (8,000 IU every 8 hours) improved tumour shrinkage in advanced cervical carcinoma compared to chemotherapy alone, though the difference did not reach statistical significance in the small sample. The results suggest vitamin A may enhance the response to chemotherapy in cervical cancer67.
+
+Acute Promyelocytic Leukaemia (APL):
+
+ATRA, in combination with arsenic trioxide, has become a standard, highly effective treatment for APL, allowing many children to avoid conventional chemotherapy altogether. Nearly all patients in a recent trial survived two years without relapse5.
+
+Radiotherapy:
+
+Preclinical studies have shown that combining ATRA with radiotherapy significantly improves tumour control compared to either treatment alone. This combination not only inhibited growth of irradiated tumours but also had an effect on distant, non-irradiated tumours, suggesting an immune-mediated benefit9.
+
+Other Chemotherapy Agents:
+
+Laboratory research has demonstrated synergistic effects when all-trans retinoic acid is combined with paclitaxel (a chemotherapy drug), resulting in greater tumour cell death than with either agent alone7.
+
+Vitamin A analogues have also been tested as neoadjuvant agents with doxorubicin and methotrexate, showing potential to improve chemotherapeutic outcomes812.
+
+Gestational Trophoblastic Neoplasia:
+
+Oral vitamin A (6,000 IU/day) given with methotrexate chemotherapy reduced chemoresistance and tumour marker levels in patients with low-risk gestational trophoblastic neoplasia7.
+
+Cautions and Contradictory Findings:
+
+Not all combinations have been beneficial. For example, a study found that combining beta-carotene and vitamin A had no benefit and may have increased lung cancer incidence and mortality in smokers11.
+
+Summary Table: Vitamin A Combination Therapies in Cancer
+Cancer Type	Combination Therapy	Outcome/Effectiveness	Safety
+Pancreatic cancer	ATRA + chemotherapy	Safe, modifies tumour stroma, phase II ongoing	No additional harm observed
+Cervical cancer	Vitamin A + neoadjuvant chemotherapy	Improved tumour shrinkage	No significant added toxicity
+Acute promyelocytic leukaemia	ATRA + arsenic trioxide	Highly effective, avoids chemotherapy	Well-tolerated
+Solid tumours (preclinical)	ATRA + radiotherapy	Enhanced tumour control, immune effect	Noted in animal models
+Gestational trophoblastic neoplasia	Vitamin A + methotrexate	Reduced chemoresistance	No major safety issues
+Lung cancer (smokers)	Beta-carotene + vitamin A	Increased risk, not recommended	Potentially harmful
+Conclusion
+Vitamin A and its derivatives have shown promise when combined with chemotherapy, radiotherapy, and targeted agents in several cancer types, with evidence of improved efficacy and safety in many settings. However, results can vary by cancer type, combination, and patient population, and some combinations (notably with beta-carotene in smokers) may be harmful. Ongoing clinical trials will further clarify its role in combination cancer therapy.
+
+Links to Scientific Studies
+
+US National Library of Medicine research on Vitamin A
+Europe PMC research on Vitamin A
+Pubmed research on Vitamin A
+
+Quality of Life Effects
+
+Therapeutic levels of vitamin A, particularly in the form of retinoids, can have both positive and negative impacts on quality of life for individuals undergoing cancer treatment.
+
+Positive Effects
+Improved Overall Health: Vitamin A supplementation has been associated with enhanced survival rates and reduced adverse effects during cancer treatment, contributing to better overall health24.
+
+Symptom Reduction: In some studies, vitamin A has helped alleviate symptoms such as fatigue, nausea, and pain, which are common during chemotherapy2.
+
+Enhanced Therapeutic Response: Vitamin A, especially when combined with other treatments like chemotherapy, can improve therapeutic outcomes in certain cancers, such as cervical carcinoma24.
+
+Negative Effects
+Toxicity and Side Effects: High doses of vitamin A can lead to toxicity, causing symptoms like headaches, dizziness, and liver dysfunction. These side effects can significantly impact quality of life5.
+
+Interference with Cancer Treatment: As an antioxidant, vitamin A may counteract the oxidative stress induced by chemotherapy and radiotherapy, potentially reducing their effectiveness. This could indirectly affect quality of life by prolonging treatment duration or reducing its efficacy24.
+
+Increased Risk in Specific Populations: High doses of vitamin A, especially when combined with beta-carotene, have been linked to increased lung cancer mortality in smokers, highlighting a potential negative impact on quality of life for this group24.
+
+Quality of Life Considerations
+Patient-Specific Outcomes: The impact on quality of life varies significantly among individuals, depending on cancer type, treatment regimen, and individual tolerance to vitamin A.
+
+Monitoring and Dose Adjustment: Close monitoring by healthcare providers is crucial to balance therapeutic benefits with potential side effects, ensuring that vitamin A supplementation enhances rather than detracts from quality of life.
+
+Summary Table: Quality of Life Impact
+Aspect of Quality of Life	Positive Effects	Negative Effects	Notes
+Overall Health	Enhanced survival, reduced adverse effects	Potential toxicity	Therapeutic context
+Symptom Management	Alleviates fatigue, nausea, pain	Side effects like headaches	Cancer treatment setting
+Therapeutic Response	Improved outcomes in certain cancers	May interfere with chemotherapy efficacy	Specific cancer types
+Safety and Toxicity	Generally safe at recommended doses	High doses can be toxic	Monitoring required
+Conclusion
+Therapeutic levels of vitamin A can improve quality of life by enhancing overall health and reducing symptoms during cancer treatment. However, potential side effects and interactions with other therapies necessitate careful management to ensure these benefits are maximised while minimising negative impacts.
+
+Answers to all your questions
+We’ve done our best to include as much information as possible for this supplement. 
+
+If you have any other questions, please send us a message or join our Skool Group and ask our knowledgeable and friendly community.
+
+How accessible is this supplement?
+Vitamin A supplements are widely available over the counter in most countries. However, specific formulations used in cancer treatment, such as ATRA, may require a prescription and regulatory status may vary globally.
+
+What patient demographic Does this work Best for?
+Current evidence suggests that the benefit of vitamin A for cancer prevention and therapy may vary by demographic factors, cancer type, and geographic region, but a single, universally defined patient demographic has not been conclusively established. However, several patterns have emerged from recent research:
+
+Women at Risk of Breast, Ovarian, and Cervical Cancer
+High dietary intake or supplementation of vitamin A is associated with a reduced incidence of breast, ovarian, and cervical cancers in women, particularly in North American and Asian populations2.
+
+The protective effect appears most significant for breast and ovarian cancers, with moderate increases in dietary vitamin A intake or supplements recommended for women at high risk of these cancers2.
+
+The benefit is linked to dietary intake or supplementation, rather than high circulating vitamin A concentrations in the blood2.
+
+Geographic and Ethnic Variation
+The protective association of vitamin A intake is stronger in North America and Asia, and less pronounced in Europe and Oceania, possibly due to differences in diet, nutritional status, and genetic factors2.
+
+Heterogeneity in results may also be influenced by ethnicity, socioeconomic status, and other region-specific factors2.
+
+Cancer Type Specificity
+Most evidence for benefit is in breast, ovarian, and cervical cancers in women23.
+
+There is less consistent evidence for benefit in prostate cancer, with some studies showing no significant correlation between vitamin A status and prostate cancer risk3.
+
+Vitamin A and its derivatives are established as part of therapy for certain leukaemia’s (e.g., acute promyelocytic leukaemia), but this is based on disease biology rather than demographic factors3.
+
+Other Considerations
+Late-stage breast cancer patients have been observed to have lower serum vitamin A levels, suggesting a potential role for supplementation in this group, though causality is not established4.
+
+The impact of vitamin A may also be influenced by factors such as nutritional structure, economic development, HPV vaccination status (for cervical cancer), and other lifestyle variables2.
+
+Summary Table
+Demographic/Group	Evidence of Benefit	Notes
+Women (North America, Asia)	Strong	Breast, ovarian, cervical cancer prevention
+Women (Europe, Oceania)	Weaker/less clear	Regional dietary and genetic differences
+High-risk women (family history, etc)	Moderate	Especially for breast/ovarian cancer
+Men (general population)	Inconclusive	No clear benefit for prostate cancer
+Late-stage breast cancer patients	Observed low serum levels	Supplementation potential, not conclusive
+Ethnic minorities (varies by region)	Possible	Data suggest regional/ethnic heterogeneity
+Conclusion
+The groups most likely to benefit from vitamin A for cancer prevention are women in North America and Asia at risk for breast, ovarian, and cervical cancers, particularly through increased dietary intake or supplementation. There is insufficient evidence to define a precise demographic for therapeutic benefit in established cancer, beyond specific indications such as acute promyelocytic leukaemia. The effect in other populations and cancer types remains less clear and may be influenced by regional, ethnic, and lifestyle factors234.
+
+Are there any known resistance mechanisms?
+Several genetic and molecular markers have been identified that influence resistance to vitamin A-based therapies in cancer. These markers impact metabolic pathways, receptor signalling, and tumour microenvironment interactions, modulating therapeutic outcomes.
+
+Key Resistance Markers
+ALDH1A1 (Aldehyde Dehydrogenase 1 Family Member A1)
+
+Elevated in hepatic metastases and cancer stem cells (CSCs), ALDH1A1 promotes resistance by maintaining stem-like properties and detoxifying chemotherapeutic agents12.
+
+In non-small cell lung cancer (NSCLC), ALDH1-positive CSCs resist cisplatin, but targeting the vitamin A/retinoic acid (RA) axis depletes these cells and restores chemosensitivity2.
+
+CYP26B1 (Cytochrome P450 Family 26 Subfamily B Member 1)
+
+This enzyme degrades retinoic acid, limiting its bioavailability. Polymorphisms (e.g., rs2241057) or overexpression reduce RA levels, impairing differentiation therapy efficacy36.
+
+RAR/RXR Receptor Dysregulation
+
+Reduced expression of retinoic acid receptors (RARβ) or retinoid X receptors (RXR) in tumours disrupts RA-mediated gene regulation, leading to retinoid resistance9.
+
+SCARB1 (Scavenger Receptor Class B Member 1)
+
+Variants in this carotenoid transporter gene (e.g., rs11057841) lower β-carotene absorption, reducing retinol synthesis and compromising dietary/preventive efficacy1016.
+
+RALDH (Retinaldehyde Dehydrogenase)
+
+Overexpression in hepatic stellate cells (HSCs) increases RA synthesis, creating an immunosuppressive microenvironment that resists checkpoint blockade in liver metastases5.
+
+Mechanisms of Resistance
+Marker/Pathway	Mechanism of Resistance	Cancer Relevance
+ALDH1A1	Sustains CSC populations and chemoresistance	NSCLC, colorectal, hepatic metastases
+CYP26B1	Accelerates RA degradation	Breast, prostate, neuroblastoma
+RAR/RXR dysfunction	Disrupts RA-dependent gene regulation	Breast, leukaemia, skin cancers
+SCARB1 variants	Reduces β-carotene uptake and retinol synthesis	General cancer prevention
+Hepatic RA overproduction	Induces immune tolerance in liver metastases	Colorectal, pancreatic metastases
+Clinical Implications
+Liver metastases show heightened resistance to immunotherapy due to high RA levels from vitamin A stored in HSCs5. Inhibiting RA synthesis (e.g., with disulfiram) may enhance checkpoint inhibitor efficacy5.
+
+Ethnic variability in allele frequencies of SCARB1, BCMO1, and RBP4 affects vitamin A status and therapeutic response101316.
+
+Retinoid resistance in solid tumours (e.g., breast, prostate) is linked to RARβ silencing or CYP26B1 overexpression, necessitating combination therapies39.
+
+Summary
+Resistance to vitamin A’s anti-cancer effects arises from genetic variants (ALDH1A1, CYP26B1, SCARB1), receptor dysregulation (RAR/RXR), and microenvironmental factors (hepatic RA overproduction). These markers highlight the need for personalised approaches, such as genetic testing to identify at-risk populations and combinatorial strategies to overcome resistance2516.
+
+Have there been any preclinical studies?
+Pre-clinical studies have been pivotal in establishing the anti-cancer potential of vitamin A and its derivatives (retinoids), particularly in pancreatic, colorectal, neuroblastoma, and other cancers.
+
+Key findings from these trials include:
+
+1. Pancreatic Cancer
+Mechanism of Action:
+
+In pancreatic cancer models, all-trans retinoic acid (ATRA) reversed the tumour-promoting behaviour of stellate cells, which form a protective stromal barrier around tumours. ATRA restored vitamin A levels in stellate cells, converting them into anti-cancer cells that reduced tumour proliferation and invasion158.
+
+Combining ATRA with chemotherapy (e.g., gemcitabine) disrupted stromal-tumour communication, enhancing chemotherapy efficacy in preclinical models15.
+
+2. Colorectal Cancer (CRC)
+Retinoid Activity:
+
+Natural and synthetic retinoids demonstrated anti-proliferative, pro-apoptotic, and differentiation-inducing effects in CRC cell lines and animal models. These effects were mediated through retinoic acid receptor (RAR) pathways and modulation of Wnt/β-catenin signalling4.
+
+Retinoids also inhibited metastasis by suppressing epithelial-mesenchymal transition (EMT) and angiogenesis4.
+
+3. Neuroblastoma
+Differentiation Therapy:
+
+ATRA induced differentiation of neuroblastoma cell lines into mature neuronal phenotypes in vitro. This led to reduced tumour aggressiveness and provided a rationale for clinical testing6.
+
+Pharmacokinetic studies in Rhesus monkeys revealed ATRA’s short plasma half-life (45 minutes) and saturable elimination, prompting intermittent dosing strategies to maintain therapeutic efficacy6.
+
+4. Refractory Cancers
+Retinol vs. Retinoic Acid:
+
+Retinol (the most abundant circulatory form of vitamin A) exhibited anti-cancer effects in refractory cancers unresponsive to retinoic acid (RA), suggesting RA receptor-independent mechanisms3.
+
+Synthetic retinoid derivatives (e.g., p-DDAP) showed selective toxicity against cancer cells with minimal side effects in mice3.
+
+5. Formulation Advances
+Liposomal and Nanoparticle Delivery:
+
+Liposomal ATRA formulations were 100–1,000 times more effective than soluble ATRA in vitro, with prolonged plasma retention in animal models2.
+
+Polymeric nanoparticles enhanced RA delivery to tumour sites, improving stromal modulation and reducing hepatic metabolism2.
+
+Key Pre-Clinical Outcomes
+Cancer Type	Model System	Key Finding	Clinical Translation
+Pancreatic	Mice, cell cultures	ATRA reprograms stroma, enhances chemotherapy	Phase I/II trials (STARPAC)15
+Colorectal	Cell lines, mice	Retinoids inhibit proliferation/metastasis	Limited clinical testing4
+Neuroblastoma	Cell lines, primates	ATRA induces differentiation	Paediatric phase II trials6
+Refractory cancers	Mice, cell cultures	Retinol and synthetic derivatives effective	Early-stage trials3
+Conclusion
+Pre-clinical trials have demonstrated vitamin A’s ability to modulate tumour microenvironments, induce differentiation/apoptosis, and synergise with chemotherapy. These findings underpinned clinical trials such as STARPAC for pancreatic cancer and neuroblastoma studies. Challenges remain in optimising retinoid formulations and overcoming resistance mechanisms, but pre-clinical data strongly support further investigation of vitamin A in oncology.
+
+Are there current clinical trials?
+Vitamin A, particularly in the form of all-trans retinoic acid (ATRA), continues to be actively studied in a range of cancer clinical trials worldwide.
+
+Below is a summary of current trials and their phases:
+
+Pancreatic Cancer
+STARPAC2 Trial (UK):
+This is a phase II randomised controlled trial evaluating ATRA in combination with standard chemotherapy (gemcitabine and nab-paclitaxel) for advanced pancreatic cancer. The phase I STARPAC trial established safety and tolerability; STARPAC2 is now investigating efficacy238.
+
+Colorectal Cancer
+NCT05999812 (USA):
+This is a phase II, single-arm, open-label trial combining ATRA, bevacizumab, and atezolizumab for patients with refractory microsatellite stable metastatic colorectal cancer (MSS mCRC). The trial includes a safety lead-in phase and will assess response rates and adverse events101420.
+
+Head and Neck Cancer
+APLUS Study (NCT04433169, China):
+This ongoing phase II trial is investigating ATRA combined with low-dose apatinib in recurrent/metastatic adenoid cystic carcinoma of the head and neck. Preliminary results are promising, and the study is continuing to confirm efficacy and safety12.
+
+Haematological Cancers
+Multiple Trials (Global):
+Numerous ongoing studies are evaluating ATRA in haematological disorders, including:
+
+Acute promyelocytic leukaemia (APL) (7 trials)
+
+Non-APL acute myeloid leukaemia (AML) (4 trials)
+
+Myelodysplastic syndromes (MDS) (3 trials)
+
+Immune thrombocytopenia (ITP) (2 trials)
+
+Autoimmune anaemia (1 trial)
+
+Multiple myeloma (MM) (1 trial)
+Many of these are combination therapy trials, with phases ranging from I to III61618.
+
+Stem Cell Transplantation
+NCI-2025-01522 (USA):
+This trial is testing high-dose vitamin A supplementation to reduce the incidence of moderate to severe chronic graft-versus-host disease in allogeneic stem cell transplantation. The specific phase is not noted but is likely an early-phase (I/II) study1.
+
+Summary Table of Key Ongoing Trials
+Cancer/Condition	Vitamin A Formulation	Trial Phase	Combination/Focus	Reference
+Pancreatic cancer	ATRA	II	With chemotherapy (STARPAC2)	238
+Colorectal cancer (MSS mCRC)	ATRA	II	With bevacizumab and atezolizumab	101420
+Head and neck cancer (R/M ACCHN)	ATRA	II	With low-dose apatinib (APLUS study)	12
+Haematological cancers (APL, AML)	ATRA	I–III	Various combinations	61618
+Stem cell transplantation	Vitamin A	I/II	High-dose supplementation	1
+Conclusion
+Vitamin A (primarily as ATRA) is currently part of several active clinical trials, most notably phase II studies in pancreatic and colorectal cancers, as well as ongoing trials in head and neck and haematological cancers. These studies are exploring both efficacy and safety, often in combination with other therapies. Results from these trials will further clarify the therapeutic potential and optimal use of vitamin A in oncology.
+
+Are there genetic markers that might affect effectiveness?
+Several genetic markers have been identified that affect vitamin A metabolism, bioavailability, and therapeutic efficacy, particularly in cancer contexts. These variations influence how individuals absorb, convert, and utilise vitamin A, impacting its effectiveness in prevention and treatment.
+
+Key Genetic Variants and Their Roles
+BCMO1 (Beta-Carotene Oxygenase 1)
+
+Converts beta-carotene (provitamin A) into retinol.
+
+Certain SNPs reduce enzymatic activity, limiting conversion efficiency and increasing deficiency risk despite adequate dietary intake6810.
+
+RBP4 (Retinol-Binding Protein 4)
+
+Transports retinol from the liver to tissues.
+
+Genetic variations lower serum retinol levels, affecting tissue availability and therapeutic response6812.
+
+SCARB1 (Scavenger Receptor Class B Member 1)
+
+Facilitates cellular uptake of carotenoids and retinol.
+
+Variants reduce absorption efficiency, impacting bioavailability612.
+
+CYP26B1
+
+Regulates retinoic acid degradation.
+
+Mutations alter retinoic acid levels, influencing cell differentiation and cancer treatment outcomes816.
+
+TTR (Transthyretin)
+
+Partners with RBP4 to prevent renal excretion of retinol.
+
+Mutations disrupt transport, lowering circulating retinol812.
+
+RAR/RXR (Retinoic Acid Receptor/Retinoid X Receptor)
+
+Mediate genomic effects of retinoic acid.
+
+Polymorphisms in these receptors or their response elements affect gene regulation, altering vitamin A’s anti-cancer activity1617.
+
+Implications for Cancer Therapy
+Retinoid Resistance: Tumours with reduced RARβ expression or altered RAR/RXR signalling pathways may resist retinoid therapies416.
+
+Ethnic Variability: Allele frequencies of SNPs (e.g., in BCMO1) differ across populations, contributing to disparities in vitamin A status and efficacy1215.
+
+GWAS Insights: A 2024 study identified eight common, and one rare genetic variant linked to circulating retinol levels, highlighting roles in lipid metabolism and energy homeostasis. Mendelian randomisation suggested retinol influences inflammation and adiposity, which may modulate cancer risk15.
+
+Clinical Applications
+Personalised Supplementation: Genetic testing for variants (e.g., BCMO1, RBP4) can identify individuals prone to deficiency or poor retinoid response, enabling tailored diets or direct retinol supplementation612.
+
+Therapeutic Targeting: In non-small cell lung cancer (NSCLC), ALDH1-positive cancer stem cells are depleted by retinoic acid axis modulation, suggesting genotype-specific treatment strategies47.
+
+Summary Table
+Gene	Function	Impact of Variants	Cancer Relevance
+BCMO1	Beta-carotene → retinol conversion	Reduced retinol synthesis	Limits dietary efficacy in prevention
+RBP4	Retinol transport	Lower serum retinol, tissue deficiency	Affects therapeutic bioavailability
+CYP26B1	Retinoic acid degradation	Altered retinoic acid levels	Influences differentiation therapy
+RAR/RXR	Gene regulation via retinoic acid	Impaired tumour suppression pathways	Linked to retinoid resistance in cancers
+These genetic insights underscore the need for personalised approaches to vitamin A supplementation and therapy, particularly in oncology, where efficacy depends on individual metabolic and genomic profiles.

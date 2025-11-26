@@ -1,0 +1,58 @@
+BOOK REVIEW 
+Lifespan: Why We Age—and Why We Don't Have To
+Author(s)
+David A. Sinclair, PhD, AO, and Matthew D. LaPlante
+Synopsis
+“Lifespan” delves into the latest scientific advancements that explain how we age and proposes practical strategies for enhancing longevity. The authors explore the role of genes, epigenetics, and cellular mechanisms in ageing, notably focusing on sirtuins and the energy molecule NAD (nicotinamide adenine dinucleotide), as well as the benefits of lifestyle changes like fasting and exercise. The text interweaves personal anecdotes and historical insights, creating a narrative that is both informative and engaging.
+
+lifespan - book cover
+Get Your Copy Here
+Amazon Logo
+Audible Logo
+Amazon Kindle Logo
+Introduction
+I chose to review this book after listening to it on Audible. I found it to be interesting, inciteful, and engaging throughout.
+
+I do hope you will take the time to read or listen yourself.
+
+In “Lifespan,” leading scientist David Sinclair presents groundbreaking insights into the ageing process, positioning it not simply as an inevitable aspect of life, but rather a disease that can be treated. Sinclair’s extensive research has illuminated the complex mechanisms behind ageing, paving the way for potential interventions that could allow humans to extend their health span—the period in which one remains healthy—alongside lifespan.
+
+Review
+Sinclair’s assertions align with the emerging consensus among scientists, particularly those involved in metabolic therapy, that cancer and many age-related diseases are fundamentally metabolic in nature. This dovetails with Professor Thomas Seyfried’s research, which posits that cancer can be characterised and potentially treated as a metabolic disease, amplifying the importance of understanding and manipulating cellular metabolism.
+
+His exploration of sirtuins—specifically SIRT1—provides insight into how caloric restriction can activate pathways that enhance cellular health and longevity. His discussions on NAD underscore the potential for supplements as a means to support metabolic functions that decline with age. Sinclair advocates for a multi-faceted approach to prolong lifespan, incorporating not only scientific insights and genetics but also changes in diet, exercise, and overall lifestyle.
+
+One of the most compelling arguments made in “Lifespan” is the notion that society has inadvertently accepted ageing as an unchangeable process. His visionary stance challenges us to rethink our relationship with ageing and its accompanying diseases, including cancer, which Seyfried discusses extensively. The emphasis shifts from merely treating diseases to preventing them at their root by addressing the underlying metabolic dysfunctions that lead to them.
+
+Sinclair’s assertions align with the emerging consensus among scientists, particularly those involved in metabolic therapy, that cancer and many age-related diseases are fundamentally metabolic in nature. This dovetails with Professor Thomas Seyfried’s research, which posits that cancer can be characterised and potentially treated as a metabolic disease, amplifying the importance of understanding and manipulating cellular metabolism.
+
+His exploration of sirtuins—specifically SIRT1—provides insight into how caloric restriction can activate pathways that enhance cellular health and longevity. His discussions on NAD underscore the potential for supplements as a means to support metabolic functions that decline with age. Sinclair advocates for a multi-faceted approach to prolong lifespan, incorporating not only scientific insights and genetics but also changes in diet, exercise, and overall lifestyle.
+
+One of the most compelling arguments made in “Lifespan” is the notion that society has inadvertently accepted ageing as an unchangeable process. His visionary stance challenges us to rethink our relationship with ageing and its accompanying diseases, including cancer, which Seyfried discusses extensively. The emphasis shifts from merely treating diseases to preventing them at their root by addressing the underlying metabolic dysfunctions that lead to them.
+
+Memorable Quotes
+“Aging is a disease, and that disease is treatable.”
+“We share survival genes with every organism on the planet, from trees to humans.”
+“If one species has figured out how to defy ageing, then it stands to reason that we can, too.”
+Conclusion
+“Lifespan: Why We Age—and Why We Don’t Have To” is a vital read for anyone interested in understanding the complex interplay between metabolism and ageing. Sinclair not only poses challenging questions regarding the inevitability of ageing but also offers hope through practical guidance drawn from cutting-edge research. By embracing a metabolic approach to health, readers are encouraged to take active steps toward enhancing their longevity, echoing the principles championed by Professor Seyfried. Overall, Sinclair’s work represents a significant contribution to the discourse on ageing and longevity, shaping the future of how we approach age-related diseases.
+
+This book serves as a cornerstone for both scientific understanding and public discourse on health span and lifespan enhancement, making it essential reading for professionals and laypeople alike. It nudges us closer to redefining what it means to age in a world that is rapidly evolving through science and medicine.
+
+ Table
+Drug Name	Reason Mentioned	Availability
+Resveratrol	Activates sirtuins; found in red wine, linked to longevity studies.	Available as a supplement
+NAD	Essential molecule that boosts sirtuin activity.	Available as a supplement
+Nicotinamide Riboside (NR)	Precursor to NAD; enhances NAD levels and activates sirtuins.	Available as a supplement
+Nicotinamide Mononucleotide (NMN)	Precursor to NAD; increases its levels and activates sirtuins.	Available as a supplement
+Fisetin	Natural polyphenol; identified as a SIRT1-activating compound.	Available as a supplement
+Butein	Another natural polyphenol with sirtuin-activating properties.	Available as a supplement
+Quercetin	Senolytic agent; tested with dasatinib for increasing lifespan in studies.	Available as a supplement
+SRT1720	Synthetic compound; more potent than resveratrol for sirtuin activation.	Prescription only
+SRT2104	Another synthetic sirtuin activator; potential lifespan extension properties.	Prescription only
+Metformin	Anti-cancer drug; reduces incidence of various cancers, also used for diabetes.	Prescription only
+Rapamycin	Inhibits mTOR pathway; mimics caloric restriction, potential anti-cancer effects.	Prescription only
+Dasatinib	Chemotherapy drug; used as a senolytic agent in cancer treatment.	Prescription only
+CAR-T Therapy	Immunotherapy; enhances immune response against cancer cells.	Prescription only
+Checkpoint Inhibitors (e.g., PD-1, PD-L1 inhibitors)	Immunotherapy; increases immune attack on cancer cells.	Prescription only
+Everolimus	Enhances immune response; mentioned in relation to vaccination outcomes.	Prescription only

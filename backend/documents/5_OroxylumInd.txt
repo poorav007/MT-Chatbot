@@ -1,0 +1,433 @@
+Supplement
+Oroxylum indicum
+Oroxylum indicum is a medicinal plant rich in bioactive compounds, particularly flavonoids and alkaloids, that exhibits anti-inflammatory properties and shows potential anti-cancer effects in preliminary studies.
+Oroxylum indicum
+Cancer Impact Summary
+Click  to Learn More
+
+Induces Apoptosis
+Yes
+Inhibit Cell Proliferation
+Yes
+Target Specific Pathways
+Yes
+Angiogenesis Inhibition
+No
+Role in Immunotherapy
+No
+Anti-Inflammatory Properties
+Yes
+Full Supplement Details
+
+Oroxylum indicum (Indian trumpet tree) has emerged as a promising candidate in cancer research, with multiple studies demonstrating its ability to combat cancer through diverse biological pathways. This Ayurvedic plant contains potent flavonoids like chrysin, oroxylin A, and baicalein, which work synergistically to inhibit tumour growth, induce apoptosis, and suppress metastasis145.
+
+Key Anti-Cancer Mechanisms
+1. Apoptosis Induction
+
+Activates Caspase-3/7 and upregulates pro-apoptotic proteins (Bax, p53) while downregulating anti-apoptotic Bcl-211113.
+
+Disrupts mitochondrial function in cancer cells, triggering programmed cell death11.
+
+2. Cell Cycle Arrest
+
+Suppresses DNA synthesis by arresting cells at G0/G1 and G2/M phases213.
+
+Inhibits cancer cell proliferation in cervical (HeLa), breast (MDA-MB-231), and liver (HepG2) cancers2713.
+
+3. Multi-Pathway Modulation
+
+Targets EGFR/PI3K/AKT and p53/VEGF pathways to block tumour progression27.
+
+Reduces expression of viral oncoproteins (E6/E7) in HPV-related cancers2.
+
+Evidence from Recent Studies
+2024 Discovery: A novel chrysin-oroxylin A co-crystal from O. indicum leaves showed significant cytotoxicity against HeLa cells (IC₅₀: 112.84 µg/mL) with minimal harm to healthy cells1.
+
+In Vivo Efficacy: Root bark extract reduced tumour volume by 61.84% in solid tumours and increased survival rates by 34.97% in ascites models13.
+
+Anti-Metastatic Action: Suppressed migration and angiogenesis in liver cancer via microfluidic chip models, reducing neovascularisation by 50%7.
+
+Safety Profile
+Studies report low toxicity to non-cancerous cells at therapeutic doses, with no observed haematological toxicity in murine models213.
+
+Future Directions
+While preclinical results are compelling, clinical trials are needed to validate efficacy in humans. The plant’s multi-target flavonoid cocktail positions it as a potential adjuvant therapy, particularly for HPV-associated and hormone-related cancers. Researchers emphasise isolating bioactive compounds like baicalein-7-O-glucuronide for targeted drug development51013.
+
+This ancient medicinal plant bridges traditional knowledge and modern oncology, offering a natural scaffold for next-generation anti-cancer strategies.
+
+Dosage
+
+Research indicates that preliminary dosage guidelines exist for Oroxylum indicum, though formal human safety studies remain limited.
+
+Here’s the current understanding:
+
+Established Dosage Ranges
+1. Human Trials
+
+A 12-week clinical trial using Sabroxy® (standardised bark extract) demonstrated safety at 500 mg twice daily (1,000 mg/day) in adults9. This extract contained 10% oroxylin A, 6% chrysin, and 15% baicalein.
+
+2. Traditional Ayurvedic Use
+
+Powder: 3-6 grams/day (divided into two doses)2
+
+Decoction: 50-100 mL twice daily2
+
+3. Preclinical Studies
+
+Murine models: Effective antitumor activity observed at 200-400 mg/kg body weight for root bark extracts7, with no observed toxicity up to 5 g/kg in acute studies7.
+
+Liver safety: 500 mg/kg/day of stem bark extract (OIEA) showed no hepatotoxicity in mice over 4 weeks4.
+
+Safety Considerations
+Common side effects: Mild gastrointestinal discomfort (nausea, bloating) in 17% of human trial participants9, consistent with traditional reports of possible stomach upset2.
+
+Haematological safety: No adverse effects on blood cells observed in tumour-bearing mice7.
+
+Contraindications: Limited data for pregnancy/lactation; potential drug interactions with respiratory/digestive medications2.
+
+Key Gaps
+While the Sabroxy® formulation has undergone human testing9, traditional preparations lack modern clinical validation. Animal studies suggest a wide safety margin, but human equivalency dosing requires further research. Current evidence supports short-term use of standardised extracts at tested doses, with Ayurvedic preparations requiring professional guidance279.
+
+For therapeutic applications, clinicians increasingly recommend standardised extracts over raw plant material due to better quality control and dosage consistency9.
+
+Cancer Types Tested Against
+Leukemia
+
+Side Effects
+
+Research indicates Oroxylum indicum is generally well-tolerated but may cause mild to moderate side effects in some individuals, particularly with improper dosing or specific health conditions.
+
+Here’s a breakdown of documented effects:
+
+Common Adverse Effects
+1. Gastrointestinal Discomfort
+
+Frequency: 17% of participants in human trials23
+
+Symptoms: Loose stools, nausea, bloating (most frequent), constipation15
+
+Resolution: Typically, mild and transient, resolving without intervention2
+
+2. Neurological Effects
+
+Headaches reported in 3% of clinical trial participants (1 withdrawal due to persistent headaches)23
+
+Safety Considerations
+Contraindications
+
+Pregnancy/Lactation: No safety data exists; traditional use advises avoidance15
+
+Autoimmune Disorders: May exacerbate symptoms due to immunomodulatory effects1
+
+Paediatric Use: No established safety profile for children1
+
+Toxicity Profile
+Animal Studies
+
+No observed toxicity at 5 g/kg doses in acute studies4
+
+No haematological toxicity or organ damage in tumour-bearing mice4
+
+Negative genotoxicity results in comet assays (DNA safety)4
+
+Human Trials
+
+Standardised extract (Sabroxy® at 500 mg twice daily) showed:
+
+No blood pressure changes2
+
+No serious adverse events over 12 weeks3
+
+83% of users experienced no side effects2
+
+Risk Mitigation
+Standardised Extracts: Show better safety profiles than raw plant material24
+
+Dose Dependency: Gastrointestinal effects correlate with higher doses1
+
+Allergy Potential: Rare hypersensitivity reactions reported5
+
+While preclinical data suggests broad safety, human studies remain limited to 12-week trials. Ayurvedic practitioners recommend professional guidance for traditional preparations due to variable phytochemical concentrations in raw plant material15.
+
+Combination Therapies
+
+Research shows Oroxylum indicum has been tested in combination therapies, demonstrating synergistic effects in both cancer treatment and metabolic management.
+
+Here’s an overview of key findings:
+
+Pharmaceutical Combinations
+1. Gemcitabine Synergy (Cholangiocarcinoma)
+
+Mechanism: Combined treatment with O. indicum extract enhances apoptosis by reducing epidermal growth factor receptor (EGFR) expression and increasing caspase-3 activity5.
+
+Outcome: Improved cancer cell death compared to gemcitabine alone, with reduced drug resistance.
+
+2. Acarbose Pairing (Diabetes Management)
+
+Dosage: 50–200 mg/kg Oroxylum seed extract + acarbose2.
+
+Result:
+
+Synergistic inhibition of α-glucosidase (CI: 0.33–0.75)
+
+5-fold enhancement of acarbose efficacy in diabetic mice
+
+Herbal Combinations
+1. Anti-Cancer Cocktails
+
+DLA Tumour Model: Combined with Catharanthus roseus, Commiphora mukul, and Cynodon dactylon6:
+
+Increased DNA fragmentation (apoptosis marker) in lymphoma cells
+
+Reduced tumour proliferation via genotoxic effects
+
+2. Anti-Inflammatory Blends
+
+Honeysuckle Flower Pairing: 1:1 ratio with O. indicum4:
+
+Acute inflammation: 50% Edema reduction at 1.92 g/kg/day
+
+Chronic inflammation: 38% granuloma suppression
+
+Key Benefits of Combinations
+Enhanced Bioactivity: Flavonoids like baicalein amplify conventional drug effects (e.g., acarbose)2.
+
+Multi-Target Action: Simultaneous modulation of EGFR, PI3K/AKT, and apoptotic pathways15.
+
+Reduced Side Effects: Lower doses of individual components achieve therapeutic effects24.
+
+Current Limitations
+Most studies are preclinical (mice/rats), with limited human trials.
+
+Optimal ratios and dosing schedules for herbal combinations require standardisation.
+
+These findings position O. indicum as a versatile adjuvant therapy, particularly for enhancing conventional treatments while mitigating toxicity.
+
+Links to Scientific Studies
+
+– US National Library of Medicine research on Oroxylum indicum
+
+– Europe PMC research on Oroxylum indicum
+
+– Pubmed research on Oroxylum indicum
+
+Quality of Life Effects
+
+Oroxylum indicum demonstrates potential quality-of-life benefits through cognitive preservation and symptom management, though direct clinical evidence remains limited.
+
+Key findings from preclinical and human studies include:
+
+Cognitive Function Preservation
+Chemotherapy Patients: In murine models, 500 mg/kg OIE prevented chemotherapy-induced cognitive decline in spatial learning (Morris Water Maze) and object recognition tasks2.
+
+Older Adults: A 12-week human trial (500 mg twice daily) showed improved episodic memory and numeric working memory versus placebo, though no significant changes in overall MoCA scores or self-reported CASP-19 quality-of-life metrics1.
+
+Symptom Management
+Neuroprotection: Reduced oxidative stress markers (ROS ↓50%, lipid peroxides ↓45%) in chemo-treated mice2, potentially mitigating “chemo brain” fatigue.
+
+Safety Profile:
+
+No hepatotoxicity observed at 500 mg/kg over 4 weeks5.
+
+Mild GI discomfort (17% incidence) and headaches (3%) as primary adverse effects1.
+
+Functional Improvements
+Metric	Impact
+Exploratory Behaviour	Restored normal patterns in 67% of chemo-treated mice2
+Daily Function	34% faster learning rate in location tasks (human trial)1
+Treatment Burden	No drug interactions reported with common chemo agents25
+While preclinical models suggest QoL benefits through cognitive protection, human trials show modest cognitive enhancements without significant quality-of-life scale improvements. Current evidence supports its role as a well-tolerated adjuvant rather than a standalone QoL enhancer, particularly for patients undergoing neurotoxic therapies. Further research should prioritise cancer-specific QoL metrics like FACT-G scales.
+
+Answers to all your questions
+We’ve done our best to include as much information as possible for this supplement. 
+
+If you have any other questions, please send us a message or join our Skool Group and ask our knowledgeable and friendly community.
+
+How accessible is this supplement?
+Information on the regulatory status and accessibility of Oroxylum indicum varies depending on the country. It is generally classified as a dietary supplement rather than a regulated medicine. It can be procured through health food stores and online retailers.
+
+What patient demographic Does this work Best for?
+Current research on Oroxylum indicum’s efficacy lacks human demographic data, but preclinical studies suggest potential therapeutic correlations with specific cancer types and treatment contexts:
+
+Preclinical Insights
+1. Cancer-Type Specificity
+
+Oral Squamous Cell Carcinoma:
+
+HSC-3 cell line showed dose-dependent apoptosis at 50 µg/mL5.
+
+No toxicity to normal WI-38 cells, suggesting selectivity for malignant oral tissues5.
+
+Lymphoma/Solid Tumours:
+
+BALB/c mice with Dalton’s lymphoma saw 61.84% tumour reduction at 400 mg/kg4.
+
+Ehrlich ascites carcinoma survival increased by 34.97%4.
+
+2. Chemotherapy-Adjuvant Profile
+
+Male C57BL/6J mice receiving OIE (250–500 mg/kg) showed neuroprotection during doxorubicin/cyclophosphamide therapy3.
+
+Emerging Biomarkers
+Factor	Preclinical Evidence
+Dose	Higher efficacy at 400 mg/kg (mice) vs. 200 mg/kg4
+Cancer Stage	Greater impact on early-stage tumours (skin papilloma prevention)4
+Cell Type	Selective cytotoxicity for metastatic breast (MDA-MB-231) and oral (HSC-3) cancers25
+Human Data Gaps
+No clinical trials have assessed age, sex, or ethnic variables.
+
+The Sabroxy® trial (500 mg twice daily) focused on general safety, not oncology [Prior Answer Context].
+
+Future Directions
+Key targets for demographic research:
+
+HPV-associated cancers (oral, cervical) due to E6/E7 oncoprotein inhibition [Prior Answer Context].
+
+Patients with chemotherapy-induced cognitive impairment.
+
+Solid tumours resistant to conventional therapies.
+
+While O. indicum shows promise in preclinical models, human trials are required to identify optimal patient subgroups. Current evidence supports prioritisation of oral cancers and lymphoma subtypes for clinical investigation.
+
+Are there any known resistance mechanisms?
+Research indicates that while Oroxylum indicum demonstrates potent anticancer activity, its efficacy may be influenced by cancer cells’ inherent resistance mechanisms.
+
+Key findings include:
+
+Identified Resistance Factors
+1. Apoptosis Evasion
+
+Caspase-3 Dysregulation: Some cancer cells exhibit reduced caspase-3 activation, potentially diminishing the extract’s ability to induce apoptosis via this pathway35.
+
+Anti-Apoptotic Proteins: Upregulation of Bcl-2 family proteins could counteract the pro-apoptotic effects of flavonoids like chrysin and baicalein4.
+
+2. EGFR/PI3K Pathway Adaptation
+
+Overexpression or mutations in EGFR may reduce sensitivity to O. indicum’s growth-inhibitory effects, particularly in cholangiocarcinoma5.
+
+3. ROS Scavenging Systems
+
+Enhanced antioxidant defences (e.g., glutathione overexpression) in cancer cells may neutralise the extract’s ROS-mediated cytotoxicity35.
+
+4. DNA Repair Mechanisms
+
+PARP1 overexpression could counteract DNA damage induced by the extract’s flavonoid-glycoside complexes3.
+
+Synergistic Strategies to Overcome Resistance
+Mechanism	Intervention	Outcome
+Gemcitabine Combination	Co-treatment reduces EGFR expression by 60% compared to monotherapy	Enhances apoptosis in resistant cholangiocarcinoma cells5
+ROS Amplification	Pairing with pro-oxidants	Overcomes antioxidant defences in EGFR-mutant cells5
+Cell Cycle Modulation	Targeting G2/M checkpoints	Counters resistance linked to S-phase arrest in aggressive subtypes5
+Key Biomarkers of Concern
+MMP-9: Reduced inhibition of this metalloproteinase correlates with increased metastatic potential in resistant cells5.
+
+p53 Status: Mutant p53 tumours may show reduced response to baicalein-7-O-glucuronide’s apoptotic effects34.
+
+While no studies explicitly document O. indicum-specific resistance, preclinical models suggest its efficacy depends on intact apoptotic machinery and unaltered EGFR signalling. Current strategies focus on combining extracts with conventional therapies to bypass these resistance pathways35. Further research is needed to characterise resistance in HPV-associated cancers and tumours with stem cell-like plasticity12.
+
+Have there been any preclinical studies?
+Preclinical studies on Oroxylum indicum have extensively explored its anticancer potential across multiple cancer types and experimental models.
+
+Key findings include:
+
+Oral Cancer Models
+1. 4-Nitroquinoline-1-oxide (4NQO)-Induced Oral Squamous Cell Carcinoma
+
+Dosage: Ethyl acetate stem bark extract (OIEA) at 500 mg/kg reduced tumour volume by 60% and increased survival in rats35.
+
+Mechanism:
+
+Inhibited EGFR/PI3K/AKT signalling via oroxylin A (identified as the primary active compound)3.
+
+Increased pro-apoptotic markers (Bax, Caspase-3) and reduced anti-apoptotic Bcl-23.
+
+Cervical Cancer
+1. SiHa Cell Line (HPV-16 Positive)
+
+Methanol extract:
+
+Reduced viral oncoproteins E6/E7 by 40–50%, restoring p53 and pRb tumour suppressor activity5.
+
+Increased Caspase-3 and -9 expression by 2–3-fold, inducing apoptosis5.
+
+HeLa Cells:
+
+Stem bark extract induced G1/S cell cycle arrest (IC₅₀: 112.84 µg/mL)6.
+
+Lymphoma and Ascites Carcinoma
+1. Dalton’s Lymphoma (DLA) and Ehrlich Ascites Carcinoma (EAC)
+
+Root bark extract (OIM):
+
+Solid tumours: Reduced tumour volume by 54–62% (200–400 mg/kg)2.
+
+Ascites models: Increased survival rates by 34.97% (high dose)2.
+
+Safety: No haematological toxicity observed, contrasting with cyclophosphamide-induced anemia2.
+
+Multi-Cancer Cytotoxicity
+Cancer Type	Cell Line	IC₅₀ (µg/mL)	Mechanism
+Colon	HCT15	92.43	G1/S cell cycle arrest5
+Breast	MDA-MB-231	133.0	Apoptosis via p53 activation5
+Liver	HepG2	112.84	ROS-mediated cytotoxicity5
+Key Mechanisms
+Apoptosis Induction:
+
+Upregulates Caspase-3/9, Bax, and FasL25.
+
+Downregulates Bcl-2 and NF-κB2.
+
+Pathway Modulation:
+
+Suppresses EGFR/PI3K/AKT in oral cancer3.
+
+Inhibits COX-2 and TNF-α in inflammation-driven tumors1.
+
+Chemoprotection:
+
+Mitigates cyclophosphamide-induced myelosuppression while maintaining antitumor efficacy2.
+
+Safety Profile
+Selective cytotoxicity: No toxicity observed in normal splenocytes2 or WI-38 lung fibroblasts3.
+
+Organ protection: Ameliorates 4NQO-induced hepatotoxicity and nephrotoxicity in rats3.
+
+These studies position O. indicum as a multi-target anticancer agent with efficacy in HPV-related, hormone-sensitive, and solid tumours. However, human trials are needed to validate these preclinical findings2356.
+
+Are there current clinical trials?
+Currently, there are no identifiable active clinical trials specifically focusing on Oroxylum indicum for cancer treatment. Most research remains at the preclinical stage. Check for updates at clinicaltrials.gov.
+
+Are there genetic markers that might affect effectiveness?
+Research indicates that genetic factors in Oroxylum indicum influence its therapeutic potential, though direct links to efficacy-related genetic markers remain underexplored. Key findings from recent studies include:
+
+Genetic Diversity and Biomarker Production
+Phenotype-Specific Variations
+
+Short-stem phenotypes show 25% higher total flavonoids (baicalin, baicalein, oroxylin A) than tall-stem variants7.
+
+Anti-inflammatory activity remains consistent across phenotypes despite chemical profile differences7.
+
+Conservation Concerns
+
+ISSR marker analyses reveal <40% polymorphism across Indian populations, indicating narrow genetic diversity356.
+
+Low genetic variability may limit adaptive potential but ensures relatively stable phytochemical profiles6.
+
+Chemotype Implications
+Biomarker	Concentration Range	Phenotype Correlation
+Chrysin	0.8–1.2% (bark)	Higher in ethanol extracts linked to p53 activation8
+Oroxylin A	4.7–6.3% (OIEA)	Dominant in stem bark extracts targeting EGFR/PI3K4
+Baicalein	0.5–1.8 mg/g (leaves)	Short-stem variants yield 15% more than tall-stem7
+Key Limitations
+No genome-wide association studies (GWAS) mapping specific markers to bioactivity.
+
+RAPD/ISSR analyses focus on conservation genetics rather than therapeutic correlations135.
+
+Emerging Insights
+Mevalonate Pathway Modulation
+Leaf extracts reduce Rac1 protein expression by 40–60%, suggesting genetic regulation of terpenoid biosynthesis pathways2.
+
+p53 Activation Mechanism
+Chrysin-rich bark extracts activate ATM-Chk2-p53 signalling without DNA damage, a trait potentially linked to flavonoid biosynthesis genes8.
+
+While genetic markers directly affecting efficacy remain uncharacterised, phenotype-driven chemotypic variations significantly influence therapeutic compound concentrations. Conservation strategies prioritising short-stem variants could enhance batch-to-batch consistency in anticancer formulations.

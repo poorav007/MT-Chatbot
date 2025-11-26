@@ -1,0 +1,397 @@
+Supplement
+Vitamin K2
+Vitamin K2 is a group of fat-soluble vitamins (menaquinones) that primarily function as a cofactor for enzymes involved in calcium metabolism, bone health, and blood clotting.
+Vitamin K2
+Cancer Impact Summary
+Click  to Learn More
+
+Induces Apoptosis
+Yes
+Inhibit Cell Proliferation
+Yes
+Target Specific Pathways
+Yes
+Angiogenesis Inhibition
+No
+Role in Immunotherapy
+No
+Anti-Inflammatory Properties
+Yes
+Full Supplement Details
+
+Vitamin K2 (VK2) has emerged as a promising agent in cancer therapy, demonstrating anti-cancer effects across a variety of malignancies, including liver, leukaemia, ovarian, pancreatic, breast, and bladder cancers157. Its mechanisms of action are multi-faceted, targeting cancer cell growth and survival through several biological pathways.
+
+Key Anti-Cancer Mechanisms of Vitamin K2
+Cell-Cycle Arrest and Differentiation
+VK2 can inhibit the proliferation of cancer cells by inducing cell-cycle arrest, particularly at the G1 phase, thereby preventing cancer cells from progressing through their growth cycle16. It also promotes the differentiation of malignant cells, making them less aggressive and more susceptible to therapeutic interventions7.
+
+Induction of Apoptosis and Autophagy
+VK2 triggers programmed cell death (apoptosis) and autophagy in cancer cells. For example, in bladder cancer, VK2 induces metabolic stress, activating the AMPK pathway and suppressing mTORC1, which leads to autophagic cell death3. This process is further enhanced under glucose-limited conditions, suggesting VK2 may exploit metabolic vulnerabilities unique to cancer cells3.
+
+Suppression of Tumour Invasion
+In vitro studies have shown that VK2 can suppress the invasion and metastatic potential of various cancer cell lines, further limiting tumour progression1.
+
+Modulation of Key Metabolic Pathways
+VK2 influences cancer cell metabolism, notably by promoting glycolysis while suppressing the TCA cycle in bladder cancer cells. This metabolic shift can induce cellular stress and death in tumours reliant on altered energy production pathways3.
+
+Antioxidant and Anti-Apoptotic Effects
+VK2 exhibits antioxidant properties, reducing reactive oxygen species (ROS) and protecting cells from oxidative damage. In neuronal models, VK2 pre-treatment reduced apoptosis and increased glutathione levels, suggesting a broader cytoprotective role that may also be relevant in cancer contexts2.
+
+Evidence from Clinical and Animal Studies
+Clinical Case Reports and Trials
+Several case reports highlight VK2’s clinical potential. For instance, VK2 administration led to remission in patients with myelodysplastic syndrome and acute promyelocytic leukaemia, especially when combined with other agents like retinoic acid17. In liver cancer, VK2 supplementation has been associated with reduced recurrence rates and improved prognosis after surgical treatment47.
+
+Animal Studies
+In animal models, VK2 significantly inhibited tumour growth in hepatocellular carcinoma (HCC) and colorectal cancer without notable toxicity15. VK2-treated mice displayed reduced tumour sizes and improved survival rates, supporting its safety and efficacy profile35.
+
+Potential for Combination Therapy
+VK2 may enhance the efficacy of conventional chemotherapeutics while reducing their side effects. Combination treatments have shown additive or synergistic effects in both preclinical and clinical settings, making VK2 a valuable adjunct in cancer management16.
+
+Safety Profile
+VK2 is generally well-tolerated, with minimal toxicity observed in both clinical and animal studies, further supporting its use as a therapeutic or preventive agent in oncology15.
+
+Summary Table: Anti-Cancer Actions of Vitamin K2
+Mechanism	Evidence Type	Cancer Types Studied	Key Findings
+Cell-cycle arrest	In vitro, animal	HCC, leukaemia, ovarian, others	Inhibits proliferation, induces differentiation
+Apoptosis & autophagy	In vitro, animal	Bladder, liver, leukaemia, ovarian	Triggers cell death, especially under metabolic stress
+Metabolic pathway modulation	In vitro, animal	Bladder	Promotes glycolysis, induces metabolic stress
+Suppression of invasion	In vitro	Multiple	Reduces metastatic potential
+Clinical outcomes	Case reports, trials	HCC, leukaemia, myelodysplastic synd.	Reduced recurrence, remission, improved prognosis
+Combination therapy	Clinical, preclinical	Multiple	Enhanced efficacy, reduced side effects
+Conclusion
+Vitamin K2 demonstrates significant anti-cancer properties through multiple mechanisms, including cell-cycle arrest, induction of apoptosis and autophagy, metabolic modulation, and suppression of tumour invasion. Clinical and preclinical evidence supports its potential as both a standalone and adjunctive therapy in various cancers, with a strong safety profile and minimal toxicity13567. Further research and well-designed clinical trials are warranted to fully elucidate its therapeutic potential and optimal application in cancer care.
+
+Dosage
+
+A recommended safe dosage for vitamin K2 has not been officially established as a maximum limit, but current evidence indicates that it is well tolerated and safe across a broad range of doses. For general health, the typical adequate intake (AI) for vitamin K (all forms) is 120 micrograms (mcg) per day for adult men and 90 mcg per day for adult women, including those who are pregnant or breastfeeding158.
+
+For vitamin K2 specifically, most supplement products and studies use doses in the range of 50–180 mcg per day for the MK-7 subtype, with some research using up to 360 mcg per day for cardiovascular benefits578. In Japan and some clinical studies, much higher doses of the MK-4 subtype (up to 45 milligrams, or 45,000 mcg per day) have been used safely, particularly for bone health and certain medical conditions4789.
+
+No upper tolerable intake level (UL) has been set for vitamin K2, as there is no evidence of toxicity from high oral doses in healthy individuals58. Doses up to 45 mg per day have been administered for up to two years without reports of harm5. The most commonly reported side effects are mild gastrointestinal symptoms, such as nausea or diarrhoea, and these are rare5.
+
+However, vitamin K2 can interact with anticoagulant medications such as warfarin, potentially affecting blood clotting. Individuals on these medications should only take vitamin K2 under medical supervision589.
+
+Summary Table: Commonly Used and Safe Vitamin K2 Dosages
+K2 Subtype	Common Daily Dosage	High Dose in Studies	Safety/Toxicity Evidence
+MK-7	50–180 mcg	Up to 360 mcg	No toxicity reported
+MK-4	1–45 mg (1,000–45,000 mcg)	Up to 45 mg	No toxicity reported
+In summary, vitamin K2 is considered safe at both standard and high supplemental doses, with no established toxicity in healthy adults. For most people, a daily dose of 100–180 mcg (MK-7) is typical, while much higher doses (up to 45 mg MK-4) are used in some clinical settings. Always consult a healthcare provider before starting high-dose supplementation, especially if you are taking blood-thinning medication56789.
+
+Cancer Types Tested Against
+Bile Duct Cancer, Breast Cancer, Colorectal Cancer, Leukemia, Liver Cancer, Lung Cancer, Ovarian Cancer, Pancreatic Cancer, Stomach Cancer
+
+Side Effects
+
+Clinical and Research Evidence
+Multiple clinical studies and case reports investigating vitamin K2 (VK2) as an anti-cancer agent—using doses up to and exceeding 40 mg per day—have found VK2 to be remarkably safe. Notably, no significant side effects were reported, even at these high therapeutic doses used in cancer therapy523.
+
+Specifically, studies in patients with leukaemia, liver cancer, and ovarian cancer have documented the absence of adverse effects, including those related to blood clotting, even at daily doses of 45 mg (MK-4 subtype), which are much higher than typical nutritional intakes52.
+
+In a large, randomised, controlled trial in hepatocellular carcinoma (HCC) patients, vitamin K2 at both 45 mg and 90 mg daily did not increase the incidence of adverse effects compared to placebo23.
+
+Summary Table: Side Effects and Safety at Therapeutic Doses
+Dose Range (per day)	Cancer Types Studied	Reported Side Effects	Notes
+Up to 40 mg (MK-4)	Ovarian, leukaemia, liver	None observed	No hypercoagulability or other adverse effects, even at high doses5
+45–90 mg (MK-4)	Liver (HCC, post-surgery)	None observed	No increase in adverse effects vs placebo in large RCTs23
+Key Points
+No side effects from vitamin K2 therapy were observed in any clinical studies, even at doses exceeding 40 mg per day5.
+
+There were no reports of hypercoagulable states or other significant adverse reactions, supporting the excellent safety profile of VK2, even at therapeutic doses for cancer52.
+
+This safety profile contrasts with vitamin K3 (menadione), which is known to be toxic at high doses, while K2 is not3.
+
+Some sources suggest that the only notable risk is for individuals taking anticoagulant medications (such as warfarin), as vitamin K2 can interfere with these drugs’ effects on blood clotting. Such individuals should only use VK2 under medical supervision.
+
+Conclusion
+Vitamin K2, even at high therapeutic doses used in cancer treatment (up to 90 mg per day), is consistently reported to be well tolerated and free from significant side effects in both clinical and research settings523. This makes VK2 a promising adjunct or alternative in cancer therapy, with an excellent safety margin for most patients.
+
+Combination Therapies
+
+Vitamin K2 (VK2) has been extensively tested in combination with conventional cancer therapies, demonstrating synergistic effects, enhanced efficacy, and reduced toxicity across multiple cancer types. Below is a detailed overview of key findings:
+
+Hepatocellular Carcinoma (HCC)
+Sorafenib:
+Combining VK2 with the multikinase inhibitor sorafenib synergistically inhibits HCC growth in vitro and in vivo. Pretreatment with VK2 enhances sorafenib’s ability to induce cell-cycle arrest (G0/G1 phase) and apoptosis, while reducing sorafenib-induced side effects. Animal studies showed significant tumour suppression in xenograft models, with no additional toxicity156.
+
+5-Fluorouracil (5-FU):
+VK2 augments 5-FU’s growth-inhibitory effects by suppressing NF-κB activation and cyclin D1 expression, leading to G1 cell-cycle arrest. This combination improves therapeutic outcomes in HCC cells without the toxicity typical of other 5-FU-based regimens6.
+
+Breast Cancer
+1,25(OH)₂D₃ (Vitamin D):
+VK2 enhances the tumour-suppressive effects of vitamin D in triple-negative breast cancer (TNBC) cells. Co-treatment induces G0/G1 cell-cycle arrest, differentiation, and apoptosis, with VK2 increasing vitamin D receptor (VDR) expression in some cell lines, thereby boosting sensitivity23.
+
+Ovarian Cancer
+Cisplatin and Etoposide:
+VK2 potentiates the effects of these chemotherapeutic agents by enhancing apoptosis and overcoming drug resistance. Preclinical studies suggest improved cell death rates when VK2 is combined with cisplatin or etoposide13.
+
+Leukaemia and Myelodysplastic Syndrome (MDS)
+All-trans Retinoic Acid (ATRA):
+Case reports highlight complete remission in acute promyelocytic leukaemia patients treated with VK2 and ATRA. VK2 monotherapy also improved haematopoiesis in MDS and post-MDS AML patients19.
+
+Vitamin D3:
+A clinical pilot study showed improved therapeutic response rates in leukaemia patients when VK2 was combined with vitamin D39.
+
+Pancreatic, Lung, and Prostate Cancers
+Preclinical evidence indicates VK2 enhances the efficacy of traditional chemotherapeutics in these cancers by promoting apoptosis and mitigating drug resistance1012.
+
+Mechanisms of Synergy
+Overcoming Drug Resistance:
+VK2 inhibits P-glycoprotein, a key mediator of multidrug resistance, and suppresses NF-κB pathways linked to chemoresistance68.
+
+Metabolic Modulation:
+VK2 induces metabolic stress in cancer cells, sensitising them to chemotherapy16.
+
+Safety Advantage:
+Unlike vitamin K3, VK2 exhibits no toxicity at high doses, making it ideal for combination regimens10.
+
+Clinical Implications
+A randomised controlled trial in HCC patients found VK2 (45–90 mg/day) safe and effective when combined with sorafenib or other agents514.
+
+Case reports and pilot studies support VK2’s role in improving prognosis and reducing recurrence in liver cancer and leukaemia19.
+
+Summary Table: Key Combination Therapies Involving Vitamin K2
+Cancer Type	Combined Agent(s)	Mechanism of Action	Outcome
+Hepatocellular	Sorafenib, 5-FU	Cell-cycle arrest, NF-κB suppression	Synergistic tumour suppression156
+Breast (TNBC)	1,25(OH)₂D₃	VDR upregulation, differentiation	Enhanced apoptosis23
+Ovarian	Cisplatin, etoposide	Apoptosis induction, resistance reversal	Improved cell death13
+Leukaemia/MDS	ATRA, vitamin D3	Haematopoiesis support, differentiation	Remission, reduced blastic cells19
+Pancreatic/Lung	Conventional chemo	P-glycoprotein inhibition	Reduced drug resistance810
+In conclusion, VK2’s ability to enhance conventional therapies while minimising toxicity positions it as a promising adjunct in cancer treatment.
+
+Further large-scale clinical trials are needed to validate these findings and establish optimal dosing protocols.
+
+Links to Scientific Studies
+
+US National Library of Medicine
+Europe PMC
+Pubmed
+
+Quality of Life Effects
+
+Vitamin K2 (VK2), even at therapeutic (high) doses used in cancer settings, appears to have a favourable impact on quality of life, with minimal side effects and several potential benefits supported by both clinical reports and animal studies.
+
+Clinical and Quality of Life Outcomes
+Improved Haematological Function and Independence
+In case reports, VK2 treatment in patients with myelodysplastic syndrome (MDS) led to significant improvements, such as alleviation of pancytopenia and elimination of the need for red-cell transfusions after 14 months of daily use. This indicates a direct positive effect on daily functioning and independence for patients with blood cancers1.
+
+Remission and Disease Control
+VK2, especially in combination with other agents (like all-trans retinoic acid), has been associated with complete remission in some leukaemia cases and suppression of tumour recurrence in liver cancer. This can translate to reduced disease burden, fewer symptoms, and potentially longer periods of stable health13.
+
+Minimal Side Effects and Good Tolerability
+Across multiple studies and case reports, VK2 has not been associated with significant adverse effects, even at high doses used in cancer therapy. Animal studies reinforce this, showing no observable negative impact on weight, appearance, or behaviour, suggesting that VK2 does not impair quality of life through toxicity or discomfort135.
+
+Potential for Reduced Side Effects from Other Therapies
+VK2 may enhance the efficacy of standard chemotherapeutics and, when used in combination, could allow for lower doses of more toxic drugs, potentially reducing the side effect burden and improving overall well-being1.
+
+Mechanisms Supporting Quality of Life
+Cellular Protection and Reduced Oxidative Stress
+VK2 has demonstrated antioxidant and anti-apoptotic properties in pre-clinical studies, protecting cells from oxidative damage and supporting cellular health. This could contribute to better energy levels and reduced fatigue, though direct clinical evidence in cancer patients is limited4.
+
+No Impact on Coagulation at Therapeutic Doses
+Even at high doses, VK2 does not induce a hypercoagulable state or significant changes in laboratory safety measurements, supporting its safety for long-term use5.
+
+Summary Table: Quality of Life Impact of VK2 at Therapeutic Doses
+Aspect	Observed Impact	Evidence Source
+Haematological function	Improved, reduced transfusion need	Clinical case reports1
+Disease control/remission	Achievable in some cases	Clinical case reports13
+Side effects	Minimal to none	Clinical/animal studies135
+Daily functioning	Maintained or improved	Clinical/animal studies13
+Combination therapy benefits	Potentially fewer side effects overall	Clinical reports1
+Coagulation risk	No increase at high doses	Clinical studies5
+Conclusion
+For patients taking VK2 at therapeutic levels for cancer, current evidence suggests a neutral to positive impact on quality of life. VK2 is well tolerated, does not introduce significant side effects, and may improve disease-related symptoms and independence, especially in haematological cancers. While more systematic quality of life data from large trials would be valuable, the available evidence supports VK2 as a safe adjunct or alternative therapy with the potential for meaningful quality of life benefits135.
+
+Answers to all your questions
+We’ve done our best to include as much information as possible for this supplement. 
+
+If you have any other questions, please send us a message or join our Skool Group and ask our knowledgeable and friendly community.
+
+How accessible is this supplement?
+Vitamin K2 is widely available as a dietary supplement. However, it has not been established as a treatment for cancer and more studies are required to validate the current findings.
+
+What patient demographic Does this work Best for?
+No specific patient demographic has been definitively established as most likely to benefit from vitamin K2 (VK2) therapy for cancer, but several trends and risk groups have emerged from clinical, epidemiological, and preclinical studies:
+
+1. Patients with Liver Disease or Cirrhosis
+
+Multiple studies and case reports highlight VK2’s potential to reduce the risk of hepatocellular carcinoma (HCC) and suppress tumour recurrence in patients with chronic liver disease, cirrhosis (including type C cirrhosis), and those who have undergone curative hepatectomy for HCC5. VK2 supplementation may be especially beneficial for these high-risk groups.
+
+2. Patients with Myelodysplastic Syndromes and Certain Leukaemias
+
+Case reports and small clinical studies indicate that VK2 can improve haematopoiesis and reduce the need for transfusions in elderly patients with myelodysplastic syndrome (MDS) and post-MDS acute myeloid leukaemia (AML)5. VK2 has also been used in combination with other agents in relapsed acute promyelocytic leukaemia, suggesting a role in select haematological malignancies.
+
+3. Populations with Sub-Optimal Vitamin K Status
+
+Sub-optimal vitamin K status is common, particularly in older adults, and may be linked to higher risk of chronic diseases, including cancer1. Therefore, older individuals or those with poor dietary vitamin K intake could potentially benefit more from supplementation.
+
+4. Patients at High Risk of Prostate and Lung Cancer
+
+Epidemiological data suggest that higher dietary intake of VK2 is associated with a reduced risk of developing prostate and lung cancers5. These findings point to possible preventive benefits in populations at elevated risk for these cancers.
+
+5. General Population and Cancer Mortality
+
+Observational studies have found that individuals with the highest intakes of VK2 were significantly less likely to die from a range of cancers compared to those with the lowest intakes6. This suggests a possible broad preventive effect, though causality is not established.
+
+6. Breast Cancer: A Note of Caution
+
+Not all evidence is favourable. A large US study found that higher total menaquinone (vitamin K2) intake was associated with an increased risk of breast cancer incidence and mortality23. This suggests that VK2 supplementation may not be universally beneficial and that individual cancer types and patient characteristics must be considered.
+
+Summary Table: Patient Demographics and VK2 Benefit
+Demographic/Condition	Evidence for VK2 Benefit	Notes/Exceptions
+Chronic liver disease/cirrhosis	Reduced HCC risk and recurrence	Strongest clinical evidence5
+Myelodysplastic syndromes/leukaemia	Improved haematopoiesis, remission cases	Case reports, small trials5
+Older adults/sub-optimal K status	Potential reduced cancer risk	Observational data1
+High risk of prostate/lung cancer	Lower incidence with higher VK2 intake	Epidemiological data5
+General population	Lower overall cancer mortality	Observational, not causal6
+Breast cancer	Possible increased risk with high VK2	Large cohort study23
+Conclusion
+While VK2 shows promise for cancer prevention and therapy in certain high-risk groups—especially those with liver disease, MDS, or poor vitamin K status—no universal demographic has been established. Furthermore, potential risks in specific cancers (notably breast cancer) highlight the need for personalised assessment and further research before broad recommendations can be made.
+
+Are there any known resistance mechanisms?
+Several resistance markers affecting vitamin K2 (VK2) efficacy in cancer treatment have been identified, primarily linked to genetic, metabolic, or cellular pathway alterations.
+
+Key findings include:
+
+1. Ovarian Cancer Resistance
+SK-OV-3 Cell Line Resistance
+The SK-OV-3 ovarian cancer cell line demonstrates intrinsic resistance to VK2, unlike the sensitive PA-1 cell line. While the exact mechanism remains unclear, differences in apoptotic pathway activation or metabolic processing of VK2 may contribute3.
+
+2. Hepatocellular Carcinoma (HCC)
+HSD17β4 Overexpression
+Overexpression of 17β-hydroxysteroid dehydrogenase 4 (HSD17β4) promotes HCC proliferation. VK2 binds directly to HSD17β4, inhibiting MEK/ERK and Akt pathways. Tumours with elevated HSD17β4 may require higher VK2 doses for efficacy4.
+
+3. Chronic Myeloid Leukaemia (CML)
+GGCX and VKORC1 Upregulation
+In imatinib-resistant CML, gamma-glutamyl carboxylase (GGCX) and vitamin K epoxide reductase complex subunit 1 (VKORC1) are upregulated. These genes are critical for vitamin K recycling, and their overexpression may reduce VK2 bioavailability, diminishing its therapeutic effects5.
+
+4. Apoptosis Pathway Alterations
+Bcl-2 Overexpression
+High Bcl-2 levels in leukemic cells shift VK2’s action from apoptosis to autophagy, reducing cell death. This suggests Bcl-2 expression as a resistance marker in haematological malignancies4.
+
+5. Bacterial Context (Non-Cancer)
+While not directly relevant to cancer, studies in methicillin-resistant Staphylococcus aureus (MRSA) show that sub-MIC VK2 incompletely inhibits fluoroquinolone resistance genes (norA, grlA, grlB, gyrA, gyrB), highlighting potential cross-resistance mechanisms in other contexts2.
+
+Summary Table: Key Resistance Markers
+Cancer Type	Marker/Mechanism	Impact on VK2 Efficacy	Source
+Ovarian	SK-OV-3 intrinsic resistance	No growth inhibition observed	3
+HCC	HSD17β4 overexpression	Requires higher VK2 doses	4
+CML	GGCX, VKORC1 upregulation	Reduces VK2 bioavailability	5
+Leukaemia	Bcl-2 overexpression	Shifts response to autophagy	4
+Conclusion
+Resistance to VK2 in cancer is influenced by genetic and metabolic markers such as GGCX, VKORC1, HSD17β4, and Bcl-2, as well as cell line-specific factors (e.g., SK-OV-3). These markers highlight the need for personalised dosing and combination therapies to overcome resistance. Further research is required to validate these findings and identify additional biomarkers.
+
+Have there been any preclinical studies?
+Pre-clinical studies have extensively investigated VK2’s anti-cancer properties across multiple cancer types, including hepatocellular carcinoma (HCC), bladder cancer, colorectal cancer (CRC), leukaemia, and ovarian cancer.
+
+Below is a summary of key findings from in vitro and in vivo studies:
+
+In Vitro Studies
+Hepatocellular Carcinoma (HCC)
+
+VK2 inhibited HCC cell proliferation by binding to HSD17β4, a protein overexpressed in HCC, suppressing MEK/ERK and Akt pathways3.
+
+Induced cell-cycle arrest (G1 phase) via downregulation of cyclin D1 and CDK42.
+
+Bladder Cancer
+
+VK2 promoted glycolysis via the PI3K/AKT/HIF-1α pathway, leading to metabolic stress and AMPK-dependent autophagic cell death under glucose-limited conditions4.
+
+Colorectal Cancer (CRC)
+
+VK2, alongside vitamins K3 and K5, induced apoptosis in CRC cells. While K3 and K5 showed stronger effects, VK2 was safer and non-toxic5.
+
+Leukaemia
+
+VK2 synergised with all-trans retinoic acid (ATRA) to induce differentiation and apoptosis in leukaemia cells2.
+
+In Vivo Studies
+HCC Xenografts
+
+VK2 (50 μM) significantly reduced tumour growth in nude mice implanted with HepG2 cells, with no adverse effects on weight or fur3.
+
+Suppressed tumour recurrence post-hepatectomy in animal models2.
+
+Bladder Cancer Xenografts
+
+VK2 (10–20 mg/kg) reduced tumour volume and extended survival in mice, linked to autophagic cell death and AMPK activation4.
+
+CRC Xenografts
+
+Intravenous VK2 (2 mM) inhibited tumour growth in mice, with apoptosis observed in treated tumours5.
+
+Key Mechanisms Identified
+Mechanism	Cancer Type	Outcome
+Cell-cycle arrest	HCC, CRC	G1 phase arrest via cyclin D1/CDK4 downregulation23
+Apoptosis induction	CRC, leukaemia	Caspase-3 activation and DNA fragmentation25
+Autophagic cell death	Bladder cancer	AMPK/mTORC1 pathway modulation under metabolic stress4
+Metabolic reprogramming	Bladder cancer	Glycolysis promotion and TCA cycle suppression4
+Pathway inhibition	HCC	MEK/ERK and Akt suppression via HSD17β4 binding3
+Safety Profile
+No toxicity observed in animal models, even at high doses (e.g., 45 mg/kg in HCC studies)23.
+
+Unlike vitamin K3 (menadione), VK2 showed no adverse effects, making it a safer candidate for clinical translation5.
+
+Combination Therapy Potential
+Synergistic effects noted with sorafenib (HCC), 5-fluorouracil (CRC), and ATRA (leukaemia)25.
+
+Conclusion
+Pre-clinical trials demonstrate VK2’s broad anti-cancer efficacy through diverse mechanisms, including cell-cycle arrest, apoptosis, autophagy, and metabolic modulation. Its excellent safety profile in animal models supports further clinical exploration, particularly in HCC, bladder cancer, and CRC. However, most studies remain in early stages, with a need for phase III trials to validate these findings.
+
+Are there current clinical trials?
+Vitamin K2 has been evaluated in several clinical trials, including cancer-related studies and other health conditions, but as of April 2025, it is not part of any large, ongoing late-phase (phase III or IV) cancer clinical trials.
+
+Here is a summary of the relevant clinical trial evidence:
+
+Phase II Cancer Trials:
+Vitamin K2 has been tested in phase II clinical trials for myelodysplastic syndromes (MDS), a pre-leukaemic blood disorder. In these studies, VK2 (45 mg/day) was used as monotherapy and in combination with vitamin D3 (alfacalcidol). The trials found that VK2, especially when combined with vitamin D3, improved anaemia and thrombocytopenia in patients with low or intermediate-1 risk MDS. These were open-label, single-arm, and multicentre phase II trials35. There is no evidence from these or other sources of phase III or IV trials for cancer indications.
+
+Other Conditions:
+Recent and ongoing clinical trials of vitamin K2 have focused on non-cancer indications, such as nocturnal leg cramps (randomised controlled trial, not oncology-related)2, COVID-19 (phase II, double-blind, randomised, placebo-controlled trial)4, and bone health1. The COVID-19 trial is phase II, but recruitment has stopped and the primary focus is not cancer.
+
+Combination Therapy:
+The phase II MDS trials included both VK2 monotherapy and VK2 plus vitamin D3 combination therapy, with the combination showing a higher response rate35.
+
+Summary Table: Vitamin K2 Clinical Trials (Cancer Focus)
+
+Indication	Phase	Status	Combination	Outcome/Notes
+Myelodysplastic Synd.	II	Completed	With/without Vit D3	Improved anaemia/thrombocytopenia; safe35
+Other cancers	—	No current trials	—	No phase III/IV cancer trials identified
+Conclusion
+Vitamin K2 has been tested in phase II clinical trials for blood cancers (specifically MDS), both as monotherapy and in combination with vitamin D3, with promising results and good safety. However, there are currently no active or recently completed phase III or IV cancer clinical trials involving vitamin K2. Most ongoing vitamin K2 trials focus on non-cancer conditions.
+
+Are there genetic markers that might affect effectiveness?
+Several genetic markers have been identified that influence vitamin K2 (VK2) metabolism, bioavailability, and efficacy. These polymorphisms affect enzymes and proteins involved in vitamin K cycling, drug interactions, and biological responses.
+
+Key findings include:
+
+1. Cytochrome P450 4F2 (CYP4F2)
+rs2108622 (1297G>A)
+This polymorphism significantly affects plasma vitamin K1 (VK1) and menaquinone-4 (MK-4) levels. Individuals with the AA genotype have higher plasma concentrations of VK1 and MK-4 compared to those with GG or GA genotypes. This suggests that CYP4F2 genetic variants may influence dietary or supplemental VK2 requirements for optimal efficacy5.
+
+2. Vitamin K Epoxide Reductase Complex 1 (VKORC1)
+Variants in VKORC1 (e.g., rs9923231) are strongly associated with warfarin sensitivity and vitamin K metabolism. These polymorphisms alter the enzyme’s ability to recycle vitamin K, affecting both anticoagulant therapy and VK2’s ability to counteract warfarin’s effects5.
+
+3. Cytochrome P450 2C9 (CYP2C9)
+Polymorphisms like CYP2C9 rs1057910 influence warfarin metabolism and vitamin K status. Poor metabolisers (e.g., CYP2C9 *2/*3 alleles) require lower warfarin doses and may experience heightened VK2 deficiency risks, impacting bone and cardiovascular health5.
+
+4. Steroid and Xenobiotic Receptor (SXR/PXR)
+Genetic variations in SXR/PXR, a nuclear receptor activated by VK2, may modulate its transcriptional regulation of bone-specific genes (e.g., osteocalcin). This affects VK2’s efficacy in promoting bone mineralisation and combating osteoporosis4.
+
+5. Apolipoprotein E (APOE)
+While not directly studied in the provided sources, APOE polymorphisms (e.g., ε4 allele) are linked to altered lipid metabolism and vitamin K transport, potentially influencing VK2’s absorption and tissue distribution.
+
+Clinical Implications
+Personalised Supplementation: Individuals with CYP4F2 AA genotypes may require lower VK2 doses to achieve therapeutic effects, while those with GG/GA genotypes might need higher intake.
+
+Anticoagulant Interactions: VKORC1 and CYP2C9 variants necessitate careful VK2 dosing in patients on warfarin to avoid thrombosis or bleeding risks56.
+
+Bone Health: SXR/PXR polymorphisms could explain variability in VK2’s effectiveness in improving bone mineral density48.
+
+Summary Table: Key Genetic Markers Influencing VK2 Efficacy
+Gene	Polymorphism	Impact on VK2 Efficacy	Clinical Relevance
+CYP4F2	rs2108622 (G>A)	AA genotype ↑ plasma VK1/MK-4 levels	Dose adjustment for supplementation
+VKORC1	rs9923231	Alters vitamin K recycling; affects warfarin interaction	Critical for anticoagulant management
+CYP2C9	rs1057910	Alters warfarin metabolism, impacting VK2 status	Risk of VK2 deficiency in poor metabolisers
+SXR/PXR	Variants unspecified	Modulates VK2’s transcriptional activity in bone	Bone health outcomes variability
+Conclusion
+Genetic markers in CYP4F2, VKORC1, CYP2C9, and SXR/PXR significantly influence VK2’s efficacy, particularly in contexts of anticoagulation therapy and bone health. These findings underscore the potential for genetic testing to guide personalised VK2 supplementation and improve therapeutic outcomes.

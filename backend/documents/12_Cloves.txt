@@ -1,0 +1,298 @@
+Supplement
+Cloves
+Cloves contain eugenol, a bioactive compound exhibiting potent antioxidant and anti-inflammatory properties. Eugenol modulates key inflammatory pathways and demonstrates potential to influence cancer cell behaviour through multiple mechanisms.
+Cloves
+Cancer Impact Summary
+Click  to Learn More
+
+Induces Apoptosis
+Yes
+Inhibit Cell Proliferation
+Yes
+Target Specific Pathways
+Yes
+Angiogenesis Inhibition
+No
+Role in Immunotherapy
+No
+Anti-Inflammatory Properties
+Yes
+Full Supplement Details
+
+Cloves, the dried flower buds of Syzygium aromaticum, have been treasured not only for their distinctive aroma and culinary applications but also for their remarkable medicinal properties. Traditional medical systems, particularly Ayurveda and Chinese medicine, have utilised cloves for thousands of years. Recent scientific research has uncovered impressive anti-cancer potential within this common spice, revealing multiple mechanisms through which cloves may help combat various types of cancer. This comprehensive analysis explores how cloves and their bioactive compounds could play a significant role in metabolic cancer therapy approaches.
+
+Bioactive Compounds in Cloves
+Cloves contain a rich array of bioactive compounds responsible for their therapeutic effects. The most abundant and well-studied of these is eugenol, accounting for approximately 85-95% of clove essential oil and possessing potent biological activities.
+
+Eugenol: The Primary Anti-Cancer Agent
+Eugenol (4-allyl-2-methoxyphenol) is a phenolic compound with remarkable anticancer properties against multiple cancer types including colon, breast, leukaemia, skin, gastric, and prostate cancers19. Its anticancer effects are accomplished through various mechanisms, including inducing cell death, arresting cell cycle progression, and inhibiting migration, metastasis, and angiogenesis19. What makes eugenol particularly promising is its selective toxicity toward cancer cells while showing minimal cytotoxic effects on normal cells1920.
+
+Research has demonstrated eugenol’s ability to trigger apoptosis (programmed cell death) in human promyelocytic leukaemia cells through processes dependent on increased reactive oxygen species (ROS) production and decreased mitochondrial membrane potential19. Additionally, eugenol has been found to boost the expression of tumour suppressor genes like p53 and activate caspase-3, a key protein in the cell death pathway20.
+
+Other Significant Bioactive Compounds
+Beyond eugenol, cloves contain several other compounds with anticancer potential:
+
+β-Caryophyllene: This sesquiterpene has shown significant anti-angiogenic properties, blocking the formation of blood vessels that feed tumors. Studies indicate it can inhibit colorectal tumor growth in both in-vitro and in-vivo models4.
+
+Oleanolic Acid (OA): Identified as one of the active components in clove extracts, OA has been shown to induce apoptosis via the mitochondrial pathway1316.
+
+Flavonoids: Cloves contain flavonoids such as eugenin, rhamnetin, kaempferol, and eugenitin that contribute to their antioxidant and anticancer properties16.
+
+Other Compounds: Additional bioactive components include tannins, terpenoids, acetyl eugenol, humulene, chavicol, and methyl salicylate, all contributing to cloves’ overall therapeutic potential3816.
+
+Molecular Mechanisms of Anti-Cancer Action
+Research has uncovered multiple mechanisms through which cloves and their constituents exert anticancer effects, highlighting their potential in metabolic therapy approaches for cancer.
+
+Induction of Apoptosis
+One of the primary ways cloves combat cancer is by triggering programmed cell death (apoptosis) in cancer cells. Studies have demonstrated that clove extracts can activate both intrinsic (mitochondrial) and extrinsic (death receptor) apoptotic pathways810.
+
+The ethyl acetate extract of cloves (EAEC) has been shown to promote G0/G1 cell cycle arrest and induce apoptosis in a dose-dependent manner in colorectal cancer cells16. Treatment with EAEC selectively increases the expression of p21WAF1/Cip1 (a cell cycle inhibitor) and γ-H2AX (a marker of DNA damage) while downregulating expression of cell cycle-regulated proteins16.
+
+Disruption of Cellular Structure and Function
+Ajoene, a garlic compound present in some clove preparations, has been found to covalently bind to vimentin, a key component of the cellular cytoskeleton. This binding disrupts the vimentin network, thereby inhibiting cancer cell migration and invasion1.
+
+Studies using dansyl-ajoene, a fluorescently labelled analogue, identified vimentin as a predominant protein target through which this compound exerts its anti-metastatic activity1. Computational modelling revealed that ajoene binds to vimentin at Cys-328 via a disulfide linkage, disrupting its structural integrity1.
+
+Metabolic Reprogramming
+Cancer cells typically exhibit altered metabolism, often characterised by increased glycolysis even in the presence of oxygen (the Warburg effect). Research indicates that active fractions from cloves (AFC) can inhibit colon cancer growth by downregulating M2-type pyruvate kinase (PKM2), a key enzyme in cancer cell metabolism11.
+
+By reducing PKM2 expression, clove extracts decrease the aerobic glycolysis capacity of cancer cells, thereby limiting their ability to generate energy and proliferate11. This metabolic intervention also leads to downregulation of cancer-specific targets like c-myc and cyclin D1, further inhibiting tumour growth11.
+
+Induction of Autophagy
+Aqueous extract of clove (AEC) has been demonstrated to inhibit cancer cell growth by inducing autophagy—a process where cells degrade and recycle their components—through the AMPK/ULK pathway9. This autophagy-inducing effect was confirmed through transmission electron microscopy, flow cytometry, and fluorescence microscopy analyses9.
+
+In a xenograft mouse model using HT-29 colon cancer cells, AEC significantly inhibited tumour growth, suggesting potential therapeutic applications9.
+
+Anti-Angiogenic Effects
+β-Caryophyllene, a compound found in cloves, exhibits strong anti-angiogenic activity by blocking several processes critical for new blood vessel formation, including:
+
+Migration of endothelial cells
+
+Formation of tube-like networks
+
+Suppression of vascular endothelial growth factor (VEGF) secretion
+
+Inhibition of micro vessel sprouting4
+
+These effects were observed not only in cell culture but also in a chick embryo chorioallantois membrane assay, where β-caryophyllene significantly deformed vascular architecture4.
+
+Research on Specific Cancer Types
+Clove extracts and their compounds have shown promising results against various types of cancer, with particularly strong evidence for their efficacy against colorectal and breast cancers.
+
+Colorectal Cancer
+Numerous studies have highlighted the potential of cloves in combating colorectal cancer. The active fraction of clove (AFC) has demonstrated significant inhibitory effects on five types of colon cancer cells by downregulating PKM2 and reducing aerobic glycolysis capacity11.
+
+In HCT-116 xenograft nude mice models, AFC administration inhibited colon cancer growth while causing less liver injury and weight loss than conventional chemotherapeutic agents like 5-fluorouracil (5-FU)11. This suggests that clove extracts might offer a safer alternative or complementary approach to standard chemotherapy.
+
+A comparative study conducted on normal epithelial colon cells (NCM-460) and colorectal cancer cell lines (Caco-2, SW-620) demonstrated that eugenol decreased the vitality of colon cancer cells while showing only minimal cytotoxic effects on normal colon cells20. Interestingly, eugenol affected different cell cycle phases depending on the cancer cell line—inhibiting the G2 phase in Caco-2 cells and causing accumulation in the G1 phase in SW-620 cells—while not affecting the cell cycle of normal cells20.
+
+Breast Cancer
+Research on the effects of clove extracts on human breast adenocarcinoma (MCF-7) cells has shown promising results. Studies demonstrate that clove bud extracts can induce DNA damage and apoptosis in these cells through intrinsic caspase-induced cell death associated with oxidative stress20.
+
+The mechanism appears to be mediated by reactive oxygen and nitrogen species, with experiments showing that cell death was due to caspase-dependent activities rather than direct cytotoxicity of the extracts20. This suggests a targeted mechanism that could potentially spare healthy cells.
+
+Cervical Cancer
+Eugenol has demonstrated anti-tumour and anti-metastatic properties in HeLa cervical cancer cell lines. Treatment with eugenol boosted apoptosis due to increased expression of caspase-3 and p53 proteins20. At concentrations of 50-200 micromolar, eugenol exhibited cytotoxic effects on these cells and hindered cell migration20.
+
+E-cadherin, a cell adhesion molecule and marker for epithelial-mesenchymal transition (EMT), is typically downregulated in cervical cancer, contributing to cancer cell migration. Some studies have shown that combining eugenol with cisplatin enhanced anti-cancer effects by disrupting the G0/G1 phase, affecting caspase-3 activity, and disturbing mitochondrial membrane potential20.
+
+Other Cancer Types
+Research has also shown efficacy of clove compounds against:
+
+Pancreatic cancer: Eugenol has demonstrated cytotoxicity against pancreatic cancer cells, with studies showing that combination treatments with oleanolic acid and fluorouracil synergistically potentiated the cytotoxicity against pancreatic cancer Pan-28 cells13.
+
+Liver cancer: Clove extracts can alter metabolic crosstalk in the tumour microenvironment of liver cancer, potentially affecting immune surveillance and escape mechanisms2.
+
+Leukaemia: Eugenol has shown effectiveness against human promyelocytic leukaemia cells (HL-60) by triggering apoptosis through ROS production and decreasing mitochondrial membrane potential19.
+
+Immune System Modulation
+Clove extracts, particularly eugenol, can modulate the immune response in the context of cancer. Research has shown that eugenol affects the cross-talk between human peripheral blood mononuclear cells (PBMC) and colon cancer cells12.
+
+When eugenol was added to PBMC co-incubated with HT-29 colon cancer cells, it inhibited the production of several cytokines, including TNF-α, IL-1β, IL-1ra, and IL-10, while not affecting IL-6 and IFN-γ production12. This suggests that eugenol can selectively modulate the inflammatory response in the tumour microenvironment.
+
+The immunomodulatory effect of eugenol appears to be cancer cell type-dependent, as its impact on cytokine production differed when PBMC were co-incubated with different colon carcinoma cell lines12. This selective immunomodulation could potentially enhance anti-tumour immune responses while mitigating harmful inflammation.
+
+Synergistic Effects with Conventional Treatments
+One of the most promising aspects of clove-derived compounds is their potential to enhance the efficacy of conventional cancer treatments while reducing their side effects.
+
+Studies have shown that eugenol can be used as an adjunct therapy for patients undergoing conventional chemotherapy, leading to enhanced effectiveness with decreased toxicity19. For instance, the combination of oleanolic acid (from cloves) with fluorouracil (5-FU) synergistically potentiated the cytotoxicity against pancreatic cancer cells13.
+
+In cervical cancer research, combining eugenol with cisplatin enhanced anti-cancer effects by damaging cells in the G0/G1 phase, disrupting caspase-3 activity, and affecting mitochondrial membrane potential20. This suggests that clove compounds could potentially allow for lower doses of conventional chemotherapeutics, thereby reducing their toxic side effects.
+
+Therapeutic Implications for Metabolic Cancer Therapy
+The multiple mechanisms through which clove compounds affect cancer cell metabolism make them particularly relevant for metabolic therapy approaches to cancer treatment.
+
+Targeting Cancer Metabolism
+The ability of active fractions from cloves to downregulate PKM2 and reduce aerobic glycolysis in cancer cells aligns perfectly with metabolic therapy approaches that aim to disrupt the altered metabolism of cancer cells11. By interfering with the Warburg effect—a hallmark of many cancers—clove compounds may help starve cancer cells of the energy they need to proliferate.
+
+Addressing Metabolic Reprogramming in the Tumour Microenvironment
+Recent research has highlighted the importance of metabolic reprogramming in the tumour microenvironment, particularly in liver cancer2. Clove compounds may help remodel the metabolic crosstalk between cancer cells and immune cells, potentially enhancing immune surveillance and improving responses to immunotherapy2.
+
+Potential Applications in Clinical Settings
+While most studies on cloves’ anti-cancer properties have been conducted in laboratory settings, the consistent findings across multiple cancer types and the low toxicity profile of clove compounds suggest potential for clinical applications. The ability of clove extracts like AFC to inhibit tumour growth with fewer side effects than conventional chemotherapeutics is particularly promising11.
+
+Practical Considerations and Future Directions
+Despite the promising research on cloves’ anti-cancer properties, several practical considerations must be addressed before these findings can be translated into clinical applications.
+
+Extraction and Formulation
+Different extraction methods yield different bioactive compounds from cloves. Studies have used various approaches, including ethanol extraction, ethyl acetate extraction, and aqueous extraction, each producing extracts with unique properties916. For instance, the ethyl acetate extract of cloves (EAEC) showed enhanced growth inhibitory effects compared to ethanol extract16.
+
+Recent research has also explored novel extraction methods, such as cryoethanolic extraction, which might improve the yield and quality of bioactive compounds like allicin6. Additionally, nanoscale emulsion systems have been developed to enhance the delivery and efficacy of clove bud essential oil for anticancer applications18.
+
+Dosage and Safety Considerations
+While clove compounds generally show low toxicity toward normal cells, it’s important to note that at high concentrations, some compounds like eugenol can have pro-oxidative effects and cause DNA damage in normal cells19. Therefore, careful dosage determination would be crucial for any therapeutic application.
+
+In in-vivo studies, the active fraction of clove (AFC) has shown promising results at doses that cause less liver injury and weight loss than conventional chemotherapeutics like 5-fluorouracil11. This suggests a potentially favourable safety profile, but more comprehensive toxicology studies would be needed.
+
+Research Gaps and Future Directions
+Several areas require further investigation:
+
+Clinical trials: Most studies on cloves’ anti-cancer properties have been conducted in laboratory settings or animal models. Well-designed clinical trials are needed to assess efficacy and safety in humans.
+
+Bioavailability and metabolism: More research is needed on how clove compounds are absorbed, distributed, metabolised, and excreted in the human body.
+
+Combination therapies: Further investigation into how clove compounds interact with conventional cancer treatments could lead to optimised combination therapies.
+
+Personalised approaches: Research on how genetic factors might influence individual responses to clove compounds could help develop personalised treatment approaches.
+
+Conclusion
+Cloves represent a promising natural resource in the fight against cancer, with multiple bioactive compounds—particularly eugenol—demonstrating significant anticancer properties through various mechanisms. From inducing apoptosis and cell cycle arrest to disrupting cancer cell metabolism and modulating immune responses, clove compounds offer a multi-faceted approach to targeting cancer cells.
+
+The ability of clove extracts to selectively target cancer cells while sparing normal cells, combined with their potential to enhance conventional treatments, makes them especially relevant for metabolic therapy approaches to cancer. While more research is needed to translate these laboratory findings into clinical applications, the accumulating evidence suggests that this ancient spice might play an important role in modern cancer treatment strategies.
+
+Dosage
+
+No universally accepted therapeutic dosage for cloves in cancer treatment exists due to limited human trials. However, traditional and preclinical studies provide preliminary guidance:
+
+Powdered cloves: 120–300 mg/day in a single dose3
+
+Essential oil: 0.05–0.2 mL/day3, though topical applications for oral/dermatological use typically use 1% formulations36
+
+Nanoscale emulsions: Preclinical studies used concentrations of 36–500 μg/mL for clove bud oil, demonstrating cytotoxicity in cancer cells417
+
+Critical limitations exist:
+
+Toxicity risks: Concentrations >200 μg/mL of eugenol (clove’s primary component) caused DNA damage in normal cells217
+
+Paediatric concerns: As little as 5–10 mL of clove oil may cause hepatotoxicity and seizures in children2
+
+Cancer Types Tested Against
+Breast Cancer, Cervical Cancer, Colon Cancer, Colorectal Cancer, Leukemia, Liver Cancer, Lung Cancer
+
+Side Effects
+
+Documented Side Effects
+Systemic toxicity: Nausea, vomiting, and liver damage at high doses23
+
+Hypoglycaemia: Eugenol potentiates insulin/antidiabetic drugs, risking dangerous blood sugar drops2
+
+CYP450 interactions: Strong inhibition of CYP2D6 and CYP3A4 enzymes, affecting metabolism of:
+
+Codeine (reduced activation to morphine)
+
+Statins (increased simvastatin/atorvastatin levels)
+
+Calcium channel blockers (elevated nifedipine/amlodipine concentrations)3
+
+Dermatological reactions: Burning sensation and irritation with topical use
+
+Combination Therapies
+
+Preclinical models demonstrate enhanced efficacy when cloves are combined with:
+
+Combination Partner	Cancer Type	Effect	Source
+FMSP-nanoparticles	Breast (MCF-7)	Cell viability reduced from 55.4% → 8.5%	5
+5-Fluorouracil	Colon (HT-29)	Superior tumor suppression vs. 5-FU alone	711
+Cisplatin	Cervical (HeLa)	G0/G1 phase arrest & caspase-3 activation	11
+Dihydroartemisinin	Breast (TNBC)	Improved ROS generation & mitochondrial disruption	1
+Mechanistic synergies include:
+
+Enhanced pro-apoptotic signalling via PI3K/Akt/mTOR pathway inhibition11
+
+Increased drug permeability through nanoparticle-mediated delivery
+
+Links to Scientific Studies
+
+US National Library of Medicine research on eugenol
+Europe PMC research on eugenol
+Pubmed research on eugenol
+
+Quality of Life Effects
+
+Effective vs. toxic doses:
+
+Endpoint	Concentration
+IC50 (MCF-7)	17.6–36.4 μg/mL17
+Hepatotoxicity threshold	>200 μg/mL2
+Symptom management:
+
+Pain relief: Clove’s local anaesthetic properties may reduce opioid needs15
+
+GI effects: Anti-flatulent properties could alleviate chemotherapy-induced bloating6
+
+Lifestyle Impact
+Dietary interactions: High antioxidant content may interfere with radiation/alkylating agents
+
+Self-administration risks: Unregulated supplements pose dosing inaccuracies
+
+Answers to all your questions
+We’ve done our best to include as much information as possible for this supplement. 
+
+If you have any other questions, please send us a message or join our Skool Group and ask our knowledgeable and friendly community.
+
+How accessible is this supplement?
+Cloves are widely accessible as a culinary spice and are not subject to strict regulatory control. However, eugenol extracts may be regulated differently depending on intended use and local regulations. Medicinal-grade eugenol preparations may require prescription or professional oversight.
+
+What patient demographic Does this work Best for?
+Theoretical beneficiaries based on mechanistic studies:
+
+Colorectal cancer patients: Strongest preclinical evidence for PKM2 inhibition11
+
+HER2-negative breast cancers: Synergy with nanoparticle carriers514
+
+Diabetics with cancer: Potential dual metabolic/anticancer effects, but requires glucose monitoring2
+
+Contraindications include:
+
+Patients on CYP3A4/CYP2D6-dependent medications
+
+History of liver dysfunction or seizure disorders
+
+Are there any known resistance mechanisms?
+In vitro models show:
+
+Autophagy upregulation: Cancer cells counter clove-induced apoptosis via AMPK/ULK pathway activation11
+
+ROS scavenging: Antioxidant defences reduce eugenol efficacy in NRF2-active tumours
+
+Have there been any preclinical studies?
+Preclinical Trial Overview
+
+Key Findings
+
+Apoptosis induction:
+
+500 μg/mL clove oil caused 100% MCF-7 cell death via caspase-3 activation17
+
+Oleanolic acid (OA) from cloves triggered mitochondrial membrane depolarisation7
+
+Metabolic targeting:
+
+400 μg/mL AFC extract downregulated PKM2, reducing ATP production in HCT116 cells11
+
+Immunomodulation:
+
+Eugenol suppressed TNF-α/IL-1β in PBMC-cancer cell co-cultures11
+
+Nanodelivery systems:
+
+100 nm clove nanoemulsions achieved 227.1 μg/mL LC50 in brine shrimp models
+
+Are there current clinical trials?
+Currently, no active clinical trials are specifically investigating cloves or eugenol as a primary treatment for cancer in humans. However, some trials may be exploring eugenol as part of combination therapies or as a supportive agent: Clinical trials on eugenol and cancer.
+
+Are there genetic markers that might affect effectiveness?
+No specific clove-related pharmacogenomic markers are established, but intersecting pathways suggest:
+
+PKM2 overexpression: May predict response to clove’s glycolytic inhibition11
+CYP2D6 poor metabolisers: Increased drug interaction risks

@@ -1,0 +1,540 @@
+Supplement
+Cimetidine
+Cimetidine is a histamine H2-receptor antagonist, primarily used to reduce stomach acid production and treat conditions like gastroesophageal reflux disease (GERD), peptic ulcers, and heartburn.
+Cimetidine
+Cancer Impact Summary
+Click  to Learn More
+
+Induces Apoptosis
+Yes
+Inhibit Cell Proliferation
+Yes
+Target Specific Pathways
+Yes
+Angiogenesis Inhibition
+Yes
+Role in Immunotherapy
+No
+Anti-Inflammatory Properties
+Yes
+Full Supplement Details
+
+Cimetidine, a histamine H2-receptor antagonist traditionally used for gastric acid suppression, has demonstrated notable anticancer properties through multiple mechanisms. Emerging evidence suggests its potential as an adjuvant therapy in colorectal, gastric, and other cancers, particularly by targeting metastasis and modulating immune responses.
+
+Key Anticancer Mechanisms
+Metastasis Inhibition via E-Selectin Blockade
+Cimetidine disrupts cancer cell adhesion to blood vessels by suppressing endothelial E-selectin expression58. This prevents tumour cells expressing sialyl Lewis X/A antigens from anchoring to vascular walls, reducing metastatic spread16. In colorectal cancer patients with high sialyl Lewis antigen levels, cimetidine improved 10-year survival to 95.5% vs. 35.1% in controls68.
+
+Immunomodulation
+The drug enhances tumour-infiltrating lymphocytes (TILs) and peripheral CD3+/CD4+ T cells, boosting immune surveillance23. A 1994 trial noted a 41% → 7% reduction in 3-year mortality for colorectal cancer patients after just 7 days of perioperative cimetidine2.
+
+Antiangiogenic Effects
+Cimetidine reduces VEGF and PDECGF expression, impairing vascular tube formation in preclinical models47. This complements its direct antiproliferative action on histamine-driven tumour growth49.
+
+Clinical Evidence
+Colorectal Cancer:
+A landmark 10-year study showed 84.6% survival with cimetidine + 5-FU vs. 49.8% with 5-FU alone6. Benefits were strongest in advanced (Dukes C) cases (84.6% vs. 23.1% survival)6.
+
+Gastric Cancer:
+400 mg twice daily for 2 years extended survival in stage II-IV patients29.
+
+Synergy with Chemotherapy:
+Combined with temozolomide, cimetidine prolonged survival in glioblastoma models4.
+
+Dosage and Administration
+Typical protocols include:
+
+800 mg/day + 5-FU for 12 months post-colorectal cancer surgery16
+
+400 mg twice daily for 2 years in gastric cancer2
+
+Short-term perioperative use (5–7 days) to reduce metastasis risk28
+
+Future Directions
+While preclinical data support cimetidine’s broad anticancer potential, clinical results vary by cancer type and biomarker status310. Large-scale RCTs are needed to validate its role alongside modern therapies, particularly in sialyl Lewis antigen-positive tumors39. Its excellent safety profile and low cost make it a compelling candidate for repurposing10.
+
+For metabolic therapy applications, cimetidine’s dual action on immune function and metastasis pathways positions it as a multifunctional adjuvant, though patient stratification by molecular biomarkers is crucial for optimal outcomes.
+
+Dosage
+
+Cimetidine’s anticancer dosing protocols have been studied in multiple clinical trials, demonstrating safety and efficacy within specific parameters.
+
+Key findings from research include:
+
+Standard Anticancer Dosages
+Colorectal Cancer
+
+800 mg daily combined with 200 mg 5-FU for 12 months post-surgery, achieving 84.6% 10-year survival vs. 49.8% with 5-FU alone15.
+
+Perioperative use: 400 mg twice daily for 5 days pre-surgery and 2 days post-surgery reduced 3-year mortality from 41% to 7%3.
+
+Gastric Cancer
+
+400 mg twice daily for 2 years improved survival in stage II-IV patients3.
+
+Safety Parameters
+Maximum daily limit: 2.4 g (2400 mg)46, though anticancer studies rarely exceed 800-1600 mg/day.
+
+Renal adjustment:
+
+CrCl <30 mL/min: 200 mg twice daily24
+
+CrCl 30-50 mL/min: 200 mg four times daily4
+
+Tolerability Considerations
+No dose-limiting toxicity reported in trials using 800 mg/day for 1 year15.
+
+Long-term safety data exist for up to 6 years of continuous use in non-cancer contexts4.
+
+For metabolic therapy applications, the 800 mg/day regimen (with 5-FU) has the strongest colorectal cancer evidence15, while 400 mg twice daily shows efficacy in gastric cancer and perioperative settings3. Doses should be adjusted for renal impairment and monitored in hepatic dysfunction24.
+
+Cancer Types Tested Against
+Brain Cancer, Colorectal Cancer, Gastrointestinal Stromal Tumor (GIST), Skin Cancer (including Melanoma)
+
+Side Effects
+
+Cimetidine is generally well-tolerated but may cause side effects ranging from mild gastrointestinal symptoms to rare serious complications.
+
+Below is a structured analysis of its safety profile:
+
+Common Side Effects
+Gastrointestinal: Diarrhoea, nausea, vomiting, constipation, flatulence2568
+
+Neurological: Headache, dizziness, drowsiness23568
+
+Musculoskeletal: Reversible myalgia (muscle pain) or arthralgia (joint pain)6
+
+These typically resolve as the body adjusts to treatment and rarely require discontinuation58.
+
+Serious Adverse Reactions
+Central Nervous System (CNS) Effects:
+
+Confusion, delirium, hallucinations, agitation (especially in older adults or those with renal/hepatic impairment)268
+
+Seizures (very rare)8
+
+Allergic Reactions:
+
+Angioedema (facial/throat swelling), hives, anaphylaxis28
+
+Hematologic:
+
+Reversible leukopenia (low white blood cells) or thrombocytopenia (low platelets)346
+
+Rare cases of agranulocytosis or aplastic anemia6
+
+Endocrine:
+
+Gynecomastia (breast enlargement) and reversible impotence (primarily at high doses)346
+
+Hepatic/Renal:
+
+Elevated liver enzymes, hepatitis (rare)6
+
+Interstitial nephritis (kidney inflammation)6
+
+Long-Term Use Considerations
+Cancer Risk: An initial study noted elevated risks for gastric, pancreatic, and colorectal cancers in the first year of use, though this likely reflects misdiagnosed malignancies rather than drug-induced carcinogenesis1.
+
+Drug Interactions: CYP3A4 inhibition may alter metabolism of chemotherapy agents (e.g., tamoxifen, fluorouracil)7.
+
+Special Populations
+Renal Impairment: Dose adjustments required (e.g., 200 mg twice daily if CrCl <30 mL/min)346
+
+Pregnancy: Contraindicated due to potential fetal harm34
+
+Paediatrics: Dosing based on weight (20–30 mg/kg/day)34
+
+Clinical Implications for Cancer Therapy
+Safety in Trials: No dose-limiting toxicity reported at 800 mg/day for 12 months in colorectal cancer studies7.
+
+Monitoring: Regular CBC and renal/liver function tests advised for patients on prolonged regimens6.
+
+While cimetidine’s safety profile is favourable compared to many chemotherapies, its endocrine and CNS effects warrant vigilance, particularly in vulnerable populations. The drug’s low cost and tolerability support its repurposing potential, but biomarker-guided use (e.g., sialyl Lewis antigen status) may optimise risk-benefit ratios7.
+
+Combination Therapies
+
+Cimetidine has been extensively tested in combination therapies across multiple cancer types, demonstrating synergistic effects in both preclinical and clinical settings. Key combinations supported by trial evidence include:
+
+1. Colorectal Cancer
+5-FU/Leucovorin:
+
+800 mg/day cimetidine + 200 mg 5-FU improved 10-year survival to 84.6% vs. 49.8% with 5-FU alone.
+
+Stage IV patients with non-resectable tumours showed prolonged survival when cimetidine was added to chemotherapy26.
+
+Perioperative Protocol:
+
+800 mg twice daily for 5 weeks (starting 1 week pre-surgery) reduced postoperative cytokine spikes and improved disease-free survival5.
+
+2. Gastric Cancer
+Chemotherapy Adjuvant:
+
+400 mg twice daily for 2 years combined with standard regimens extended survival in stage II-IV patients2.
+
+3. Ovarian Cancer
+Platinum-Based Chemotherapy:
+
+800 mg/day cimetidine combined with carboplatin/paclitaxel improved survival in advanced serous ovarian carcinoma (FIGO III/IV), particularly in COX-2-overexpressing tumors4.
+
+4. Renal Cell Carcinoma (RCC)
+Immunotherapy Combo:
+
+I-CCA Regimen:
+Cimetidine (400 mg twice daily) + interferon-α + meloxicam + candesartan achieved 22% response rate (4 CR, 7 PR) and 67% clinical benefit in advanced RCC35.
+
+5. Melanoma
+Single-Agent vs. PALA/L-Alanosine:
+
+Cimetidine alone (300 mg four times daily) achieved 1 CR and 2 PR in metastatic melanoma, outperforming the combination PALA/L-alanosine (1 PR)1.
+
+6. Pancreatic/Prostate Cancers
+TL-118 Multi-Targeted Therapy:
+
+Oral combination of cimetidine + low-dose cyclophosphamide + diclofenac + sulfasalazine is being tested in phase II trials for metastatic pancreatic and prostate cancers5.
+
+Mechanistic Synergies
+Chemotherapy Enhancement:
+
+Potentiates 5-FU by reducing histamine-driven immune suppression and VEGF expression26.
+
+Immune Modulation:
+
+Boosts dendritic cell antigen presentation in colorectal cancer and synergises with interferon-α in RCC35.
+
+Ongoing Trials
+ACTRN12609000769280: Perioperative cimetidine in colorectal cancer (2-year disease-free survival data pending)5.
+
+NCT01509911: TL-118 + gemcitabine in pancreatic cancer (disease control rate at 16 weeks)5.
+
+Cimetidine’s low toxicity profile and multi-targeted mechanisms (E-selectin inhibition, immune modulation) make it a versatile partner in combination therapies, particularly for gastrointestinal and immunogenic tumours.
+
+Links to Scientific Studies
+
+US National Library of Medicine research on Cimetidine
+
+Europe PMC research on Cimetidine
+
+Pubmed research on Cimetidine
+
+Quality of Life Effects
+
+Cimetidine’s impact on quality of life (QoL) in cancer therapy involves a balance between its survival benefits and manageable side effects, with outcomes dependent on patient selection and treatment context:
+
+Positive Impacts
+Survival Improvement:
+
+In colorectal cancer patients with high sialyl Lewis X/A antigen expression, cimetidine (800 mg/day + 5-FU) achieved 95.5% 10-year survival vs. 35.1% in controls15. Improved survival often correlates with better long-term QoL.
+
+Perioperative use (5–7 days) reduced 3-year mortality from 41% to 7% in colorectal cancer18, potentially minimising prolonged treatment burdens.
+
+Tolerability:
+
+Most side effects (e.g., diarrhoea, headache, dizziness) are mild and transient3410. Severe reactions (e.g., CNS effects, allergic responses) are rare347.
+
+No dose-limiting toxicity reported in trials using 800 mg/day for 1 year6.
+
+Immunomodulation:
+
+Enhanced tumour-infiltrating lymphocytes and reduced postoperative immunosuppression may support recovery and reduce infection risks15.
+
+Negative Impacts
+Common Side Effects:
+
+Mild: Diarrhoea (18–24%), headache (10–15%), dizziness, and fatigue3410. These are typically short-lived and manageable.
+
+Rare but Serious: Confusion (especially in elderly or renal-impaired patients), reversible leukopenia, and gynecomastia (<1% at standard doses)67.
+
+Hormonal Effects:
+
+Long-term high-dose use (e.g., ≥1,000 mg/day) may cause gynecomastia (up to 20% in some studies) or sexual dysfunction7, impacting QoL if unresolved.
+
+Variable Efficacy:
+
+Limited benefit in low sialyl Lewis antigen tumours or cancers without histamine-driven biology169, risking treatment burden without survival gains.
+
+Clinical Considerations for QoL
+Factor	Impact on QoL
+Biomarker status	High sialyl Lewis X/A expression → Strong survival benefit with minimal side effects15.
+Cancer stage	Advanced (Dukes C) colorectal cancer → Significant survival gains outweigh risks18.
+Treatment duration	Short perioperative courses (5–7 days) → Lower cumulative toxicity1.
+Comorbidities	Renal/hepatic impairment → Requires dose adjustments to avoid CNS or metabolic side effects3610.
+For biomarker-selected patients (e.g., high sialyl Lewis antigens in colorectal cancer), cimetidine’s survival benefits and mild side effect profile likely result in a net positive QoL impact. However, in non-responsive cancers or patients with low biomarker expression, the modest side effects and lack of efficacy may lead to a neutral or negative QoL balance. Personalised dosing, monitoring, and biomarker stratification are critical to optimising outcomes.
+
+Answers to all your questions
+We’ve done our best to include as much information as possible for this supplement. 
+
+If you have any other questions, please send us a message or join our Skool Group and ask our knowledgeable and friendly community.
+
+How accessible is this supplement?
+Cimetidine remains widely accessible globally through multiple channels, though availability varies by region and formulation. Here’s a structured analysis of its current access and availability:
+
+Prescription Status
+United Kingdom:
+
+NHS: Available via prescription (400 mg and 800 mg tablets), priced at £7.26 (60×400 mg) and £21.25 (30×800 mg)2.
+
+Private/Online: Pharmacy Planet UK sells generic and branded (Tagamet) versions:
+
+200 mg: £42–£137 (60–360 tablets)
+
+800 mg: £46–£137 (30–90 tablets)7.
+
+United States:
+
+Prescription-only for therapeutic doses (400–800 mg) and OTC for lower doses (200 mg) under brands like Tagamet HB14.
+
+Over-the-Counter (OTC) Availability
+Low-dose formulations:
+
+Sold as Tagamet HB or Good Sense Heartburn Relief (200 mg tablets) for short-term acid reflux management14.
+
+Limited to 14-day use unless directed by a physician4.
+
+Global Supply Considerations
+Shortage Context:
+
+While cimetidine itself isn’t currently listed in shortage reports, H2 receptor antagonists like ranitidine face supply disruptions due to NDMA contamination6.
+
+Cimetidine is recommended as an alternative when PPIs (e.g., omeprazole) are contraindicated or ineffective6.
+
+Australia:
+
+No active shortage reports for cimetidine, though other drugs (e.g., tenecteplase) face supply issues3.
+
+Key Access Points
+Region	Prescription	OTC	Online Retail
+UK	NHS/private clinics	Limited (low-dose Tagamet HB)	Pharmacy Planet UK7
+US	Clinics/hospitals	Major retailers (e.g., CVS)	Not typically sold online
+EU	Varies by country	Available in pharmacies	EU-based online pharmacies
+Cost Comparison
+Form	Source	Price
+400 mg (60 tablets)	NHS UK	£7.262
+800 mg (30 tablets)	Pharmacy Planet UK	£46.00 (generic) – £53.00 (Tagamet)7
+200 mg (60 tablets)	US Retail	$23.86–$57.941
+Clinical Restrictions
+UK Formulary Guidance:
+Cimetidine is restricted to cases where PPIs fail or are unsuitable (e.g., biliary reflux post-pancreatic surgery)6.
+
+Renal/Hepatic Impairment:
+Requires dose adjustments (e.g., 200 mg twice daily if CrCl <30 mL/min)1.
+
+Future Availability
+Supply Resilience:
+No imminent shortages reported, but reliance on Chinese API suppliers (e.g., Xi’an Xinlu Biotechnology) introduces potential volatility1.
+
+Cimetidine’s accessibility is robust in most regions, with cost-effective NHS options in the UK and OTC availability for symptom relief.
+
+Prescription requirements for higher doses ensure supervised use in complex cases.
+
+What patient demographic Does this work Best for?
+Cimetidine demonstrates optimal therapeutic outcomes in specific colorectal cancer patient subgroups, particularly when stratified by biomarker status and disease stage:
+
+1. High Sialyl Lewis X/A Antigen Expression
+Key Biomarker: Patients with tumours strongly expressing sialyl Lewis X and/or A antigens (ligands for E-selectin) show dramatic survival benefits.
+
+10-year survival: 95.5% vs. 35.1% in controls when treated with cimetidine + 5-FU15.
+
+Mechanistic basis: Cimetidine blocks E-selectin-mediated tumour-endothelial adhesion, preventing metastasis in antigen-positive cancers15.
+
+2. Advanced-Stage Colorectal Cancer (Dukes C)
+Stage-Specific Efficacy:
+
+Dukes C (lymph node-positive) patients: 84.6% 10-year survival with cimetidine vs. 23.1% in controls5.
+
+Reduced metastasis: 7/34 cimetidine-treated patients developed metastases vs. 16/30 controls5.
+
+Early-stage (Dukes A/B) benefits were less pronounced, though trends favoured cimetidine5.
+
+3. Perioperative Administration
+Timing Advantage:
+
+Short-course use (5–7 days around surgery) reduced 3-year mortality from 41% to 7% in colorectal cancer15.
+
+Suppresses postoperative cytokine spikes and immune suppression linked to metastasis16.
+
+4. Immune-Competent Patients
+Immune Function:
+
+Enhanced tumour-infiltrating lymphocytes (TILs) and dendritic cell activity in patients with preserved immune function16.
+
+Lower tumour burden correlates with better response, as seen in early renal cell carcinoma trials1.
+
+Demographics with Limited Benefit
+Low Sialyl Lewis Antigen Tumours: Minimal survival improvement vs. controls5.
+
+Late-Stage, High Tumour Burden: Reduced efficacy in metastatic RCC and heavily pretreated patients1.
+
+Clinical Recommendations
+Factor	Optimal Patient Profile
+Biomarker	High sialyl Lewis X/A expression
+Stage	Dukes C colorectal cancer
+Timing	Perioperative (pre-/post-surgery)
+Immune Status	Preserved immune function
+Cimetidine’s efficacy is biomarker- and context-dependent, with the strongest evidence supporting its use in sialyl Lewis antigen-positive, advanced colorectal cancer patients undergoing curative resection. Immunological fitness further enhances therapeutic response156.
+
+Are there any known resistance mechanisms?
+Cimetidine’s anticancer efficacy can be compromised by several resistance mechanisms, primarily tied to tumour biology and molecular interactions.
+
+Here’s a breakdown of the key factors identified:
+
+1. Low Sialyl Lewis X/A Antigen Expression
+Impact: Tumours lacking these carbohydrate antigens show reduced response to cimetidine due to its inability to block E-selectin-mediated metastasis.
+
+Evidence:
+Colorectal cancer patients with low sialyl Lewis antigen expression had 35.1% 10-year survival vs. 95.5% in high-expression tumours treated with cimetidine15.
+
+2. FOXP3/STUB1 Pathway Dysregulation
+FOXP3 Deficiency:
+Gastric cancer (GC) cells with low FOXP3 levels exhibit reduced sensitivity to cimetidine. IC50 values for cimetidine inversely correlate with FOXP3 expression (HGC27 > MKN45 > SGC7901)2.
+
+STUB1 Inactivation:
+Knockdown of STUB1 (an E3 ubiquitin ligase) rescues FOXP3 degradation, reversing cimetidine’s antitumor effects. PI3K/Akt pathway inhibitors block cimetidine-induced STUB1 upregulation2.
+
+3. Angiogenic Pathway Bypass
+Alternative Signalling:
+Cimetidine’s anti-angiogenic effects via VEGF/PDECGF suppression may be circumvented if tumours utilise histamine-independent angiogenesis pathways36.
+
+COX-2 Pathway Activation:
+In some colorectal cancers, VEGF expression is driven by H4 receptors, or COX-2, which cimetidine does not effectively inhibit6.
+
+4. Immunosuppressive Tumour Microenvironment (TME)
+Neutrophil Infiltration:
+Cimetidine attenuates anti-PD-1/PD-L1 efficacy by reducing CD3+/CD8+ T cells and M1 macrophages while increasing immunosuppressive neutrophils in CT26 colon cancer models7.
+
+Mismatch Repair Status:
+Proficient mismatch repair (pMMR) tumours show weaker synergy with immunotherapy when combined with cimetidine7.
+
+5. Histamine-Independent Tumour Growth
+H2 Receptor Irrelevance:
+Cimetidine’s effects in glioblastoma and melanoma occur independently of H2 receptor activity. Tumours not reliant on histamine-driven proliferation are less responsive46.
+
+Clinical Implications
+Resistance Factor	Mechanism	Cancer Type
+Low sialyl Lewis antigens	Loss of E-selectin binding inhibition	Colorectal, Gastric
+FOXP3/STUB1 deficiency	Failed proteasomal degradation of oncoproteins	Gastric
+Immunosuppressive TME	Reduced T-cell infiltration	Colorectal (with immunotherapy)
+Alternative angiogenic pathways	VEGF/PDECGF-independent vascularisation	Multiple cancers
+Cimetidine’s efficacy is highly context-dependent, emphasising the need for biomarker-driven patient selection (e.g., sialyl Lewis antigen status, FOXP3 levels). Resistance may arise from tumour adaptation or combinatorial therapy conflicts, warranting careful protocol design127.
+
+Have there been any preclinical studies?
+Cimetidine has demonstrated promising anticancer effects in preclinical trials across various cancer types, with mechanisms spanning metastasis inhibition, immunomodulation, and synergy with chemotherapy.
+
+Key findings from preclinical studies include:
+
+1. Metastasis Inhibition via E-Selectin Suppression
+Mechanism: Cimetidine downregulates endothelial E-selectin expression, blocking adhesion of tumour cells expressing sialyl Lewis X/A antigens. This prevents metastatic spread in colorectal and gastric cancers1368.
+
+In Vivo Evidence:
+
+Reduced metastasis in nude mice injected with colorectal cancer cells3.
+
+Inhibited gastric cancer cell adhesion to activated endothelial cells by 40–60% in models using SGC-7901, MGC-803, and BGC-823 cell lines68.
+
+Specificity: Effects were unique to cimetidine; other H2 antagonists (famotidine, ranitidine) showed no impact3.
+
+2. Immunomodulatory Effects
+Lymphocyte Infiltration:
+
+Enhanced tumour-infiltrating lymphocytes in colorectal cancer models, correlating with improved survival5.
+
+Restored normal suppressor lymphocyte activity in gastric cancer5.
+
+Synergy with Chemotherapy:
+
+Potentiated cyclophosphamide in P-388 leukaemia mouse models, increasing survival7.
+
+Combined with 5-FU, improved 10-year survival in colorectal cancer models1.
+
+3. Tumour Growth Inhibition
+Lung Adenocarcinoma:
+
+Reduced A549 tumour growth in xenograft models, though replication studies showed variability (significant only in meta-analysis)2.
+
+No efficacy in renal cell carcinoma models, aligning with computational predictions2.
+
+Gastric Cancer:
+
+Suppressed tumour cell adhesion and metastasis via E-selectin/sialyl Lewis X axis68.
+
+4. Challenges and Variability
+Replication Issues:
+
+Mixed results in lung cancer models, with some studies failing to achieve statistical significance after correction2.
+
+Inconsistent potentiation of cyclophosphamide across different mouse models7.
+
+Biomarker Dependence:
+
+Efficacy strongly correlated with high sialyl Lewis antigen expression in tumors16.
+
+Key Preclinical Insights
+Cancer Type	Model	Findings
+Colorectal	Nude mice, cell lines	Reduced metastasis via E-selectin inhibition35
+Gastric	Endothelial cell assays	Blocked adhesion (40–60% reduction)68
+Lung	A549 xenografts	Tumour reduction (statistically variable)2
+Leukaemia	P-388 mouse model	Enhanced cyclophosphamide efficacy7
+Future Directions
+Combination Therapies: Synergy with razoxane (anti-angiogenic agent) and checkpoint inhibitors warrants exploration7.
+
+Biomarker-Driven Models: Focus on sialyl Lewis X/A-positive tumours to optimise efficacy16.
+
+Cimetidine’s preclinical profile supports its role as a multimodal anticancer agent, particularly in metastasis prevention. However, variability in study outcomes underscores the need for standardised models and biomarker stratification.
+
+Are there current clinical trials?
+For clinical trial phases, visit clinicaltrials.gov.
+
+Are there genetic markers that might affect effectiveness?
+Cimetidine’s anticancer efficacy is influenced by specific molecular and genetic factors, with key biomarkers identified across cancer types:
+
+1. Low Sialyl Lewis X/A Antigen Expression
+Impact: Tumours lacking these carbohydrate antigens show reduced response to cimetidine.
+
+Evidence:
+Colorectal cancer patients with low sialyl Lewis antigen expression had 35.1% 10-year survival vs. 95.5% in high-expression tumours treated with cimetidine1.
+
+Mechanism: Cimetidine blocks E-selectin-mediated metastasis, which depends on sialyl Lewis antigen binding15.
+
+2. FOXP3 Protein Levels
+Impact: Lower FOXP3 expression correlates with reduced cimetidine sensitivity in gastric cancer (GC).
+
+Evidence:
+
+GC cells with high FOXP3 exhibited greater apoptosis and growth inhibition with cimetidine2.
+
+IC50 values for cimetidine increased as FOXP3 levels decreased across GC cell lines (HGC27 > MKN45 > SGC7901)2.
+
+3. STUB1 Deficiency
+Impact: Reduced STUB1 (E3 ubiquitin ligase) expression limits cimetidine’s ability to degrade FOXP3.
+
+Evidence:
+
+STUB1 knockdown rescued FOXP3 degradation and reversed cimetidine’s antitumor effects in GC cells2.
+
+Cimetidine upregulates STUB1 via PI3K/Akt activation; PI3K inhibitors block this effect2.
+
+4. H2 Receptor-Independent Mechanisms
+Conflict:
+
+Cimetidine’s efficacy in glioblastoma and melanoma occurs independently of H2 receptor expression36.
+
+In contrast, histamine-driven cancers (e.g., colon adenocarcinoma in HDC-deficient mice) show resistance without H2 receptor involvement35.
+
+5. Tumour Microenvironment (TME) Factors
+Immunosuppressive TME:
+Cimetidine attenuated anti-PD-1/PD-L1 efficacy in CT26 colon cancer models by:
+
+Reducing CD3+/CD4+/CD8+ T cells and M1 macrophages7.
+
+Elevating neutrophils, which promote tumour progression7.
+
+pMMR Status:
+CT26 tumours (proficient mismatch repair) showed reduced immunotherapy synergy with cimetidine, though direct genetic links require validation7.
+
+Clinical Implications
+Biomarker	Resistance Mechanism	Cancer Type
+Low sialyl Lewis X/A	Loss of E-selectin binding inhibition	Colorectal
+Low FOXP3/STUB1	Impaired proteasomal degradation	Gastric
+PI3K/Akt pathway mutations	Failed STUB1 upregulation	Gastric, Glioblastoma
+Neutrophil-rich TME	Immunosuppression reversal	Colorectal (anti-PD-L1 combo)
+Cimetidine’s efficacy is highly context-dependent, emphasising the need for biomarker-driven patient selection. Tumours with low sialyl Lewis antigens, FOXP3/STUB1 deficiency, or immunosuppressive microenvironments are less likely to respond.

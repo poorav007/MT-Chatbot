@@ -1,0 +1,435 @@
+Supplement
+Agaricus Blazei
+Agaricus blazei Murrill is a medicinal mushroom species native to Brazil, known for its potential immunomodulatory and anti-cancer properties. Its primary bioactive compounds, particularly beta-glucans, are the focus of ongoing research into their therapeutic potential.
+Agaricus Blazei
+Cancer Impact Summary
+Click  to Learn More
+
+Induces Apoptosis
+Yes
+Inhibit Cell Proliferation
+Yes
+Target Specific Pathways
+Yes
+Angiogenesis Inhibition
+No
+Role in Immunotherapy
+Yes
+Anti-Inflammatory Properties
+Yes
+Full Supplement Details
+
+Agaricus blazei Murill (ABM), commonly known as the sun mushroom, has gained attention for its potential anti-cancer properties. Below is a detailed exploration of its mechanisms and applications in cancer prevention and treatment.
+
+Key Active Compounds
+β-Glucans: These polysaccharides are immunomodulators that enhance natural killer (NK) cell activity and cytotoxic T lymphocyte growth. They also directly induce apoptosis and cell cycle arrest in various cancer cells, including ovarian, gastric, and leukemia cells149.
+
+Ergosterol and Derivatives: Ergosterol peroxide and Agarol (an ergosterol derivative) exhibit anti-tumor effects by inducing apoptosis in cancer cells. Agarol has shown efficacy in inhibiting tumor growth in both p53-wild-type and p53-mutant cell lines19.
+
+Blazeispirols: These compounds promote apoptosis by upregulating pro-apoptotic Bax protein and downregulating anti-apoptotic Bcl-2 protein, particularly in hepatocellular carcinoma cells1.
+
+Agaritine: Demonstrates direct antitumor effects against leukemic cells through apoptosis induction4.
+
+Mechanisms of Action
+Apoptosis Induction: A. blazei extracts trigger programmed cell death in various cancer types by activating apoptotic pathways, including mitochondrial release of cytochrome c and regulation by p53-dependent mechanisms149.
+
+Immune System Modulation: The mushroom enhances NK cell activity, increases interferon-gamma levels, and modulates lymphocyte activity, improving immune responses against cancer cells239.
+
+Anti-Angiogenesis: Compounds like blazeispirols inhibit the formation of new blood vessels that support tumor growth1.
+
+Synergistic Effects with Chemotherapy: β-glucans from A. blazei can sensitise cancer cells to doxorubicin by inhibiting NF-κB activity, potentially overcoming drug resistance1.
+
+Clinical Evidence
+In Vitro Studies: Extracts of A. blazei have been shown to reduce proliferation in breast cancer (MCF-7) cells by 26% and induce apoptosis in ovarian cancer cells24.
+
+Animal Models: In mice studies, oral administration of A. blazei extracts reduced tumor growth and metastasis in fibrosarcoma, myeloma, prostate cancer, ovarian cancer, and lung cancer models45.
+
+Human Studies: Cancer patients consuming A. blazei extracts reported improved quality of life and increased NK cell activity during chemotherapy treatments for gynaecological cancers36.
+
+Limitations and Challenges
+Extraction Methods: The efficacy of A. blazei extracts depends on the preparation method; high-temperature extractions may degrade active compounds5.
+
+Clinical Research Gap: Despite promising preclinical findings, robust clinical trials are limited, making it difficult to standardise its use as an adjunct therapy7.
+
+Safety Concerns: While generally safe, rare cases of liver dysfunction have been reported among cancer patients using Agaricus blazei extracts78.
+
+Conclusion
+The anti-cancer potential of Agaricus blazei Murill lies in its ability to induce apoptosis, modulate immune responses, and enhance the efficacy of chemotherapy drugs. While preclinical studies provide strong evidence for its therapeutic value, further clinical research is needed to establish standardised protocols for its use in oncology.
+
+This mushroom holds promise as a complementary therapy for solid tumours and haematological cancers but should be approached cautiously until more comprehensive studies are conducted.
+
+Dosage
+
+No standardised dosage recommendations for Agaricus blazei exist due to limited clinical data. Studies have used varying doses, typically ranging from 1.5 to 3 grams of dried mushroom extract daily. Optimal dosages for specific conditions remain undetermined.
+
+Cancer Types Tested Against
+Breast Cancer, Leukemia, Lung Cancer
+
+Side Effects
+
+Agaricus blazei is generally considered safe for short-term use but carries specific risks and side effects that require attention246. Below is a detailed breakdown:
+
+Common Side Effects
+Gastrointestinal discomfort: Nausea, diarrhoea, and stomach upset are the most frequently reported issues, affecting ~12% of users in clinical studies136.
+
+Allergic reactions: Skin rashes, itching, and rare cases of food allergies (including one documented liver dysfunction linked to a mushroom allergy)13.
+
+Severe Risks
+Liver Toxicity
+
+Severe hepatic damage (including fulminant hepatitis) has been reported in cancer patients using Agaricus blazei extracts57.
+
+One patient experienced recurring liver dysfunction after restarting the supplement5.
+
+Pre-existing liver disease is a contraindication for use6.
+
+Hypoglycemia
+
+May lower blood sugar, posing risks for diabetics or those taking antidiabetic drugs (e.g., insulin, glimepiride)146.
+
+Drug Interactions
+
+Anticoagulants: Potential blood-thinning effects could amplify bleeding risks4.
+
+Chemotherapy: May interfere with treatment efficacy or exacerbate side effects27.
+
+Special Populations
+Cancer patients: Higher susceptibility to liver damage, with fatal outcomes observed in advanced cases57.
+
+Surgical patients: Discontinue use ≥2 weeks pre-surgery due to hypoglycemia risks6.
+
+Pregnancy/Breastfeeding: Insufficient safety data; avoid use6.
+
+Long-Term Safety Concerns
+Agaritine content: Contains hydrazine derivatives linked to carcinogenicity in animal studies, though human risks remain unclear7.
+
+Contaminants: Wild-harvested mushrooms may accumulate heavy metals (e.g., arsenic, lead) or radioactive compounds7.
+
+Recommendations
+Start with small doses to assess tolerance4.
+
+Monitor blood sugar closely if diabetic16.
+
+Avoid use with pre-existing liver conditions56.
+
+Consult healthcare providers before combining with chemotherapy or immunosuppressants27.
+
+While Agaricus blazei shows therapeutic promise, its safety profile demands caution—particularly in immunocompromised individuals and long-term users57.
+
+Combination Therapies
+
+Agaricus blazei has been investigated in combination therapies with chemotherapy agents and other natural compounds, demonstrating synergistic effects and improved therapeutic outcomes.
+
+Below are key findings from preclinical and clinical studies:
+
+Combination with Chemotherapy Drugs
+Doxorubicin Synergy
+
+β-glucans from A. blazei sensitise cancer cells to doxorubicin by inhibiting NF-κB activity, enhancing drug accumulation in hepatocellular carcinoma cells5.
+
+This combination overcomes multidrug resistance (MDR) in vitro7.
+
+High-Dose Chemotherapy
+
+In multiple myeloma patients, A. blazei supplementation during autologous stem cell transplantation improved natural killer (NK) cell activity and reduced chemotherapy side effects (e.g., appetite loss, alopecia)3.
+
+Ovarian Cancer
+
+Patients receiving A. blazei alongside chemotherapy showed increased NK-cell activity and improved quality of life compared to chemotherapy alone4.
+
+Combination with Other Mushrooms
+AndoSan Complex (82% A. blazei + Grifola frondosa + Hericium erinaceus):
+
+Enhanced immune parameters (TNF-α, haemoglobin) and reduced metastasis in advanced cancers4.
+
+Increased Treg cells and plasmacytoid dendritic cells in stem cell transplant patients4.
+
+Maitake (Grifola frondosa):
+
+Combined with A. blazei, improved haematological parameters and reduced chemotherapy-induced vomiting in breast cancer patients12.
+
+Combination with Plant Extracts
+Green Tea:
+
+Synergistically suppressed urokinase plasminogen activator in breast cancer cells, reducing metastasis12.
+
+Key Mechanisms in Combination Therapies
+Immune Modulation
+
+Boosts NK cell activity and cytotoxic T lymphocytes13.
+
+Apoptosis Enhancement
+
+Induces mitochondrial cytochrome c release and caspase activation57.
+
+Anti-Angiogenesis
+
+Blazeispirols inhibit tumour blood vessel formation5.
+
+Clinical Outcomes
+Combination	Effect	Study Type
+Doxorubicin	Overcame drug resistance in liver cancer	Preclinical5
+High-Dose Chemo	Improved NK activity & reduced side effects	Phase I trial3
+AndoSan Complex	Reduced lung metastasis in breast cancer	Case study24
+Safety Considerations
+Generally safe in combination therapies, but rare cases of liver dysfunction were reported in cancer patients6.
+
+No significant drug interactions noted in most trials, though caution is advised with anticoagulants and immunosuppressants67.
+
+To Summarise:
+Agaricus blazei shows promise as an adjuvant in combination therapies, particularly for enhancing chemotherapy efficacy and mitigating side effects. While preclinical and early clinical data are encouraging, larger randomised trials are needed to standardise protocols.
+
+Links to Scientific Studies
+
+– US National Library of Medicine research on Agaricus blazei
+
+– Europe PMC research on Agaricus blazei
+
+– Pubmed research on Agaricus blazei
+
+Quality of Life Effects
+
+Agaricus blazei supplementation demonstrates measurable quality of life (QoL) improvements across multiple clinical studies, particularly for cancer patients and those with chronic inflammatory conditions.
+
+Key findings include:
+
+Physical QoL Improvements
+Chemotherapy Side Effect Mitigation
+
+Reduced chemotherapy-induced alopecia, appetite loss, and general weakness in gynaecological cancer patients36.
+
+75.7% of breast cancer patients showed increased natural killer (NK) cell counts during chemo/radiotherapy4.
+
+Fatigue Reduction
+
+Ulcerative colitis patients reported 23% lower fatigue scores after 21 days of A. blazei supplementation5.
+
+Cancer patients in remission experienced improved physical vitality (SF-8 scores) with 3.6 g/day dosing2.
+
+Immune Recovery
+
+Enhanced NK cell activity (+38% vs. controls) in cervical/ovarian cancer patients during carboplatin-taxol regimens36.
+
+Increased haemoglobin and erythrocyte counts in advanced cancer patients4.
+
+Mental/Emotional QoL Improvements
+Parameter	Impact	Study
+Emotional Stability	32% reduction in distress linked to treatment side effects	36
+Social Functioning	Improved SF-8 scores for vitality (+18%) and mental health (+15%)	25
+Pain Management	27% reduction in bodily pain scores for ulcerative colitis patients	5
+Dose-Dependent Effects
+Optimal Dose: 3.6 g/day (two packs) yielded simultaneous physical + mental QoL gains in cancer survivors2.
+
+Gender/Age Variations:
+
+Males: Greater physical component improvements (e.g., energy, mobility)2.
+
+Females: Enhanced mental health metrics (emotional role, social functioning)2.
+
+Patients ≤65: Mental health benefits; ≥66: Physical function gains2.
+
+Mechanistic Drivers
+Immunomodulation: Beta-glucans enhance NK cell cytotoxicity and interferon-γ production13.
+
+Anti-Inflammatory Action: Ergosterol derivatives reduce pro-inflammatory cytokines (TNF-α, IL-6)5.
+
+Gut-Brain Axis: Prebiotic effects improve microbiome diversity, linked to mood regulation1.
+
+Limitations
+No improvements in faecal calprotectin (gut inflammation marker) despite symptom relief in colitis5.
+
+Effects vary by cancer type/stage and baseline immune status46.
+
+Conclusion
+Agaricus blazei consistently improves QoL by alleviating treatment side effects, boosting immune resilience, and enhancing mental well-being. While benefits are most pronounced in oncology contexts (3.6 g/day), its adaptogenic properties also benefit chronic inflammatory conditions like ulcerative colitis.
+
+Answers to all your questions
+We’ve done our best to include as much information as possible for this supplement. 
+
+If you have any other questions, please send us a message or join our Skool Group and ask our knowledgeable and friendly community.
+
+How accessible is this supplement?
+Agaricus blazei is generally available as a dietary supplement in health food stores, specialty mushroom retailers, and online marketplaces. Regulatory status and labeling requirements vary by country.
+
+What patient demographic Does this work Best for?
+Agaricus blazei supplementation shows potential benefits for specific patient demographics, based on clinical studies:
+
+Key Beneficiary Groups
+Older Adults (50–80 years)
+
+Demonstrated safety and efficacy in studies with median ages of 65–6636.
+
+Improved immune function (NK cell activity) and quality of life in cancer patients36.
+
+Cancer Patients
+
+Solid Tumours: Lung, colon, gastric, prostate, and gynaecological cancers showed improved outcomes in Japanese trials36.
+
+Chemotherapy Recipients: Reduced treatment side effects (e.g., fatigue, appetite loss) and enhanced immune response37.
+
+Cancer Type	Observed Benefit	Study
+Lung/Colon	Improved survival metrics	3
+Prostate	Safe adjunct to hormone therapy	6
+Gynaecological	Enhanced NK-cell activity during chemo	36
+Metabolic Syndrome Patients
+
+Hypertension: AG-GABA formulation reduced systolic/diastolic BP in mild hypertensive patients8.
+
+Hyperlipidemia: Protein-bound polysaccharides lowered cholesterol by 11% in women8.
+
+Autoimmune/Chronic Inflammation
+
+Crohn’s Disease: Men showed greater symptom improvement than women in a 3-week trial7.
+
+Longevity Seekers
+
+Nonagenarians in Brazil exhibited slower cellular aging with regular use4.
+
+Gender-Specific Responses
+Women: Better cholesterol management and anti-obesity effects8.
+
+Men: Stronger symptom relief in Crohn’s disease and prostate cancer support76.
+
+Contraindications
+Advanced Liver Disease: Risk of hepatotoxicity3.
+
+Younger Adults (<50): Limited data on efficacy/safety.
+
+Recommendations
+Prioritise for cancer patients over 50 receiving chemotherapy.
+
+Consider for hypertensive/hyperlipidaemic patients unresponsive to first-line therapies.
+
+Monitor gender-specific responses in autoimmune conditions.
+
+Current evidence most strongly supports use in older oncology and metabolic patients, with emerging potential for autoimmune applications.
+
+Are there any known resistance mechanisms?
+Resistance Mechanisms Affecting Agaricus blazei Efficacy:
+
+Key Identified Mechanisms
+p53 Mutations
+
+Impact: Cancer cells with mutant p53 exhibit reduced sensitivity to A. blazei compounds like Agarol (ergosterol derivative). Wild-type p53 cells show 3x higher apoptosis rates due to enhanced Bax activation and cytochrome c release2.
+
+Evidence: Mutant p53 delays caspase-3/7 activation and requires higher Agarol concentrations for comparable apoptosis in lung (A549) and gastric (MKN45) cancer cells2.
+
+Gram-Negative Bacterial Resistance
+
+Structural Factors: Outer membranes and efflux pumps in Gram-negative bacteria (e.g., Pseudomonas aeruginosa) reduce susceptibility to A. blazei extracts compared to Gram-positive bacteria1.
+
+Biofilm Formation: A. blazei inhibits quorum sensing (QS) in P. aeruginosa, but resistance may arise through alternative virulence pathways1.
+
+Age-Dependent Host Factors
+
+Reduced Efficacy in Older Hosts: A. blazei polysaccharides (ABMP) showed weaker tumour inhibition in 12-month-old mice vs. 8-month-old mice, linked to lipid metabolism changes in the tumour microenvironment3.
+
+Emerging Hypotheses
+Androgen Receptor Status: Androgen-independent prostate cancer cells (e.g., PC3) show variable apoptotic responses to A. blazei extracts, suggesting receptor-mediated resistance pathways5.
+
+β-Glucan Structural Sensitivity: Linear (1,6)-β-glucans lack bioactivity, implying resistance if cancer cells adapt to evade branched (1,3)-β-glucan recognition4.
+
+Clinical Implications
+Mechanism	Therapeutic Challenge	Mitigation Strategy
+p53 Mutations	Reduced apoptosis in mutant tumours	Combine with p53-activating agents
+Bacterial Efflux Pumps	Limited Gram-negative coverage	Pair with efflux inhibitors
+Aging Microenvironment	Lower lipid modulation in older hosts	Age-adjusted dosing protocols
+Limitations in Current Research
+No studies directly address acquired resistance to A. blazei in cancer cells.
+
+Bacterial resistance data are observational, lacking genetic or molecular validation1.
+
+Conclusion
+The primary resistance mechanism identified involves p53 mutations in cancer cells, while bacterial structural defences and age-related host factors further modulate efficacy. Addressing these challenges requires combination therapies targeting complementary pathways.
+
+Have there been any preclinical studies?
+In Vitro Findings
+Apoptosis Induction
+
+Agarol (ergosterol derivative):
+
+Induces caspase-independent apoptosis in lung (A549) and gastric (MKN45) carcinoma cells via mitochondrial cytochrome c release, regardless of p53 status1.
+
+Wild-type p53 cells exhibit 3x higher apoptosis rates compared to mutant p53 counterparts1.
+
+Ergosterol:
+
+Triggers G2/M cell cycle arrest and apoptosis in MCF-7 breast cancer cells by upregulating pro-apoptotic Bax and downregulating Bcl-24.
+
+Immune Modulation
+
+Enhances NK cell activity and cytotoxic T lymphocyte proliferation in rat models3.
+
+Synergises with doxorubicin by inhibiting NF-κB, overcoming drug resistance in hepatocellular carcinoma cells16.
+
+Anti-Proliferative Effects
+
+Aqueous extracts reduce MCF-7 breast cancer cell proliferation by 26% through API gene regulatory complex activation3.
+
+Inhibits leukaemia (U937, HL-60) and hepatoma (Hep 3B) cell viability via caspase-dependent and -independent pathways14.
+
+In Vivo Findings
+Model	Key Results	Mechanism	Source
+Fibrosarcoma (mice)	Tumour growth inhibition via polysaccharide-protein complexes and lipid fractions	Immunomodulation + anti-angiogenesis	6
+Colon Cancer (SCID mice)	Dose-dependent tumor reduction with Agarol	Direct β-glucan activity	1
+Lung Metastasis (C57BL/6 mice)	Suppressed B16F10 melanoma metastasis	β-glucan-mediated inhibition of intravasation	1
+Hepatoma (rats)	Reduced cyclophosphamide-induced DNA damage	Antimutagenic effects	6
+Key Mechanisms
+Mitochondrial Pathway Activation: Agarol disrupts mitochondrial membrane potential, releasing apoptosis-inducing factor (AIF)1.
+
+Angiogenesis Inhibition: Blazeispirols and ergosterol derivatives block tumor neovascularisation16.
+
+Synergy with Chemotherapy: β-glucans enhance doxorubicin efficacy by inhibiting drug efflux pumps16.
+
+Limitations in Preclinical Research
+Variability in extract composition (e.g., β-glucan content, harvest maturity) affects reproducibility5.
+
+Limited data on pharmacokinetics and bioavailability of active compounds.
+
+Most studies lack dose-response curves or long-term toxicity assessments6.
+
+Conclusion
+Preclinical studies demonstrate Agaricus blazei’s multi-target anti-cancer effects through apoptosis induction, immune activation, and chemosensitisation. While promising, standardisation of extracts and rigorous dose optimisation are critical for translational applications.
+
+Are there current clinical trials?
+For the most up-to-date information on active clinical trials involving Agaricus blazei, refer to reputable databases such as ClinicalTrials.gov.
+
+Are there genetic markers that might affect effectiveness?
+Agaricus blazei‘s therapeutic efficacy shows genetic dependencies, with specific markers influencing its biological activity:
+
+Key Genetic Markers Influencing Efficacy
+p53 Status
+
+Wild-type p53: Enhances apoptosis induction via Agarol (ergosterol derivative), showing greater sensitivity in lung (A549) and gastric (MKN45) cancer cells2.
+
+Mutant p53: Reduces apoptotic response to Agarol, requiring higher concentrations for comparable effects2.
+
+Apoptosis-Related Genes
+
+Bax/Bcl-2 Ratio: Agarol upregulates pro-apoptotic Bax and downregulates anti-apoptotic Bcl-2, amplifying mitochondrial cytochrome c release2.
+
+Caspase Activation: Caspase-independent pathways dominate in p53-wild-type cells, while mutant p53 cells show delayed caspase-3/7 activation2.
+
+Immune Response Genes
+
+KIR/HLA Genes: Upregulated expression in multiple myeloma patients correlates with enhanced immunomodulatory effects3.
+
+Immunoglobulin Genes: Increased expression (e.g., IGLL1, IGHG1) in Agaricus-treated patients suggests B-cell activation3.
+
+Clinical Implications
+Genetic Factor	Impact on Efficacy	Study Type
+Wild-type p53	3x higher apoptosis rate vs. mutant p53	In vitro (carcinoma cells)2
+Bax Upregulation	40% increase in cytochrome c release	Preclinical2
+KIR3DL1 Expression	Linked to improved NK-cell activity	Phase I trial3
+Mechanistic Insights
+p53-Dependent Pathways: Wild-type p53 enhances Agarol’s ability to disrupt mitochondrial membrane potential2.
+
+Immune Modulation: HLA class I/II gene upregulation improves antigen presentation in myeloma patients3.
+
+Limitations
+No SNPs or inherited genetic variants directly linked to efficacy have been identified.
+
+Current evidence focuses on tumour genetics (e.g., p53 mutations) rather than patient germline markers.
+
+Conclusion
+The efficacy of Agaricus blazei is strongly influenced by tumour p53 status and apoptotic gene expression, with wild-type p53 tumours showing superior response. Immune-related genetic markers (KIR/HLA) may further modulate outcomes in haematological cancers.

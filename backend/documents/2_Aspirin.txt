@@ -1,0 +1,439 @@
+Supplement
+Aspirin
+Aspirin, or acetylsalicylic acid, acts by irreversibly inhibiting cyclooxygenase (COX) enzymes—primarily COX-1 and COX-2—through the acetylation of a serine residue at the enzyme’s active site. This inhibition reduces the synthesis of prostaglandins and thromboxanes, which are involved in inflammation, pain, fever, and blood clotting[1][3][5].
+Aspirin
+Cancer Impact Summary
+Click  to Learn More
+
+Induces Apoptosis
+Yes
+Inhibit Cell Proliferation
+Yes
+Target Specific Pathways
+Yes
+Angiogenesis Inhibition
+Yes
+Role in Immunotherapy
+Yes
+Anti-Inflammatory Properties
+Yes
+Full Supplement Details
+
+Aspirin, long recognised for its cardiovascular and anti-inflammatory benefits, is increasingly drawing attention for its potential role in cancer therapy and prevention. Recent research has illuminated several biological mechanisms through which aspirin may exert anti-cancer effects, particularly in reducing metastasis and improving patient outcomes.
+
+Key Mechanisms of Action
+Inhibition of Platelet Function and Immune Modulation
+Aspirin’s anti-cancer properties are closely linked to its ability to inhibit platelet function. Platelets produce thromboxane A2 (TXA2), a molecule that not only promotes clotting but also suppresses the activity of T cells—immune cells capable of recognising and destroying metastatic cancer cells. By reducing TXA2 production, aspirin releases T cells from this suppression, enhancing the immune system’s ability to target and eliminate cancer cells as they attempt to spread127. This immune-mediated mechanism is particularly relevant in the context of micrometastases, which are vulnerable to immune attack before establishing an immunosuppressive tumour microenvironment7.
+
+Regulation of Cancer Cell Metabolism
+Aspirin has been shown to impact the metabolic reprogramming that is a hallmark of cancer. Cancer cells often shift their metabolism to support rapid growth and proliferation. Aspirin can disrupt these metabolic pathways, including glycolysis and glutaminolysis, exposing metabolic vulnerabilities in tumour cells. This opens the door for combination therapies with metabolic inhibitors, potentially enhancing treatment efficacy, especially in colorectal cancer35.
+
+Anti-Inflammatory and Epigenetic Effects
+Chronic inflammation is a known driver of cancer progression. Aspirin blocks the production of enzymes that promote inflammation, thereby reducing the pro-carcinogenic environment45. Additionally, aspirin can influence epigenetic mechanisms such as histone methylation, which are implicated in inflammation-driven cancer progression. These effects contribute to decreased tumour growth and metastasis in preclinical models5.
+
+Enhancement of DNA Repair Mechanisms
+Aspirin has been observed to support DNA repair pathways, particularly in colorectal cancers with mismatch repair deficiencies (such as Lynch syndrome). This action may help reduce the occurrence of genetic instabilities that drive cancer progression5.
+
+Clinical Evidence and Outcomes
+Reduction in Metastasis and Cancer Mortality
+Meta-analyses of large randomised controlled trials and observational studies have consistently shown that daily low-dose aspirin (75–300 mg) is associated with a significant reduction in cancer metastasis and mortality. For example, aspirin use has been linked to a 20% reduction in cancer deaths and a substantial decrease in metastatic recurrence, particularly in colorectal, breast, prostate, and other cancers674. The benefit appears most pronounced when aspirin is started soon after cancer diagnosis6.
+
+Prevention and Adjuvant Therapy
+Aspirin’s role in cancer prevention is well established for colorectal cancer and is being explored for other cancer types. Its adjuvant use—alongside standard therapies—may improve outcomes by targeting residual micrometastatic disease and enhancing the efficacy of immunotherapies and metabolic inhibitors53.
+
+Risks and Considerations
+Bleeding Risks
+Aspirin increases the risk of gastrointestinal bleeding, which must be carefully weighed against its potential benefits, especially in older adults or those with a history of ulcers or concurrent anticoagulant use46. However, recent analyses suggest that aspirin-related bleeding is generally less severe than bleeding from other causes, and fatal bleeding attributable to aspirin is rare6.
+
+Patient Selection and Ongoing Trials
+Not all patients may benefit equally from aspirin therapy. Ongoing clinical trials are working to identify which cancer types and patient populations derive the greatest benefit, and to determine the optimal dose and duration of treatment125. For now, aspirin is already recommended for certain high-risk groups, such as those with Lynch syndrome2.
+
+Conclusion
+Aspirin’s anti-cancer effects are multifaceted, involving immune modulation, metabolic disruption, anti-inflammatory action, and support for DNA repair. The evidence supports its use as a cost-effective adjunct to standard cancer therapies, particularly for reducing metastasis and improving survival in several cancer types. However, due to potential risks, especially bleeding, aspirin use should be considered on an individual basis in consultation with a healthcare professional, and ideally within the context of clinical trials or established guidelines1246.
+
+Dosage
+
+There is no universally established recommended safe dosage of aspirin for cancer prevention or treatment in the general population. However, substantial evidence from clinical trials and guidelines points to the use of low-dose aspirin—typically 75 to 100 mg daily—as the most commonly studied and recommended range for potential anti-cancer effects123469.
+
+For people with Lynch syndrome, the National Institute for Health and Care Excellence (NICE) recommends daily aspirin to reduce bowel cancer risk, but the optimal dose is still under investigation, with ongoing trials comparing 100 mg, 300 mg, and 600 mg daily17. In most cancer studies, the daily dose has ranged from 75 mg (a junior or low-dose tablet) to 300 mg (a standard tablet), with the majority of evidence supporting the lower end of this spectrum123469.
+
+It is crucial to note:
+
+There are no national guidelines recommending aspirin for cancer prevention or treatment in people without specific risk factors (such as Lynch syndrome)17.
+
+Aspirin increases the risk of gastrointestinal bleeding, so any decision to start regular aspirin should be made in consultation with a healthcare professional, taking into account individual risks and benefits1256.
+
+For those who are advised to take aspirin, it is recommended to take it with food to help protect the stomach and reduce bleeding risk1.
+
+In summary, while low-dose aspirin (75–100 mg daily) is most often recommended in research and some clinical settings for its anti-cancer properties, the decision and dosage should always be personalised and supervised by a healthcare provider123469.
+
+Cancer Types Tested Against
+Breast Cancer, Colorectal Cancer, Oesophageal Cancer, Prostate Cancer
+
+Side Effects
+
+Aspirin, even at low doses commonly used in cancer therapy (typically 75–100 mg daily), can cause side effects. While the majority of people tolerate low-dose aspirin well, certain risks are well established and must be weighed carefully, especially in cancer patients.
+
+Most Common Side Effects
+Gastrointestinal Bleeding:
+The most significant risk is bleeding in the stomach or gut. This risk increases with higher doses but is present even at low doses used for cancer therapy126. Bleeding can be serious and, in rare cases, life-threatening, but recent meta-analyses suggest that aspirin-related gastrointestinal bleeding tends to be less severe than spontaneous bleeds and rarely causes death167.
+
+Internal Bleeding:
+Aspirin acts as a blood thinner, increasing the risk of internal bleeding elsewhere in the body. This is particularly relevant for cancer patients who may already have a higher risk of bleeding due to their disease or other treatments13.
+
+Stomach Ulcers and Irritation:
+Aspirin can irritate the stomach lining, leading to ulcers or gastritis, which further raises the risk of bleeding12.
+
+Allergic Reactions:
+Some people may experience allergic reactions, including asthma attacks, especially those with a history of asthma or aspirin sensitivity1.
+
+Contraindications:
+Aspirin is not suitable for everyone. People with haemophilia (a blood clotting disorder), active stomach ulcers, or certain other medical conditions should not take aspirin1.
+
+Other Considerations
+Drug Interactions:
+Aspirin can interact with other medications, such as anticoagulants, increasing the risk of bleeding complications2.
+
+Age-Related Risks:
+Older adults are at higher risk for both bleeding and adverse outcomes. The ASPREE trial found that in people over 70, daily low-dose aspirin was associated with a higher risk of being diagnosed with advanced cancer and dying from cancer, raising questions about its safety and benefit in this age group5.
+
+Severity and Frequency
+The risk of severe or fatal bleeding due to aspirin is low, especially at low doses67.
+
+Most side effects are dose-dependent; higher doses (such as the 600 mg daily used in some Lynch syndrome studies) carry a greater risk of gastrointestinal complications5.
+
+In clinical trials, the rate of gastrointestinal bleeding for low-dose aspirin was similar to placebo in some cases, but caution is still advised, particularly in those with pre-existing risk factors7.
+
+Summary Table: Common Side Effects at Therapeutic (Cancer) Doses
+Side Effect	Frequency/Severity at Low Dose (75–100 mg)	Notes
+Gastrointestinal bleeding	Increased, but often less severe	Rarely fatal; risk rises with age, ulcers, or other drugs167
+Stomach ulcers/irritation	Increased	Take with food to reduce risk1
+Internal bleeding	Increased	Especially with anticoagulants or certain cancers123
+Allergic reactions	Rare, but possible	Asthma, rash, or anaphylaxis in sensitive individuals1
+Haemorrhagic stroke	Rare	Risk is present, especially with high doses or older age
+Conclusion
+Aspirin’s main side effect at therapeutic doses for cancer is an increased risk of bleeding, especially in the gastrointestinal tract. This risk is generally manageable and rarely fatal, but it is higher in older adults, those with a history of ulcers, or those taking other blood-thinning medications. Other side effects, such as allergic reactions and stomach irritation, are less common but should be considered. Aspirin should only be used for cancer therapy under medical supervision, with individual risk factors carefully assessed1267.
+
+Combination Therapies
+
+Aspirin has been extensively tested in combination with other cancer therapies, both in large-scale clinical trials and in preclinical and early-stage clinical research. The focus has been on using aspirin as an adjuvant—that is, given alongside or after standard treatments—to improve cancer outcomes.
+
+Key Examples and Evidence:
+Add-Aspirin Trial (UK, Ireland, India):
+This major phase III, double-blind, placebo-controlled randomised trial is investigating whether regular aspirin use after standard potentially curative primary therapy (such as surgery, chemotherapy, and/or radiotherapy) can prevent recurrence and prolong survival in patients with breast, colorectal, gastro-oesophageal, and prostate cancers. Participants are randomised to receive either 100 mg or 300 mg aspirin daily, or placebo, for at least five years after completing their main cancer treatment1345.
+The trial is specifically designed to assess aspirin’s effect in combination with standard therapies, not as a replacement.
+
+Colorectal Cancer (ASCOLT and ALASCCA Trials):
+The ASCOLT phase 3 trial evaluated aspirin after completion of standard adjuvant therapy (surgery and chemotherapy) for colorectal cancer. While the overall result did not reach statistical significance for all patients, there was a clear trend towards improved disease-free and overall survival, and aspirin was well tolerated. The ALASCCA trial found that aspirin reduced recurrence by over 50% in patients with a specific PIK3CA mutation, again after standard surgery and chemotherapy8.
+These trials confirm aspirin’s role as an adjuvant to established treatments.
+
+Combination with Immunotherapy (Triple Negative Breast Cancer):
+A new clinical trial is testing aspirin in combination with the immunotherapy drug avelumab for aggressive triple negative breast cancer. Preclinical research showed that pairing aspirin with immunotherapy enhanced tumour control in mice, and the ongoing trial is the first to test if aspirin can make tumours more sensitive to immunotherapy in humans6.
+The trial involves giving aspirin and avelumab before surgery and chemotherapy, aiming to improve response rates.
+
+Combination with Targeted Therapies:
+Laboratory and animal studies have demonstrated that aspirin can overcome acquired resistance to targeted therapies in lung and breast cancers. For example, combining aspirin with EGFR tyrosine kinase inhibitors (like gefitinib or osimertinib) in lung cancer, or with tamoxifen in breast cancer, dramatically inhibited proliferation of cancer cells and delayed resistance7.
+These findings support further clinical research into aspirin as part of combination regimens with targeted drugs.
+
+Ongoing and Planned Research:
+Additional clinical trials are evaluating aspirin alongside neoadjuvant chemotherapy and other regimens to see if it can decrease markers of immune suppression and improve outcomes2.
+
+Summary Table: Aspirin in Combination with Other Therapies
+Cancer Type	Combined With	Evidence/Trial
+Breast	Surgery, chemo, immunotherapy (avelumab), tamoxifen	Add-Aspirin, immunotherapy trial, preclinical studies167
+Colorectal	Surgery, chemotherapy	Add-Aspirin, ASCOLT, ALASCCA18
+Gastro-oesophageal	Surgery, chemotherapy	Add-Aspirin1
+Prostate	Surgery, radiotherapy, hormone therapy	Add-Aspirin1
+Lung	EGFR TKIs	Preclinical studies7
+Conclusion
+Aspirin is being rigorously tested as an adjunct to standard cancer therapies—including surgery, chemotherapy, radiotherapy, immunotherapy, and targeted therapy—in several major cancer types. Early results and preclinical data suggest it may enhance treatment effectiveness, delay recurrence, and overcome resistance, particularly in biomarker-selected groups. Ongoing trials such as Add-Aspirin and new immunotherapy combinations will provide further clarity on its optimal use in combination regimens.
+
+Links to Scientific Studies
+
+US National Library of Medicine research on aspirin
+Europe PMC research on aspirin
+Pubmed research on aspirin
+
+Quality of Life Effects
+
+Potential Benefits
+Reduced Cancer Mortality and Recurrence
+Taking low-dose aspirin (typically 75–100 mg daily) for at least five years has been associated with a significant reduction in deaths from several major cancers, particularly those of the digestive tract such as bowel, stomach, and oesophageal cancer13456. For example, a meta-analysis found a 20% reduction in cancer deaths and all-cause mortality among cancer patients taking daily low-dose aspirin45. This translates to a meaningful improvement in long-term prognosis, which can have a positive psychological and emotional impact on quality of life.
+
+Slower Disease Progression
+Regular aspirin use has been linked to a reduced risk of cancer spread (metastasis), which may help maintain a better quality of life by delaying the onset of symptoms and complications associated with advanced cancer45.
+
+Potential for Improved Daily Function
+By reducing cancer recurrence and progression, aspirin may allow patients to remain more active and independent for longer periods, potentially leading to a higher quality of daily living5.
+
+Potential Harms and Side Effects
+Gastrointestinal Bleeding and Ulcers
+The main risk associated with long-term low-dose aspirin is an increased chance of gastrointestinal bleeding and peptic ulcers346. For most people under 70, these events are rare and usually not life-threatening, but they can cause discomfort, require medical intervention, and may temporarily reduce quality of life. The risk rises with age, and for a small proportion of people, bleeding can be serious3.
+
+Peptic Ulcer Disease
+The risk of developing peptic ulcers is increased by 30–60% in those taking aspirin long-term, which can cause pain, indigestion, and, in some cases, more serious complications3.
+
+No Immediate Symptom Relief
+Aspirin does not provide immediate symptomatic benefit for cancer patients (such as pain relief or improved energy). Its primary benefits are long-term and preventive, so users may not notice a change in day-to-day symptoms in the short term136.
+
+Special Considerations for Older Adults
+Older Adults (70+)
+In people aged 70 and above, studies (notably the ASPREE trial) have raised concerns that aspirin may actually increase the risk of being diagnosed with advanced cancer and dying from cancer2. This suggests that for this age group, the quality of life impact could be negative, due to both increased bleeding risk and potentially worse cancer outcomes.
+
+Summary Table: Quality of Life Impact
+Aspect	Positive Impact	Negative Impact
+Cancer-related survival	Lower risk of death/recurrence, improved outlook	—
+Disease progression	Slower spread, longer active life	—
+Daily symptoms	No direct effect	—
+Side effects	—	GI bleeding, ulcers, rare serious complications
+Older adults (70+)	—	Possible increased risk of advanced cancer and death2
+Conclusion
+For most adults aged 50–70 taking low-dose aspirin for at least five years, the quality of life impact is generally positive due to a reduced risk of cancer death and recurrence, with minimal day-to-day side effects for the majority13456. However, the risk of gastrointestinal side effects, particularly bleeding and ulcers, must be weighed against these benefits. For older adults (over 70), the evidence suggests caution, as the risks may outweigh the benefits and could negatively impact quality of life23. Regular medical review is essential to monitor for side effects and ensure ongoing benefit.
+
+Answers to all your questions
+We’ve done our best to include as much information as possible for this supplement. 
+
+If you have any other questions, please send us a message or join our Skool Group and ask our knowledgeable and friendly community.
+
+How accessible is this supplement?
+Aspirin is available over-the-counter in most countries, including the UK, EU, USA, Australia, and New Zealand. However, regulatory guidelines and import/export regulations may differ by jurisdiction.
+
+What patient demographic Does this work Best for?
+No single, universally agreed duration has been established for aspirin use in cancer prevention or adjuvant therapy, but current evidence and guidelines provide clear recommendations for specific groups and contexts.
+
+General Cancer Adjuvant Use and Clinical Trials
+The Add-Aspirin trial is investigating the effects of daily aspirin taken for five years after primary cancer treatment to prevent recurrence in early-stage breast, colorectal, gastro-oesophageal, and prostate cancers1.
+
+Observational studies and meta-analyses indicate that the benefits of aspirin for cancer prevention and survival tend to appear after at least 2–3 years of regular use, with more pronounced effects after 5 years or longer389.
+
+Lynch Syndrome (Hereditary Colorectal Cancer Risk)
+For people with Lynch syndrome, UK clinical guidance recommends aspirin for a minimum of 2 years, with evidence supporting benefit for up to 5 years or more567.
+
+The CAPP2 trial showed that taking 600 mg aspirin daily for just over two years significantly reduced colorectal cancer risk, and benefits persisted for years after stopping the drug57.
+
+Extended use beyond 5 years is not contraindicated and may be considered if the patient is tolerating aspirin well and remains asymptomatic6.
+
+Long-Term Use and Discontinuation
+Studies show that the protective effect of aspirin diminishes within a few years of stopping regular use, especially for colorectal cancer3.
+
+There is evidence that benefits in cancer risk reduction and survival continue for several years after stopping aspirin, particularly after long-term use68.
+
+Summary Table: Duration of Aspirin Use in Cancer Contexts
+Group/Context	Recommended Duration	Evidence/Notes
+General cancer adjuvant	5 years (as per Add-Aspirin)	Benefits typically after 2–5+ years of use1389
+Lynch syndrome	Minimum 2 years; up to 5 years or more	CAPP2 trial, NICE guidance, UK clinical guidelines567
+Long-term prevention	5+ years	Most pronounced benefits after 5+ years389
+Conclusion
+For most cancer prevention and adjuvant settings, at least 2–5 years of daily aspirin is recommended, with ongoing research (such as the Add-Aspirin and CAPP3 trials) further clarifying optimal duration.
+
+For Lynch syndrome, a minimum of 2 years is advised, with evidence supporting benefit up to 5 years or longer.
+
+Extended use may be appropriate for some, provided side effects are monitored, and the patient is reviewed regularly by their healthcare provider6.
+
+Always consult with a healthcare professional before starting or continuing long-term aspirin therapy, as individual risks and benefits must be carefully balanced.
+
+Are there any known resistance mechanisms?
+Several biomarkers and molecular pathways have been identified that correlate with reduced responsiveness or resistance to aspirin in cancer therapy. These markers highlight the complexity of aspirin’s mechanisms and the need for personalised approaches.
+
+Key Resistance Markers and Mechanisms
+Akt/FoxO3a Signalling Pathway
+
+Mechanism: Overactivation of Akt/FoxO3a signalling in non-small cell lung cancer (NSCLC) cells confers resistance to targeted therapies like osimertinib. Aspirin suppresses this pathway, restoring sensitivity by promoting Bim-dependent apoptosis23.
+
+Clinical Relevance: Tumours with hyperactive Akt/FoxO3a may initially resist treatment but become responsive when aspirin is added.
+
+Cancer Stem Cell (CSC) Markers
+
+Markers: CD133, CD44, CD24, ALDH1.
+
+Mechanism: Aspirin downregulates CSC markers in colorectal cancer (CRC) and pancreatic ductal adenocarcinoma (PDA), counteracting stemness and chemoresistance. For example, aspirin reduces CD133 and CD44 expression, sensitising CRC cells to regorafenib25.
+
+NF-κB Activation
+
+Mechanism: Resistant lung and breast cancers exhibit NF-κB-driven inflammation and stemness. Aspirin inhibits NF-κB nuclear translocation, reversing resistance to EGFR inhibitors (e.g., osimertinib) and tamoxifen35.
+
+PIK3CA Wild-Type Status
+
+Mechanism: Aspirin’s efficacy in CRC is strongly linked to PIK3CA mutations. Tumours lacking these mutations show diminished response, suggesting wild-type PIK3CA as a resistance marker2.
+
+Genetic Polymorphisms
+
+Examples:
+
+GSR rs3779647 (glutathione metabolism): Linked to platinum resistance in ovarian cancer, potentially reducing aspirin’s adjuvant benefits4.
+
+TBX2AR rs1131882: Associated with shorter progression-free survival in ovarian cancer patients4.
+
+PD-L1 Expression
+
+Mechanism: High PD-L1 expression in NSCLC correlates with immune evasion. Aspirin suppresses PD-L1 via TAZ inactivation, overcoming resistance to checkpoint inhibitors2.
+
+Exosomal miRNAs
+
+Examples: miR-135b, miR-210.
+
+Mechanism: Hypoxia-induced exosomal miRNAs promote resistance in NSCLC. Aspirin inhibits their release, altering the tumour microenvironment2.
+
+Summary Table: Resistance Markers and Aspirin’s Counteractions
+Marker/Pathway	Cancer Type	Aspirin’s Action	Evidence Source
+Akt/FoxO3a activation	NSCLC	Induces apoptosis via Bim upregulation	23
+CSC markers (CD44, CD133)	CRC, PDA	Downregulates stemness proteins	25
+NF-κB activation	Lung, breast	Inhibits nuclear translocation	35
+Wild-type PIK3CA	CRC	Limited efficacy vs. mutant counterparts	2
+GSR rs3779647	Ovarian	May reduce platinum/aspririn synergy	4
+PD-L1 overexpression	NSCLC	Suppresses via TAZ inactivation	2
+Clinical Implications
+Biomarker-Driven Therapy: Testing for PIK3CA mutations, CSC markers, or NF-κB activity could identify patients likely to benefit from aspirin combinations.
+
+Overcoming Resistance: In NSCLC, aspirin enhances osimertinib efficacy by 50% in xenograft models2. Similarly, in PDA, aspirin reduces desmoplasia and gemcitabine resistance5.
+
+Ongoing Challenges: Genetic variants (e.g., GSR rs3779647) may complicate aspirin’s adjuvant use in ovarian cancer, necessitating further research4.
+
+These findings underscore the importance of molecular profiling to optimise aspirin’s role in overcoming therapeutic resistance.
+
+Have there been any preclinical studies?
+Pre-clinical studies have extensively investigated aspirin’s anti-cancer effects using in vitro (cell-based) and in vivo (animal) models. These trials have elucidated mechanisms of action, dose-response relationships, and potential therapeutic applications.
+
+Key Findings from Pre-Clinical Trials
+In Vitro Studies
+
+Energy Metabolism Disruption:
+Aspirin disrupted cancer cell proliferation by targeting enzymes involved in glycolysis and glutaminolysis in breast and ovarian cancer cell lines4.
+
+Angiogenesis Inhibition:
+In colon cancer and lymphoma cell lines, aspirin suppressed vascular endothelial growth factor (VEGF) activity and COX-2 overexpression, reducing tumour blood vessel formation4.
+
+DNA Repair Enhancement:
+Aspirin improved DNA mismatch repair in colorectal cancer (CRC) cell lines, particularly those with microsatellite instability14.
+
+In Vivo (Animal) Studies
+
+Dose-Dependent Tumour Suppression:
+In CRC xenograft models, aspirin (15–100 mg/kg) reduced tumour growth by decreasing cell division rates and increasing apoptosis. Higher doses showed stronger effects, with 100 mg/kg (equivalent to 600 mg human dose) achieving the most significant suppression3.
+
+Metastasis Inhibition via Immune Modulation:
+In melanoma-bearing mice, aspirin prevented platelet-mediated suppression of T-cells, enhancing immune detection and destruction of metastatic cells. This led to reduced lung metastasis26.
+
+PIK3CA Mutation-Specific Effects:
+Aspirin selectively inhibited tumour growth in CRC xenografts with PIK3CA mutations by disrupting the PI3K/AKT pathway, while wild-type tumours showed limited response3.
+
+Mathematical Modelling
+
+Kinetic Analysis of Tumour Growth:
+3D modelling of CRC xenograft data predicted that aspirin’s anti-proliferative and pro-apoptotic effects synergistically reduce tumour volume over time, supporting its use in adjuvant therapy3.
+
+Summary of Mechanisms Tested in Pre-Clinical Models
+Model Type	Cancer Type	Key Mechanism Tested	Outcome
+In vitro	Breast, ovarian	Metabolic pathway disruption	Reduced proliferation4
+In vitro	Colon, lymphoma	VEGF/COX-2 inhibition	Angiogenesis suppression4
+In vivo (mice)	Colorectal	PI3K/AKT pathway inhibition (PIK3CA mutants)	Dose-dependent tumour suppression3
+In vivo (mice)	Melanoma	Platelet-T-cell interaction	Reduced lung metastasis26
+Limitations and Gaps
+Most studies used high-dose aspirin (100–300 mg/kg in mice), which may not directly translate to human low-dose regimens (75–100 mg/day).
+
+Immune modulation findings in melanoma models26 require validation in other cancer types.
+
+Long-term safety and efficacy in genetically diverse models remain understudied.
+
+Conclusion
+Pre-clinical trials demonstrate aspirin’s multi-target anti-cancer effects, including metabolic disruption, immune enhancement, and mutation-specific efficacy. While promising, these findings highlight the need for biomarker-driven human trials to optimise dosing and patient selection.
+
+Are there current clinical trials?
+Aspirin is currently being investigated in several major clinical trials for its potential to prevent cancer recurrence and improve survival after primary treatment.
+
+The most prominent and ongoing trial is the Add-Aspirin trial, which is a phase III study.
+
+Key Details:
+Add-Aspirin Trial
+
+Phase: III (three)
+
+Status: Ongoing; recruitment for some cancer types continues until approximately 202567.
+
+Design: Double-blind, placebo-controlled, randomised trial.
+
+Participants: Over 11,000 people who have undergone potentially curative treatment for early-stage breast, colorectal (bowel), gastro-oesophageal (stomach and oesophagus), or prostate cancer2367.
+
+Intervention: Daily aspirin (100 mg or 300 mg) versus placebo for up to five years, with follow-up for up to ten years2367.
+
+Aim: To determine if regular aspirin use after standard cancer therapy can prevent recurrence and prolong survival267.
+
+ALASCCA Trial
+
+Phase: III
+
+Status: Recently reported results.
+
+Design: Randomised, double-blind, placebo-controlled.
+
+Participants: Patients with stage I–III colorectal cancer with specific PI3K pathway alterations.
+
+Intervention: 160 mg aspirin daily versus placebo for three years, initiated within three months post-surgery5.
+
+Aim: To evaluate recurrence rates in genetically defined subgroups.
+
+Additional Notes:
+Ongoing clinical trials are also referenced in recent research, with scientists highlighting that these studies are crucial for determining the safe and effective use of aspirin in preventing cancer spread and recurrence14.
+
+The Add-Aspirin trial is the world’s largest of its kind, and its results are expected to inform future guidelines on aspirin’s role in cancer care67.
+
+Summary Table: Major Current Aspirin Cancer Trials
+Trial Name	Phase	Cancer Types Included	Status/Timeline	Intervention
+Add-Aspirin	III	Breast, colorectal, gastro-oesophageal, prostate	Recruiting/running until ~2025	100 mg or 300 mg aspirin daily vs placebo
+ALASCCA	III	Colorectal (PI3K pathway mutations)	Recently completed	160 mg aspirin daily vs placebo
+Conclusion:
+Aspirin is currently the subject of large, phase III clinical trials—most notably the Add-Aspirin trial, which is ongoing and recruiting until 2025. These trials are designed to determine whether aspirin can safely and effectively reduce cancer recurrence and improve survival in several common cancer types after standard treatment2367.
+
+Are there genetic markers that might affect effectiveness?
+Several genetic markers have been identified that influence aspirin’s effectiveness in cancer prevention and treatment. These markers help stratify patients who are most likely to benefit from aspirin therapy, enabling personalised approaches.
+
+Key Genetic Markers and Their Roles
+PIK3CA Mutations
+
+Mechanism: Aspirin inhibits the PI3K/AKT signalling pathway, which is hyperactivated in cancers with PIK3CA mutations (found in 15–20% of colorectal cancers).
+
+Evidence:
+
+Colorectal cancer (CRC) patients with PIK3CA mutations experienced a 50% reduction in recurrence risk after 3 years of aspirin use (160 mg/day) compared to placebo61014.
+
+Preclinical studies show aspirin induces apoptosis and autophagy more effectively in PIK3CA-mutant CRC cells than in wild-type cells81214.
+
+PTGS2 (COX-2) Expression
+
+Mechanism: High PTGS2 expression correlates with aspirin’s ability to reduce CRC risk via COX-2 inhibition and downstream anti-inflammatory effects.
+
+Evidence: Aspirin’s protective effect is limited to patients with high PTGS2 expression in colonic mucosa17.
+
+ADH1B and ALDH2 Polymorphisms
+
+Mechanism: These genes regulate alcohol metabolism. Aspirin’s efficacy in preventing polyp growth in familial adenomatous polyposis (FAP) patients is stronger in those with ADH1B-AA and ALDH2-GG genotypes4.
+
+Evidence: Aspirin reduced polyp growth risk by 79–90% in carriers of these variants4.
+
+GWAS-Identified SNPs
+
+rs350047 (5p12.1) and rs72833769 (6p24.1): These SNPs interact with aspirin/NSAID use to reduce CRC risk, particularly in women5.
+
+rs2965667 (near MGST1) and rs16973225 (near IL16): Linked to aspirin’s anti-inflammatory and oxidative stress pathways13.
+
+Mismatch Repair (MMR) Genes (Lynch Syndrome)
+
+Mechanism: Aspirin enhances DNA repair in MMR-deficient cells, reducing genomic instability.
+
+Evidence: Regular aspirin use lowers CRC risk by ~60% in Lynch syndrome carriers, particularly those with MLH1 or MSH2 mutations1516.
+
+Summary Table: Genetic Markers and Aspirin Efficacy
+Genetic Marker	Cancer Type	Effect of Aspirin	Key Studies
+PIK3CA mutations	Colorectal	50% ↓ recurrence risk	68101214
+High PTGS2 expression	Colorectal	Reduced CRC incidence	17
+ADH1B-AA/ALDH2-GG	FAP-associated CRC	79–90% ↓ polyp growth risk	4
+rs350047/rs72833769	Colorectal	Enhanced preventive effect (GWAS findings)	513
+MMR gene mutations	Lynch syndrome CRC	~60% ↓ CRC risk	1516
+Clinical Implications
+Personalised Prevention: Testing for PIK3CA mutations, PTGS2 expression, or Lynch syndrome mutations can identify patients most likely to benefit from aspirin.
+
+Dosing Considerations: Higher doses (e.g., 160–300 mg/day) may be required for PIK3CA-mutant cancers610.
+
+Ongoing Research: Trials like Add-Aspirin (phase III) aim to validate these biomarkers in breast, prostate, and gastro-oesophageal cancers16.
+
+These findings underscore the importance of genomic profiling to optimise aspirin’s use in cancer prevention and adjuvant therapy.

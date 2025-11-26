@@ -1,0 +1,337 @@
+Supplement
+Beta Glucan
+Beta glucans are naturally occurring polysaccharides primarily found in the cell walls of fungi, yeast, oats, and barley. They serve as structural components and are recognised for their ability to bind to specific receptors on immune cells, thereby modulating and enhancing immune responses through immune cell activation[1][4][3].
+Beta Glucan
+Cancer Impact Summary
+Click  to Learn More
+
+Induces Apoptosis
+Yes
+Inhibit Cell Proliferation
+Yes
+Target Specific Pathways
+Yes
+Angiogenesis Inhibition
+Yes
+Role in Immunotherapy
+Yes
+Anti-Inflammatory Properties
+Yes
+Full Supplement Details
+
+Beta glucan is a naturally occurring polysaccharide found in the cell walls of fungi (including medicinal mushrooms), yeasts, and certain cereals. It has gained considerable attention in recent years for its potential anti-cancer properties, primarily due to its immunomodulatory effects and ability to directly influence tumour growth and progression125.
+
+Mechanisms of Anti-Cancer Action
+Beta glucan exerts its anti-cancer effects through several key mechanisms:
+
+Immunomodulation: Beta glucans stimulate both innate and adaptive immune responses. They activate immune cells such as macrophages, natural killer (NK) cells, dendritic cells, and T-cells, leading to enhanced tumour surveillance and destruction of cancerous cells126.
+
+Direct Anti-Tumour Effects: Beta glucans can inhibit cancer cell proliferation, induce apoptosis (programmed cell death), and impede angiogenesis (the formation of new blood vessels that supply tumours)16.
+
+Modification of the Tumour Microenvironment: By binding to receptors such as Dectin-1 and complement receptor 3 (CR3) on immune cells, beta glucans convert suppressive cells into inflammatory phenotypes, further promoting anti-tumour immunity25.
+
+Synergy with Conventional Therapies: Beta glucans have shown potential to enhance the efficacy of chemotherapy, radiotherapy, and immunotherapy, both by increasing cancer cell sensitivity to these treatments and by mitigating adverse effects such as chemotherapy-induced nausea and immune suppression1346.
+
+Sources and Structure-Activity Relationships
+The anti-cancer efficacy of beta glucans is influenced by their source, molecular weight, branching structure, and solubility:
+
+Fungal Beta Glucans: Those derived from fungi and yeasts (e.g., Lentinula edodes, Grifola frondosa, Saccharomyces cerevisiae) are particularly potent, especially beta-(1,3)-(1,6)-glucans15. These forms are more effective at stimulating immune responses than cereal-derived beta glucans.
+
+Molecular Structure: Beta-(1,3)-glucans with beta-(1,6) branching tend to have greater immunostimulatory and anti-cancer effects than other forms1.
+
+Preclinical and Clinical Evidence
+Animal Studies: Numerous preclinical studies demonstrate that beta glucans can reduce tumour growth, induce tumour cell apoptosis, and enhance immune cell infiltration in various cancer models, including colorectal, pancreatic, and gastric cancers16.
+
+Clinical Trials: Early clinical studies suggest that beta glucan supplementation may improve survival rates and reduce recurrence in cancers such as hepatocellular carcinoma, gastric cancer, and colorectal cancer. It has also been shown to enhance NK cell activity in both healthy volunteers and cancer patients, and to improve quality of life by reducing chemotherapy side effects46.
+
+Combination Therapies: Beta glucans, when combined with monoclonal antibodies or chemotherapy, have demonstrated synergistic effects, leading to improved tumour response and patient outcomes36.
+
+Safety and Practical Considerations
+Adjuvant Use: Beta glucans are considered a complementary therapy and are not approved as a standalone treatment for cancer. Patients should consult their oncology team before integrating beta glucans into their regimen, particularly to avoid potential interactions with other treatments4.
+
+Best Sources: Yeast and mushroom-derived beta glucans have shown the most promise in cancer research, whereas cereal-derived beta glucans are more associated with cardiovascular benefits4.
+
+Summary Table: Key Anti-Cancer Actions of Beta Glucan
+
+Mechanism	Description	Evidence Level
+Immune Activation	Stimulates macrophages, NK cells, and T-cells to attack tumour cells	Strong (preclinical, some clinical)1256
+Direct Tumour Inhibition	Induces cancer cell apoptosis, inhibits proliferation and angiogenesis	Strong (preclinical)16
+Tumour Microenvironment Modulation	Converts suppressive immune cells to inflammatory phenotypes, enhances cytokine production	Strong (preclinical)25
+Synergy with Cancer Therapies	Enhances efficacy of chemotherapy, radiotherapy, and immunotherapy; reduces side effects	Moderate (clinical, ongoing trials)346
+Conclusion
+Beta glucan, particularly from fungal and yeast sources, displays significant promise as an adjunctive therapy in cancer treatment, owing to its ability to modulate the immune system, directly inhibit tumour growth, and enhance the effects of conventional therapies. While much of the evidence is preclinical, early clinical studies are encouraging, especially regarding improved survival and quality of life in cancer patients. Ongoing research and clinical trials will further clarify its role and optimal use in oncology1246.
+
+Dosage
+
+Clinical Evidence and Safety
+Human studies and clinical trials have consistently shown that beta glucan is generally safe and well tolerated, including in cancer patients receiving chemotherapy3469.
+
+Doses used in clinical settings vary considerably depending on the source, preparation, and intended use. For example, one clinical trial administered one tablet of a β-(1,3)/(1,6) D-glucan preparation twice daily to cancer patients, with no reported adverse effects3.
+
+In healthy volunteers, oral doses of 15 grams three times daily for one month were well tolerated and resulted in increased natural killer (NK) cell activity6.
+
+Animal and human studies have reported that even high doses—up to 10 mg/kg—are non-toxic and well tolerated610.
+
+In practice, beta glucan supplements for immune support or adjunctive cancer therapy are often used in cycles of several weeks on, followed by several weeks off, though there is not yet a universally accepted protocol for long-term use5.
+
+General Dosage Ranges
+Studies have used a wide range of doses, from as low as 3 mg to as high as 250 mg daily, depending on the formulation and purpose7.
+
+Clinical trials in cancer patients have safely used daily oral doses ranging from 100 mg to 400 mg for short periods (e.g., 4 consecutive days) without adverse effects1.
+
+Doses up to 6 mg/kg as a single dose and up to 4 mg/kg daily for 7 days have been well tolerated in clinical settings10.
+
+Long-Term Safety
+While short-term use (up to 8–12 weeks) appears safe, there is insufficient evidence to determine the safety of long-term, continuous beta glucan supplementation25.
+
+Recommendations
+No official, universally established recommended safe dosage exists for beta glucan as an anti-cancer adjunct, and optimal dosing may depend on the specific product and individual patient factors79.
+
+Patients considering beta glucan supplementation, especially alongside cancer therapy, should consult their oncology team to determine an appropriate and safe regimen5.
+
+Summary Table: Typical Dosage Ranges from Studies
+Setting/Population	Dose Range	Duration	Safety Outcome
+Cancer patients (oral)	100–400 mg/day	4 days to several weeks	No adverse effects reported13
+Healthy volunteers (oral)	15 g, 3x/day	1 month	Well tolerated6
+Clinical (various)	Up to 10 mg/kg	Variable	Non-toxic, well tolerated610
+General supplement use	3–250 mg/day	Variable	Safe, well tolerated79
+Conclusion
+Beta glucan is generally regarded as safe and well tolerated at doses commonly used in clinical studies, with no major adverse effects reported. However, a universally agreed recommended dosage for anti-cancer purposes has not been established. Short-term use of 100–400 mg/day appears safe, but long-term safety remains to be conclusively determined. Always consult a healthcare professional before beginning supplementation, particularly in the context of cancer therapy2356.
+
+Cancer Types Tested Against
+Brain Cancer, Breast Cancer, Colorectal Cancer, Gastrointestinal Stromal Tumor (GIST), Lung Cancer, Pancreatic Cancer, Skin Cancer (including Melanoma)
+
+Side Effects
+
+At therapeutic doses for cancer, beta glucan is generally considered safe and well-tolerated, but some side effects have been reported in clinical studies and reviews.
+
+The most commonly observed side effects include:
+
+Digestive issues (such as diarrhoea, constipation, nausea, vomiting, and abdominal discomfort)
+
+Fatigue
+
+Decreased appetite
+
+Blood count changes (including leukopenia and thrombocytopenia)
+
+Decreased blood potassium or magnesium levels
+
+Chest and abdominal pain
+
+Chills
+
+Inflammation of the mucous membranes
+
+Infection of tissue around finger or toenail beds
+
+Most side effects are mild to moderate, and serious adverse reactions are rare. Beta glucan may also alleviate some chemotherapy-related side effects, such as nausea, mucositis, diarrhoea, and leukopenia, potentially improving quality of life for cancer patients1235.
+
+Beta glucan may interact with blood pressure medications and immunosuppressants, so patients taking these should consult their doctor before use. Pregnant and breastfeeding individuals are advised to avoid beta glucan supplements due to insufficient safety data1.
+
+Long-term daily use has not been conclusively studied, so most protocols use cycles of several weeks on and off1. Always consult an oncology team before starting supplementation.
+
+Combination Therapies
+
+Beta glucan has been extensively tested in combination with various cancer therapies, demonstrating synergistic effects and enhanced efficacy.
+
+Key combinations include:
+
+1. Immunotherapy (Checkpoint Inhibitors)
+
+PD-1/PD-L1 inhibitors: Combined with camrelizumab (anti-PD-1) in advanced gastric adenocarcinoma, improving progression-free survival (10.4 months) and overall survival (14.0 months)16.
+
+Resistant cancers: WGP β-glucan reinvigorated PD-1/PD-L1 therapy in immunotherapy-resistant lung cancer patients, improving median progression-free survival (3.67 months)8.
+
+2. Chemotherapy
+
+SOX regimen (oxaliplatin + S-1): Used with β-glucan in advanced gastric cancer, achieving a 60% objective response rate and reduced chemotherapy-induced nausea/leukopenia13.
+
+Gemcitabine: Combined with β-glucan and monoclonal antibodies in pancreatic cancer trials (NCT02132403)3.
+
+3. Monoclonal Antibodies
+
+Cetuximab: Enhanced efficacy in KRAS-mutant colorectal cancer by improving immune cell recognition3.
+
+CD40 agonist antibody: Preclinical studies showed eradication of treatment-resistant pancreatic tumours by reactivating myeloid cells18.
+
+4. Physical Ablation Techniques
+
+Irreversible electroporation (IRE): Combined with β-glucan in pancreatic cancer models, reducing local/distant tumour burden and prolonging survival7.
+
+5. Targeted Therapies
+
+Anti-MUC1 antibodies: Paired with β-glucan in advanced pancreatic ductal adenocarcinoma (PDAC) trials3.
+
+6. Probiotics
+
+Lactobacillus rhamnosus: Combined with β-glucan to mitigate chemotherapy side effects like leukopenia and mucositis15.
+
+Outcomes:
+
+Improved tumour response rates and survival in gastric, colorectal, pancreatic, and lung cancers1358.
+
+Reduced chemotherapy-related adverse effects (nausea, mucositis, leukopenia)31215.
+
+Enhanced immune cell infiltration (CD4+ T cells, NK cells) and cytokine production (IL-2, IFN-γ)68.
+
+These combinations highlight β-glucan’s role as a versatile adjuvant, enhancing both conventional and emerging therapies while maintaining a manageable safety profile.
+
+Links to Scientific Studies
+
+US National Library of Medicine research on beta glucans
+Europe PMC research on beta glucans
+Pubmed research on beta glucans
+
+Quality of Life Effects
+
+At therapeutic levels, beta glucan has shown a positive impact on quality of life for cancer patients, particularly those undergoing chemotherapy.
+
+Clinical studies report the following key benefits:
+
+Improved global health and quality of life scores: In a randomised controlled trial of breast cancer patients receiving chemotherapy, those taking beta glucan experienced a significant increase in their overall quality of life scores compared to baseline, although the difference compared to placebo was not statistically significant23.
+
+Reduced symptom burden: Patients taking beta glucan reported a significant reduction in symptoms such as nausea, vomiting, fatigue, insomnia, appetite loss, mucositis, diarrhoea, and abdominal discomfort. These improvements were significant both within the beta glucan group and compared to placebo for symptom scales2345.
+
+Better management of chemotherapy side effects: Beta glucan supplementation has been associated with faster recovery of white blood cell counts, reduced incidence and severity of chemotherapy-induced leukopenia and thrombocytopenia, and fewer infections, which can all contribute to improved well-being and ability to continue treatment45.
+
+Sense of well-being and less fatigue: Some patients have reported feeling generally better and experiencing less fatigue while taking beta glucan5.
+
+Minimal side effects: Beta glucan is generally well tolerated, with few and mild side effects reported at therapeutic doses25.
+
+These findings suggest that, when used as an adjunct to standard cancer therapies, beta glucan can enhance quality of life by alleviating treatment-related symptoms and supporting immune function, without adding significant toxicity245.
+
+Answers to all your questions
+We’ve done our best to include as much information as possible for this supplement. 
+
+If you have any other questions, please send us a message or join our Skool Group and ask our knowledgeable and friendly community.
+
+How accessible is this supplement?
+Beta glucan supplements are widely available for purchase in health food stores and through online retailers.
+
+What patient demographic Does this work Best for?
+No specific patient demographic has been definitively determined as most likely to benefit from beta glucan therapy; however, current evidence suggests several groups may derive particular benefit:
+
+Cancer patients receiving chemotherapy: Multiple studies report that beta glucan is well-tolerated and may help ameliorate blood count suppression and improve quality of life in patients with advanced malignancies undergoing chemotherapy, regardless of age or sex1235.
+
+Patients with advanced or metastatic cancers: Trials have included patients with poor performance status (ECOG 1–2), metastatic disease, and those who have previously undergone surgery or other treatments, showing favourable responses and manageable safety profiles5.
+
+Immunocompromised or elderly patients: Beta glucan has shown potential to enhance immune function and NK cell activity across different age groups, including older adults, and may be particularly useful in immunocompromised individuals or those genetically prone to cancer7.
+
+Patients with various cancer types: Positive outcomes have been observed in breast, lung, colon, gastric, and lymphoma patients, indicating broad applicability rather than restriction to a specific demographic12512.
+
+In summary, while no strict demographic criteria exist, beta glucan appears especially promising for cancer patients with compromised immunity, those undergoing chemotherapy, and individuals with advanced or metastatic disease, including older adults and those with poor performance status257.
+
+Further research is needed to refine patient selection.
+
+Are there any known resistance mechanisms?
+No specific resistance markers—such as genetic mutations or molecular signatures in cancer cells or patients—that directly reduce the efficacy of beta glucan have been identified in current human or clinical research1345.
+
+However, some factors could theoretically influence efficacy:
+
+Certain gut bacteria possess systems (such as the Sus system in Bacteroidetes) that can degrade beta glucan, potentially affecting its bioavailability and thus its therapeutic impact2.
+
+The Dectin-1 receptor, which mediates many of beta glucan’s immune effects, is highly conserved among humans, and no resistance-conferring variants have been reported in the literature to date2.
+
+In summary:
+No established resistance markers have been identified that affect beta glucan’s efficacy in clinical or preclinical cancer studies.
+
+Have there been any preclinical studies?
+Pre-clinical studies have extensively investigated beta glucan’s anti-cancer effects across multiple cancer types, focusing on immune modulation, direct tumour inhibition, and synergy with other therapies.
+
+Key findings include:
+
+Colorectal Cancer
+CT-26 murine models:
+
+Low-molecular-weight β-glucan (LMW-AP-FBG) reduced tumour proliferation and induced apoptosis via mitochondrial transmembrane potential loss3.
+
+Alternating β-glucan intake decreased TNF-α levels, improved gut microbiota (e.g., increased Parabacteroides), and downregulated inflammation-associated genes2.
+
+Anti-inflammatory effects: β-glucan ameliorated colitis-associated colorectal cancer by remodelling the inflammatory microenvironment3.
+
+Pancreatic Cancer
+KPC (KrasG12D; Trp53R172H; Pdx1-Cre) mouse models:
+
+β-glucan combined with irreversible electroporation (IRE) reduced local/distant tumour burden and prolonged survival by enhancing immune cell infiltration and myeloid cell training23.
+
+PANC-02 syngeneic models: β-glucan enhanced macrophage phagocytosis and Th1 cytokine production (e.g., IL-12, IFN-γ)2.
+
+Gastric Cancer
+MKN-45 xenografts: Fungal β-glucans (e.g., from Grifola frondosa) inhibited tumour growth and improved survival rates2.
+
+Combination with monoclonal antibodies: Enhanced efficacy of cetuximab in KRAS-mutant models by improving immune cell recognition4.
+
+Melanoma
+B16F10 murine models:
+
+Oat-derived BG34 β-glucan polarised M2 macrophages to M1 phenotypes, increased T-cell infiltration, and reduced primary/metastatic tumour growth5.
+
+Soluble yeast-derived BG36 β-glucan synergised with anti-PD-1 antibodies, achieving tumour regression in CR3-dependent mechanisms5.
+
+Breast Cancer
+4T1 syngeneic models: β-glucan enhanced NK cell cytotoxicity and suppressed metastasis via TLR4/NF-κB signalling1.
+
+MDA-MB-231 xenografts: Combined with trastuzumab, β-glucan improved antibody-dependent cellular phagocytosis4.
+
+Lung Cancer
+Lewis lung carcinoma models: β-glucan reduced tumour growth by activating dendritic cells and increasing IFN-γ production4.
+
+Immunotherapy-resistant models: WGP β-glucan restored PD-1/PD-L1 inhibitor efficacy, improving progression-free survival2.
+
+Mechanisms Investigated
+Immune Activation:
+
+Dectin-1 and CR3 receptor binding stimulated macrophages, NK cells, and T-cells15.
+
+Complement system activation (e.g., iC3b deposition) enhanced antibody-dependent phagocytosis14.
+
+Direct Tumour Effects:
+
+Apoptosis induction via mitochondrial dysfunction3.
+
+Angiogenesis inhibition by suppressing VEGF signalling4.
+
+Tumour Microenvironment (TME) Modulation:
+
+Converted immunosuppressive M2 macrophages to pro-inflammatory M1 phenotypes5.
+
+Increased cytokines (e.g., TNF-α, IFN-γ) and chemokines (CXCL9/10) in TME5.
+
+Synergistic Therapies
+Chemotherapy: Enhanced efficacy of gemcitabine and oxaliplatin while reducing side effects (e.g., leukopenia)24.
+
+Monoclonal antibodies: Improved tumour targeting with cetuximab and trastuzumab via CR3-mediated phagocytosis45.
+
+Physical ablation: IRE combined with β-glucan eradicated treatment-resistant pancreatic tumours2.
+
+Key Beta Glucan Sources Tested
+Source	Notable Findings
+Fungal (e.g., Grifola frondosa)	High stability; potent TME modulation24.
+Yeast (Saccharomyces cerevisiae)	Synergised with checkpoint inhibitors15.
+Oat-derived (BG34)	Induced M1 macrophage polarisation5.
+Algal (BG136)	Enhanced anti-PD-1 efficacy via TLR4/NF-κB1.
+Summary
+
+Pre-clinical trials demonstrate β-glucan’s broad anti-cancer potential through immune activation, direct tumour inhibition, and synergy with conventional therapies. While results are promising, further research is needed to optimise dosing, formulations, and combination regimens for clinical translation1245.
+
+Are there current clinical trials?
+Beta glucan is currently part of several ongoing clinical trials for cancer:
+
+Advanced Gastric Adenocarcinoma: A phase IB, prospective, single-arm trial is testing β-glucan combined with camrelizumab (a PD-1 inhibitor) and SOX chemotherapy. This trial has reported positive preliminary results for efficacy and safety, and is in phase IB12.
+
+Colorectal Cancer: A randomised, placebo-controlled trial of LentinexHP (a proprietary beta glucan) as an adjunct to chemotherapy in late-stage colorectal cancer is ongoing. The trial is approaching its halfway stage, with no serious adverse events reported so far3.
+
+Advanced Melanoma and Triple-Negative Breast Cancer: A multicentre, open-label, phase II study is underway, testing PGG beta-glucan in combination with pembrolizumab (an anti-PD-1 therapy) in patients with advanced melanoma and metastatic/recurrent triple-negative breast cancer4.
+
+Other Cancers: Beta glucan is also being evaluated in clinical trials as an adjuvant with monoclonal antibodies and immunotherapies in various cancers, including head and neck, breast, and non-small-cell lung cancer56.
+
+In summary, beta glucan is actively being tested in phase IB and phase II clinical trials as part of combination therapies for several types of cancer.
+
+Are there genetic markers that might affect effectiveness?
+Genetic markers influencing beta-glucan content or efficacy have been identified in plant studies, though human genetic factors affecting therapeutic efficacy remain uncharacterised in the provided research.
+
+Context	Identified Markers/Genes	Relevance to Beta-Glucan Efficacy
+Barley (Crop)	Seven SNP markers (e.g., SNP2, SNP3) linked to β-glucan content67	Affects β-glucan levels in grains, relevant for agricultural yield.
+Wild Barley	QTL regions on chromosomes 2H, 5H, and 7H7	Guides breeding for higher β-glucan content.
+No human genetic markers (e.g., receptor polymorphisms like Dectin-1/CR3) impacting β-glucan’s therapeutic effects (e.g., immune modulation, anti-cancer activity) are reported in the provided studies. Research remains focused on plant genetics.

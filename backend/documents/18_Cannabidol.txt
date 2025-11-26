@@ -1,0 +1,571 @@
+Supplement
+Cannabidiol (CBD Oil)
+Cannabidiol (CBD) is a non-psychoactive phytocannabinoid derived from Cannabis sativa that primarily interacts with the endocannabinoid system, influencing various physiological processes including pain perception, mood regulation, and immune function.
+Cannabidiol (CBD Oil)
+Cancer Impact Summary
+Click  to Learn More
+
+Induces Apoptosis
+Yes
+Inhibit Cell Proliferation
+Yes
+Target Specific Pathways
+Yes
+Angiogenesis Inhibition
+Yes
+Role in Immunotherapy
+No
+Anti-Inflammatory Properties
+Yes
+Full Supplement Details
+
+Cannabidiol (CBD) has emerged as a promising adjunct in cancer management, demonstrating multifaceted anti-cancer properties through diverse molecular mechanisms. Preclinical studies highlight its ability to target cancer cells while sparing healthy tissues, making it a compelling candidate for integrative oncology approaches.
+
+Mechanisms of Anti-Cancer Action
+Pro-apoptotic Effects:
+
+Induces programmed cell death via reactive oxygen species (ROS) generation and endoplasmic reticulum stress138
+
+Suppresses X-linked inhibitor of apoptosis (XIAP) in gastric cancer3
+
+Activates TRPV2 channels to trigger mitochondrial dysfunction in bladder cancer49
+
+Anti-Proliferative Activity:
+
+Arrests cell cycle at G0/G1 phase through p21 upregulation38
+
+Inhibits EGFR/MAPK signalling pathways in head/neck cancers3
+
+Reduces ID-1 protein expression (linked to metastasis) in breast cancer89
+
+Anti-Angiogenesis & Metastasis:
+
+Downregulates VEGF and MMP-2 (key angiogenesis factors)15
+
+Reverses epithelial-mesenchymal transition in lung/breast cancers38
+
+Inhibits cancer cell migration by 72-89% in glioblastoma models89
+
+Key Cancer-Type Specific Effects
+Cancer Type	CBD Effects Demonstrated	Study Type
+Glioblastoma	83% 1-year survival when combined with temozolomide3	Phase 1b Trial
+Breast Cancer	40% reduction in lung metastasis in murine models8	Preclinical
+Leukaemia	Selective cytotoxicity without harming healthy marrow6	In Vitro
+Gastric Cancer	50% apoptosis induction via XIAP suppression3	In Vivo
+Synergy with Conventional Therapies
+Enhances temozolomide efficacy in glioblastoma by overcoming MGMT-mediated resistance4
+
+Potentiates doxorubicin and cisplatin in breast cancer through ABC transporter inhibition8
+
+Shows 3.2× greater tumour reduction compared to radiation alone in glioma models8
+
+Clinical Considerations
+Phase 1 trials demonstrate safety up to 600 mg/day with mild side effects (fatigue, appetite changes)7
+
+Nabiximols (1:1 THC:CBD) approved for cancer pain management in multiple countries27
+
+Current limitations: Lack of large-scale RCTs and standardized dosing protocols37
+
+Emerging evidence positions CBD as a multimodal anti-cancer agent with particular promise in chemo-potentiation and metastasis prevention.
+
+While preclinical data is compelling, translation to clinical practice requires rigorous human trials to establish optimal dosing, delivery methods, and long-term safety profiles157.
+
+Dosage
+
+Current clinical evidence suggests CBD dosing for cancer patients remains highly individualized, with studies testing doses from 20-600 mg/day and guidelines emphasising cautious titration.
+
+While preclinical models show promise, human trial data reveals complex therapeutic considerations.
+
+Tested Dosage Ranges
+Clinical Trials:
+
+Phase 1b Trial: Advanced cancer patients tolerated 300-600 mg/day orally, with median doses of 300 mg14
+
+Phase IIb RCT: Self-titrated doses reached 600 mg/day (median 400 mg), though no clinical benefit over placebo45
+
+Combination Therapy: Glioblastoma trials paired 3.7 mg/kg CBD with temozolomide2
+
+Preclinical Models:
+
+In vitro: 0.01-100 µM concentrations (equivalent to ~3-300 mg human doses)
+
+In vivo: 1-100 mg/kg in animal models (translating to ~70-700 mg for 70kg human)2
+
+Current Dosing Recommendations
+Source	Active Cancer	Maintenance (Remission)	Notes
+Realm of Caring	100 mg CBD/day (adults)
+50 mg CBD/day (children)	200 mg CBD/day (adults)
+25-50 mg CBD/day (children)	Start low, titrate based on tolerance3
+ASCO Guidelines	Not recommended ≥300 mg/day outside trials	N/A	Caution with liver impairment6
+Key Safety Considerations
+Bioavailability Factors:
+
+Sublingual administration reaches peak concentration faster (1-6 hrs vs 2.5-5 hrs oral)1
+
+Food increases absorption by up to 4×1
+
+Hepatic impairment requires dose reduction1
+
+Adverse Effects:
+
+Mild fatigue (23% at 600 mg)4
+
+Appetite changes (18%)1
+
+No severe toxicity reported below 600 mg/day45
+
+Drug Interactions:
+
+Potential CYP450 inhibition at high doses6
+
+Caution with opioids, anticoagulants, and chemo agents6
+
+While early-phase trials demonstrate short-term safety up to 600 mg/day, recent RCTs show no significant symptom control benefit over placebo in advanced cancers45. Current guidelines recommend against routine use of high-dose CBD (≥300 mg/day) outside clinical trials due to insufficient efficacy evidence and variable pharmacokinetics6. Patients considering CBD should consult oncologists to weigh potential risks against limited proven benefits, particularly regarding liver function and polypharmacy concerns.
+
+Cancer Types Tested Against
+Brain Cancer, Breast Cancer, Colorectal Cancer, Leukemia, Lung Cancer, Prostate Cancer
+
+Side Effects
+
+CBD oil exhibits a generally favourable safety profile but carries notable side effect risks that require careful consideration, particularly in therapeutic contexts. Clinical evidence reveals both common and serious adverse effects across different dosing regimens and patient populations.
+
+Common Side Effects
+Gastrointestinal: Diarrhoea (12.9-16%), reduced appetite (16.5%), nausea (8-12%)
+
+Neurological: Fatigue (23% at 600 mg/day), somnolence (23.7% in epilepsy trials)
+
+Metabolic: Elevated liver enzymes (4.3% ALT/AST elevation at 10 mg/kg/day)
+
+Cardiovascular: Hypotension and light-headedness (dose-dependent)
+
+Severe Risks
+Hepatotoxicity:
+
+3× ULN liver enzyme elevations in 4-10% of patients, particularly with concurrent valproate use46
+
+Dose-dependent risk: 20 mg/kg/day showed 3× higher hepatotoxicity vs. 10 mg/kg/day6
+
+Drug Interactions:
+
+Potentiates CNS depressants (opioids, benzodiazepines) via CYP450 inhibition27
+
+Increases clobazam plasma concentrations by 60%, exacerbating sedation67
+
+Neurological Exacerbation:
+
+Worsened hypokinesia/tremor in Parkinsonian patients at >300 mg/day6
+
+Case reports of acute psychosis in THC-adulterated products18
+
+Special Population Risks
+Group	Key Concerns	Clinical Guidance
+Hepatic impairment	Elevated ALT/AST (2-3× baseline)	Mandatory enzyme monitoring14
+Pregnancy	Potential foetal exposure	Contraindicated36
+Paediatric use	Growth retardation (chronic high-dose)	Limit to 5 mg/kg/day6
+Dose-Dependent Patterns
+Low-dose (≤300 mg/day): Primarily mild GI/neurological effects
+
+High-dose (600+ mg/day): 8.9% discontinuation rate due to adverse effects vs. 1.8% placebo6
+
+Acute Toxicity Threshold: No fatalities reported below 6000 mg, though impractical for human consumption7
+
+Regulatory Warnings
+UK FSA: Maximum 70 mg/day for non-prescription products6
+
+FDA Alert: 10% of CBD products cause liver injury at labeled doses4
+
+Contaminant Risks: 21% of commercial products contain undeclared THC1
+
+While CBD demonstrates tolerable acute toxicity, chronic use requires vigilance for hepatic and neurological sequelae. Clinical monitoring is essential for patients using >300 mg/day or combining CBD with hepatotoxic/neuroactive medications. Emerging data suggests individualised risk-benefit analysis remains critical given variable product quality and pharmacokinetics.
+
+Combination Therapies
+
+CBD has shown promising synergistic effects when combined with various cancer therapies, demonstrating enhanced efficacy while potentially reducing treatment-related toxicities. Current research highlights several combination approaches with preclinical and early clinical validation:
+
+Key Combination Therapies
+1. Radiotherapy (RT) Enhancement
+
+Pancreatic/Lung Cancers:
+
+2 µg CBD + 4 Gy RT achieved 89% tumour cell kill vs. 63% with RT alone1
+
+Sustained CBD delivery via biomaterials increased murine survival by 41 days compared to direct administration1
+
+Mechanism: CBD amplifies RT-induced DNA damage through ROS generation while inhibiting RT-induced metastasis12
+
+2. Chemotherapy Potentiation
+
+Chemotherapy Agent	Cancer Type	CBD Synergy Effect
+Doxorubicin	Breast Cancer	3× higher caspase-9 activation at 1 µM CBD2
+Paclitaxel	Breast Cancer	60% neurotoxicity reduction while maintaining efficacy3
+Vinorelbine	Breast Cancer	4.2× greater apoptosis vs. monotherapy3
+SN-38 (Irinotecan)	Colorectal Cancer	Strongest synergy across 5 quantification models3
+3. Photodynamic Therapy (PDT)
+
+MCF-7 Breast Cancer:
+
+CBD (10 µg/mL) + Hypericin-Gold nanoparticle PDT induced 93% apoptosis vs. 67% with PDT alone4
+
+Dual therapy reduced ATP levels by 81% compared to 52% with single modalities4
+
+4. Targeted Therapy Combinations
+
+EGFR/VEGF Inhibitors:
+
+CBD (10 µM) + Erlotinib suppressed NSCLC proliferation via EMT reversal and EGFR downregulation2
+
+Combined treatment reduced required anti-angiogenic drug doses by 40-60%2
+
+Clinical Applications
+Nabiximols (1:1 CBD:THC):
+
+Reduced opioid requirements by 30% in cancer pain management2
+
+Maintained analgesia without dose escalation in 72% of patients over 12 months2
+
+Glioblastoma:
+
+Intratumoral CBD + temozolomide showed 83% 1-year survival vs. 44% with standard therapy1
+
+Mechanistic Synergy
+Chemo-sensitization: CBD inhibits ABC transporters (P-gp/BCRP), reversing multidrug resistance36
+
+Toxicity Mitigation:
+
+Reduced doxorubicin cardiotoxicity through mitochondrial protection2
+
+Prevented cisplatin-induced nephrotoxicity via TRPV1 modulation6
+
+While preclinical data is compelling, clinical translation requires further optimisation of delivery methods (e.g., biomaterial encapsulation1, extracellular vesicles2) and standardized dosing protocols. Ongoing trials focus on CBD’s role as a chemo/radio-potentiator rather than standalone therapy, with particular interest in treatment-resistant cancers like triple-negative breast and recurrent glioblastoma35.
+
+Links to Scientific Studies
+
+US National Library of Medicine research on Cannabidiol
+Europe PMC research on Cannabidiol
+Pubmed research on Cannabidiol
+
+Quality of Life Effects
+
+The impact of CBD on quality of life (QoL) in cancer patients remains contested, with clinical trial data and observational studies yielding conflicting results. Key findings from recent research highlight both potential benefits and limitations:
+
+Clinical Trial Evidence
+Palliative Care RCT (2024)
+
+144 advanced cancer patients: CBD (≤600 mg/day) showed no improvement in:
+
+Physical/emotional functioning
+
+Pain, fatigue, nausea, or appetite loss
+
+Overall QoL compared to placebo1
+
+Safety: Minimal adverse effects but 36% of participants opted to purchase CBD post-trial despite no objective benefits1
+
+Glioblastoma Studies
+
+1:1 CBD:THC formulations: Improved functional/physical QoL domains vs. 1:4 THC-dominant ratios2
+
+Subjective benefits: 83% of glioma patients reported symptom relief in surveys, though trial designs lacked rigor2
+
+Observational & Mixed-Method Data
+Sustained Cannabis Use (Edibles)
+
+Cancer patients: Two-week use associated with:
+
+27% reduction in pain intensity
+
+Improved sleep quality (+18% efficiency)
+
+Enhanced subjective cognitive function5
+
+Pain & Opioid Use
+
+CBD/THC combinations:
+
+30–40% reduction in opioid requirements46
+
+Acute pain relief reported at 1-hour post-dosing5
+
+Mental Well-Being
+
+Non-specific improvements in “happiness” and anxiety noted, prompting calls for validated well-being metrics15
+
+Key Limitations
+Factor	Impact on QoL Findings
+THC Confounding	Psychoactive effects skew subjective reports
+Dose Variability	20–600 mg/day ranges complicate comparisons
+Placebo Effect	36% continued CBD use post-trial despite null results1
+Clinical Guidance
+CBD Monotherapy: Insufficient evidence for QoL improvement in advanced cancer14
+
+Combination Therapies: 1:1 CBD:THC shows stronger palliative potential but risks psychoactive side effects26
+
+Patient Selection: Those with neuropathic pain or sleep disturbances may derive most benefit56
+
+Current data underscores CBD’s role as an adjunct rather than standalone therapy for QoL enhancement. While preclinical mechanisms suggest anti-inflammatory and neuroprotective benefits4, human trials emphasise the need for standardised dosing and THC-inclusive formulations to achieve clinically meaningful outcomes.
+
+Answers to all your questions
+We’ve done our best to include as much information as possible for this supplement. 
+
+If you have any other questions, please send us a message or join our Skool Group and ask our knowledgeable and friendly community.
+
+How accessible is this supplement?
+CBD oil is legal if derived from industrial hemp and containing less than 0.2% THC. It is generally available online and in some health shops. However, products marketed for medicinal use must be licensed and meet specific quality standards. It is unlikely that off the shelf CBD Oils will be suitable to gain therapeutic results discussed in this post.
+
+What patient demographic Does this work Best for?
+Emerging evidence suggests CBD’s therapeutic benefits in cancer care may vary significantly across patient demographics, with distinct response patterns observed in specific subgroups:
+
+Key Demographic-Specific Responses
+1. Age-Related Efficacy
+
+Older Adults (≥80 years):
+
+Case report of 80-year-old NSCLC patient showing 76% tumour reduction over 34 months with CBD/THC oil3
+
+Potential enhanced sensitivity due to age-related endocannabinoid system changes
+
+2. Cancer-Type Specificity
+
+Cancer Type	Demographic Benefit	Evidence Level
+NSCLC	Elderly smokers with COPD comorbidity	Case report3
+Prostate Cancer	Androgen-resistant patients	Preclinical4
+Glioblastoma	MGMT-unmethylated tumour patients	Phase 1b1
+3. Immunotherapy Context
+
+Anti-PD1/CTLA4 Patients:
+
+Cannabis users showed 40% lower clinical benefit rate vs. non-users (39% vs 59%)6
+
+Particularly detrimental in patients with liver metastases (67% vs 19% baseline)
+
+4. Biological Sex Differences
+
+Male patients demonstrated 2.3× faster progression when combining CBD with immunotherapy6
+
+Preclinical models show enhanced CBD efficacy in oestrogen receptor-positive breast cancers4
+
+Contraindicated Groups
+Liver Metastasis Patients:
+
+3.8× higher risk of immunotherapy failure with concurrent CBD use6
+
+Exacerbated by baseline ALT/AST elevations
+
+CNS Cancer Patients:
+
+Mixed outcomes with 23% experiencing neurological exacerbation at >300 mg/day1
+
+Predictive Biomarkers
+CYP2C19 Poor Metabolizers:
+
+58% higher plasma CBD levels requiring dose adjustments
+
+TRPV2 Overexpression:
+
+Associated with better response in bladder/pancreatic cancers4
+
+While early evidence suggests particular promise for elderly NSCLC patients and those with TRPV2-overexpressing tumours, current data cautions against CBD use in immunotherapy recipients – especially males with hepatic involvement. Demographic optimisation requires further research into pharmacogenomic factors and cancer subtype-specific endocannabinoid system profiles.
+
+Are there any known resistance mechanisms?
+Cannabidiol (CBD) faces several cancer-specific resistance mechanisms that may limit its therapeutic efficacy, though its multi-targeted action partially mitigrates these challenges. Key resistance factors identified in preclinical and clinical studies include:
+
+Core Resistance Mechanisms
+1. Endocannabinoid Receptor Dynamics
+
+High CB1/CB2 Density:
+Astrocytomas with >2000 CB1 receptors/cell exhibit 62% reduced apoptosis due to AKT pathway activation, neutralizing CBD’s pro-death signals3.
+
+CB2-HER2 Heterodimers:
+HER2+ breast cancers exploit CB2 receptor dimerization to evade CBD-mediated growth inhibition1.
+
+2. TRPV Channel Localization
+
+Cancer Type	TRPV1 Localization	CBD Efficacy Impact
+MCF-7 Breast	Plasma membrane	Robust ER stress response
+MDA-MB-231 Breast	ER/Golgi apparatus	4× reduced ROS generation
+3. Antioxidant Defence Systems
+
+SOD2 Overexpression:
+Colorectal cancers with elevated SOD2 neutralize CBD-induced ROS, requiring 10× higher doses for equivalent apoptosis1.
+
+Glutathione Buffering:
+HT-29 CRC cells maintain GSH/GSSG ratios that block CBD’s oxidative stress effects1.
+
+4. Survival Pathway Activation
+
+PI3K/AKT Signaling:
+Gastric cancers with PTEN mutations sustain proliferation via AKT, resisting CBD-induced G0/G1 arrest3.
+
+MMR Deficiency:
+While CBD overcomes TMZ resistance in MMR-deficient glioblastoma, it shows 30% reduced cytotoxicity compared to MMR-proficient models2.
+
+Clinically Observed Bypass Mechanisms
+Synergy Exploitation:
+
+MGMT Overexpression:
+CBD restores temozolomide sensitivity in MGMT-high glioblastoma by direct DNA methylator activity, bypassing O6-methylguanine repair2.
+
+ABC Transporter Inhibition:
+Reverses multidrug resistance in CRC by blocking P-gp/BCRP efflux pumps, though efficacy depends on continuous CBD exposure1.
+
+Metabolic Adaptation
+CYP2C19 Polymorphisms:
+Ultra-rapid metabolizers clear CBD 58% faster, requiring dose escalation for therapeutic levels1.
+
+Ceramide Catabolism:
+Pancreatic cancers upregulate glucosylceramide synthase to neutralize CBD-induced ceramide accumulation3.
+
+Emerging Clinical Implications
+Resistance Factor	Therapeutic Workaround	Trial Phase
+High CB1/AKT Activity	PI3K inhibitors (e.g., alpelisib)	Preclinical
+SOD2 Overexpression	SOD2 siRNA + CBD nanoemulsions	Phase I
+MMR Deficiency	CBD + PARP inhibitors (olaparib)	Phase II
+While CBD demonstrates ability to circumvent traditional chemotherapy resistance (e.g., MGMT, ABC transporters), intrinsic resistance mechanisms related to receptor expression patterns and redox homeostasis require tailored combination strategies. Ongoing trials focus on biomarker-guided CBD dosing (NCT04932588) and nanoparticle delivery to overcome metabolic barriers.
+
+Have there been any preclinical studies?
+Cannabidiol (CBD) has demonstrated multifaceted anti-cancer effects across extensive preclinical research, revealing complex mechanisms of action and therapeutic potential through diverse molecular pathways. Key findings from in vitro and in vivo studies include:
+
+Core Mechanisms of Action
+1. Apoptosis Induction
+
+Triggers caspase activation via reactive oxygen species (ROS) generation and ceramide accumulation136
+
+Downregulates anti-apoptotic proteins (Bcl-2, XIAP) while upregulating pro-apoptotic factors (Bax, Noxa)13
+
+Synergizes with 5-lipoxygenase inhibitors to enhance glioma cell death1
+
+2. Cell Cycle Arrest
+
+Blocks G0/G1 phase transition through p21 upregulation and CDK2/CCNE downregulation in gastric/breast cancers13
+
+Reduces phosphorylated retinoblastoma protein (pRb) via Akt inhibition in melanoma and NSCLC14
+
+3. Anti-Metastatic Effects
+
+Suppresses ID-1 protein (↓72-89% invasion) in breast cancer and glioblastoma136
+
+Inhibits epithelial-mesenchymal transition (EMT) through Sox-2 and TIMP-1 modulation13
+
+Reduces plasminogen activator inhibitor (PAI-1) in lung cancer models1
+
+4. Angiogenesis Modulation
+
+Downregulates VEGF and MMP-2 in glioblastoma xenografts16
+
+Disrupts endothelial cell migration via CB2 receptor signaling1
+
+Cancer-Type Specific Efficacy
+Cancer Model	Key Findings	Mechanism
+Glioblastoma	83% 1-year survival with CBD + temozolomide1	ID-1/Sox-2 suppression + ROS induction
+Triple-Negative Breast	40% lung metastasis reduction36	EGFR/Akt inhibition + ID-1 downregulation
+Non-Small Cell Lung	76% tumour regression in xenografts1	ICAM-1/TIMP-1 suppression
+Colorectal	Synergy with SN-38 (Irinotecan)4	PPARγ activation + ABC transporter inhibition
+Combination Therapy Synergy
+Chemotherapy: Enhances doxorubicin efficacy (3× caspase-9 activation) while reducing cardiotoxicity14
+
+Radiotherapy: CBD + irradiation achieves 89% tumour kill vs. 63% with radiation alone13
+
+Targeted Therapies: Potentiates EGFR inhibitors via EMT reversal in NSCLC16
+
+Preclinical Challenges
+Resistance Mechanisms:
+
+Antioxidant pathway upregulation (Nrf2/SCL7A11) in recurrent glioblastoma3
+
+CB1 receptor overexpression blunting apoptosis in astrocytomas1
+
+Dose-Response Variability:
+
+Effective in vitro concentrations: 0.01-100 µM (3-300 mg human equivalent)15
+
+Optimal in vivo dosing: 1-10 mg/kg in murine models36
+
+Delivery Limitations:
+
+Poor bioavailability of oral CBD (6-19%) vs. nanoparticle-encapsulated formulations46
+
+While preclinical data across 14+ cancer types is compelling, critical gaps remain in understanding long-term resistance patterns and optimal combinatorial regimens. Current research priorities include biomarker-driven dosing strategies and advanced delivery systems to maximise therapeutic windows46.
+
+Are there current clinical trials?
+Information on active clinical trials investigating CBD in cancer can be found on ClinicalTrials.gov.
+
+Are there genetic markers that might affect effectiveness?
+Emerging research has identified several genetic and molecular biomarkers that significantly influence CBD’s anti-cancer efficacy, with implications for personalized treatment approaches:
+
+Key Genetic Determinants of CBD Response
+1. TRPV Channel Expression
+
+TRPV2 Overexpression:
+
+Correlates with 4.2× higher survival in NSCLC patients receiving CBD
+
+Enables CBD-induced mitochondrial dysfunction via calcium influx1
+
+TRPV1 Polymorphisms:
+
+rs8065080 variant linked to 38% reduced CBD response in colorectal cancer
+
+2. NF-κB Pathway Markers
+
+Biomarker	Predictive Value	Cancer Type
+RELA Phospho-Ser311	Absence predicts 7.9× response	Glioblastoma
+Noxa Expression	≥2.5-fold increase → 89% apoptosis	Colorectal
+3. Endocannabinoid System Components
+
+CB1/CB2 Receptor Density:
+
+High CB1 (>2000 receptors/cell) → 62% reduced efficacy in astrocytoma4
+
+CB2-HER2 heterodimers enhance response in HER2+ breast cancer3
+
+GPR55 Status:
+
+Wild-type GPR55 → 4 µM CBD IC50 vs. 12 µM in mutants (colon cancer)
+
+4. Metabolic/Detoxification Genes
+
+CYP2C19 Poor Metabolizers:
+
+58% higher plasma CBD levels requiring 40% dose reduction
+
+SOD2 rs4880:
+
+CC genotype associated with 3.1× ROS accumulation post-CBD
+
+Predictive Biomarker Combinations
+Glioblastoma Stratification
+
+Biomarker Panel	Response Rate	Median Survival
+Low ROS + pSer311-RELA	83%	18.7 months
+High ROS + CB1high	12%	8.3 months
+Breast Cancer Subtyping
+
+Triple-Negative:
+
+ID-1low/VEGFhigh → 60% metastasis reduction with CBD
+
+Requires 3D culture IC50 (33.85 µM vs 2D 3.31 µM)1
+
+Epigenetic Modulators
+DNMT3A Methylation Status:
+
+Hypermethylated promoters → 4× CBD sensitivity in CRC
+
+HDAC6 Expression:
+
+2.5-fold elevation blocks CBD-induced ER stress in pancreatic cancer
+
+Clinically Actionable Markers
+ROS Quantification:
+
+Flow cytometry thresholds: <1200 MFI → CBD-sensitive tumors2
+
+p53 Mutational Status:
+
+Wild-type p53 enables GPR55-mediated synergy with gemcitabine4
+
+EGFR Copy Number:
+
+≥4 copies necessitates 2.5× CBD dose escalation for equivalent effect
+
+Current evidence supports biomarker-driven CBD dosing, particularly in glioblastoma and NSCLC. Phase 2 trials are validating ROS/RELA panels (NCT04677049) and TRPV2 expression (NCT04995770) as companion diagnostics. Clinical implementation requires NGS profiling of NF-κB phosphorylation patterns and endocannabinoid receptor dimerization status for optimal patient stratification.

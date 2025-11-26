@@ -1,0 +1,493 @@
+Supplement
+Genistein
+Genistein is a naturally occurring isoflavone and phytoestrogen primarily found in soybeans. It exhibits diverse biological activities, most notably functioning as a tyrosine kinase inhibitor, which allows it to modulate various cell signaling pathways and potentially influence cancer cell growth and survival.
+Genistein
+Cancer Impact Summary
+Click  to Learn More
+
+Induces Apoptosis
+Yes
+Inhibit Cell Proliferation
+Yes
+Target Specific Pathways
+Yes
+Angiogenesis Inhibition
+Yes
+Role in Immunotherapy
+No
+Anti-Inflammatory Properties
+Yes
+Full Supplement Details
+
+Genistein, a naturally occurring isoflavone found in soy products, has emerged as a promising compound in cancer research due to its multi-targeted mechanisms against tumour growth, metastasis, and therapy resistance. Below is a detailed exploration of its anti-cancer properties, supported by preclinical and epidemiological evidence.
+
+Mechanisms of Action
+1. Apoptosis Induction
+Genistein activates intrinsic and extrinsic apoptotic pathways by:
+
+Increasing caspase-3, caspase-9, and cytochrome c release49
+
+Modulating Bcl-2/Bax protein ratios to favour cell death9
+
+Enhancing endoplasmic reticulum (ER) stress, triggering calpain-mediated apoptosis79
+
+2. Cell Cycle Arrest
+
+Induces S-phase or G2/M-phase arrest in cervical (HeLa, ME-180) and breast cancer cells48
+
+Suppresses cyclin B1, CDK1, and cdc2 phosphorylation4
+
+3. Angiogenesis & Metastasis Suppression
+
+Inhibits VEGF, HIF-1α, and NF-κB pathways, reducing tumour blood vessel formation711
+
+Downregulates FAK/paxillin signalling, impairing cell adhesion and migration412
+
+Blocks MMP-9 synthesis and EMT (epithelial-mesenchymal transition) proteins712
+
+4. Epigenetic Modulation
+
+Reactivates tumour suppressor genes (e.g., RARβ2) by reversing DNA methylation34
+
+Enhances miR-34a expression to suppress Notch1/NF-κB signaling12
+
+Synergy with Conventional Therapies
+Genistein enhances the efficacy of chemotherapy and radiotherapy:
+
+Cisplatin: Potentiates apoptosis in ovarian and glioblastoma cells210
+
+TRAIL: Overcomes resistance in gastric/pancreatic cancers2
+
+Radiation: Improves radiosensitivity in prostate and cervical cancers210
+
+Low-dose combinations with chemotherapeutics show synergistic effects in breast cancer models5
+
+Key Cancer Targets
+Cancer Type	Observed Effects
+Ovarian	ER-β activation, PTK inhibition12
+Breast	CIP2A suppression, PPARγ pathway activation89
+Cervical	RARβ2 demethylation, FAK/paxillin inhibition4
+Prostate	Osteoprotegerin/RANK/MMP-9 axis modulation2
+Lung	PI3K/AKT/HIF-1α and NF-κB/COX-2 inhibition11
+Anti-Inflammatory & Antioxidant Roles
+Reduces IL-6, IL-8, and TNF-α secretion9
+
+Scavenges free radicals and upregulates antioxidant genes26
+
+Limitations & Future Directions
+While epidemiological studies link high soy intake to reduced cancer risk16, clinical applications require:
+
+Standardised dosing protocols (current studies use 10–100 μM in vitro)
+
+Further human trials to confirm preclinical synergy with therapies
+
+Investigation into ER status-dependent responses58
+
+Genistein’s ability to target multiple oncogenic pathways positions it as a potent adjunct in metabolic therapy approaches. However, its integration into clinical practice demands rigorous validation through controlled human studies.
+
+Dosage
+
+Genistein dosing varies significantly based on therapeutic goals, formulations, and target populations, with distinct recommendations emerging from preclinical and clinical studies:
+
+Dietary & Preventive Use
+General Health/Metabolic Support:
+
+50–54 mg/day: Effective for improving lipid profiles (↑HDL, ↓LDL) and insulin sensitivity in postmenopausal women, particularly those with metabolic syndrome2.
+
+Soy Equivalents: Achievable through 1–2 servings/day of whole soy foods (e.g., 100g tofu ≈ 25 mg genistein).
+
+Cognitive Health:
+
+52–100 mg/day (as part of soy isoflavones): Tested in Alzheimer’s trials, though benefits remain inconclusive2.
+
+Therapeutic & Adjunct Cancer Dosing
+Application	Dose Range	Key Evidence
+Chemotherapy Adjunct	120–300 mg/day	Enhanced cisplatin/docetaxel efficacy in pancreatic, prostate, and breast cancers13.
+Metastatic Colorectal	54 mg + FOLFOX	61.5% response rate in clinical trials1.
+Prostate Cancer	30 mg/kg (preclinical)	Reduced metastasis biomarkers in rodent models1.
+Formulation Considerations
+Aglycone vs. Glycoside:
+
+Aglycone forms (active) require lower doses due to higher bioavailability24.
+
+Heat-processed soy (e.g., tofu) enhances aglycone conversion2.
+
+Capsule Optimisation:
+
+125 mg/kg in rat studies showed improved pharmacokinetics, equivalent to ~20 mg/kg human doses4.
+
+Safety Thresholds
+Upper Limit:
+
+325 mg/day (equivalent to rodent 37 mg/kg) linked to pituitary adenomas in long-term studies2.
+
+Therapeutic doses >100 mg/day may require monitoring for hormonal/thyroid effects2.
+
+Clinical Guidance
+Cancer Patients: Start with 54 mg/day, escalating to 300 mg/day under oncology supervision13.
+
+Postmenopausal Women: 54 mg/day for metabolic benefits, avoiding ER+ breast cancer contexts2.
+
+Dosing should be personalised, considering Oestrogen Receptor status, metabolic health, and concurrent therapies.
+
+Cancer Types Tested Against
+Breast Cancer, Colorectal Cancer, Lung Cancer, Ovarian Cancer, Prostate Cancer
+
+Side Effects
+
+Genistein, while showing promise in cancer research, carries potential side effects that warrant careful consideration, particularly at high doses or in specific populations. Here’s a breakdown of its documented adverse effects:
+
+DNA Damage & Genotoxicity
+Induced chromosomal damage (micronuclei) in mouse splenocytes at high concentrations1.
+
+Caused DNA strand breaks and mutations in vitro, though often at doses exceeding typical dietary exposure levels3.
+
+Human studies (up to 84 days) showed no significant increase in double-stranded DNA breaks15.
+
+Hormonal & Reproductive Effects
+Estrogenic Activity: Binds to oestrogen receptors (ERα/β), raising concerns about stimulating ER+ breast cancer growth. However, epidemiological data on soy-rich diets show reduced breast cancer risk in Asian populations15.
+
+Thyroid Interference: Inhibits thyroid peroxidase, potentially reducing thyroid hormone levels3.
+
+Developmental Risks: Rodent studies suggest early-life exposure may alter adiposity and metabolic gene expression, with gender-specific effects on fat mass and muscle development4.
+
+Metabolic & Immune Impacts
+Obesogenic Potential: Promotes adipocyte differentiation via PPARγ activation, though human relevance at dietary doses is debated4.
+
+Immunosuppression: Reduced delayed-type hypersensitivity and altered T-cell activity in animal models3.
+
+Common Adverse Reactions
+Gastrointestinal issues (constipation, bloating, nausea)6.
+
+Allergic reactions (rash, itching, respiratory symptoms)6.
+
+Drug Interactions & Precautions
+May slow caffeine metabolism, amplifying caffeine effects6.
+
+Contraindicated in hormone-sensitive cancers (breast, ovarian) due to ER modulation7.
+
+Clinical Considerations
+Dose Dependency: Most risks emerge at supraphysiological doses (>50 μM in vitro)4.
+
+Formulation Matters: Purified genistein supplements pose higher risks than whole-soy foods5.
+
+While preclinical studies highlight theoretical risks, human data from populations with high soy intake suggest genistein is generally safe at dietary levels. Further clinical trials are needed to clarify its safety profile in therapeutic contexts156.
+
+Combination Therapies
+
+Genistein has been extensively studied in combination with various cancer therapies, demonstrating synergistic effects that enhance treatment efficacy while maintaining tolerability.
+
+Here’s a breakdown of key combination approaches:
+
+Chemotherapy Potentiation
+1. Platinum-Based Agents
+
+Cisplatin:
+
+Increased apoptosis in cervical (HeLa) and ovarian cancers via NF-κB and Akt/mTOR pathway inhibition49
+
+Enhanced radiosensitivity in prostate cancer models1
+
+2. Taxanes & Antimetabolites
+
+Docetaxel/Gemcitabine:
+
+Preclinical synergy in pancreatic, breast, and prostate cancers through NF-κB suppression15
+
+Phase I trials showed enhanced antitumour activity with 120 mg/m² decitabine + 300 mg/day genistein3
+
+3. Anthracyclines
+
+Doxorubicin:
+
+Overcame multidrug resistance in breast cancer by:
+
+Increasing intracellular drug accumulation 2.3-fold610
+
+Downregulating P-glycoprotein (P-gp) efflux pumps10
+
+Targeted & Biologic Therapies
+1. Angiogenesis Inhibitors
+
+Bevacizumab:
+
+Combined with FOLFOX in metastatic colorectal cancer:
+
+61.5% overall response rate
+
+Median progression-free survival: 11.5 months78
+
+2. TRAIL/Apo2L:
+
+Resensitised TRAIL-resistant gastric/pancreatic cancers at subtoxic doses19
+
+Epigenetic & Emerging Approaches
+1. Decitabine:
+
+Phase I/II trials in lung cancer showed:
+
+Stable disease >6 months in 50% of patients
+
+One gastric cancer case with 50% tumour reduction3
+
+2. Photodynamic Therapy:
+
+Enhanced photofrin-mediated apoptosis in ovarian/thyroid cancers via caspase-3/8 activation9
+
+3. Metabolic Modulation:
+
+2025 study demonstrated synergy with chemotherapy in ER± breast cancer through:
+
+ATP production reduction (ER+ cells)
+
+CPT1-mediated fatty acid metabolism disruption11
+
+Clinical Safety Profile
+Combination regimens generally show manageable toxicity:
+
+Most common side effects: Grade 1-2 nausea, headaches78
+
+No significant increase in chemotherapy-related adverse events78
+
+Rare grade 3 hypertension reported8
+
+These findings position genistein as a versatile adjunct in cancer treatment protocols, with particular promise in overcoming drug resistance and enhancing conventional therapies’ effectiveness. Ongoing clinical trials continue to explore optimal dosing and combination strategies.
+
+Links to Scientific Studies
+
+– US National Library of Medicine research on Genistein
+
+– Europe PMC research on Genistein
+
+– Pubmed research on Genistein
+
+Quality of Life Effects
+
+Genistein’s impact on quality of life (QoL) varies significantly between therapeutic and nutritional doses, with context-dependent benefits and risks:
+
+Therapeutic Doses (≥54 mg/day)
+Postmenopausal Women:
+
+54 mg/day for 2 years improved SF-36 scores (+15–20% in vitality, mental health) and reduced depression (ZSDS scores ↓30%) in osteopenic women1.
+
+Enhanced metabolic parameters: Reduced fasting glucose (↓12%), triglycerides (↓18%), and oxidative stress markers2.
+
+Cancer Patients:
+
+Combined with FOLFOX chemotherapy in metastatic colorectal cancer:
+
+61.5% response rate and 11.5-month progression-free survival with grade 1–2 nausea/headaches2.
+
+No significant QoL decline reported in prostate/breast cancer trials at 300 mg/day2.
+
+Nutritional Doses (Typical Soy Intake)
+Metabolic Benefits:
+
+Associated with 30–50% lower breast/prostate cancer risk in Asian populations with lifelong soy consumption26.
+
+Maternal intake (animal models) improved offspring glucose tolerance and lipid profiles via gut microbiota modulation4.
+
+Potential Risks:
+
+Gender-Specific Adiposity: Low-dose genistein (50–200 µg/kg/day) increased male mouse adiposity by 25–40%, raising obesity concerns6.
+
+Thyroid Interference: Inhibits thyroid peroxidase at doses >50 mg/day, potentially affecting energy levels7.
+
+High-Dose Limitations
+Sanfilippo Syndrome: 160 mg/kg/day failed to improve clinical QoL markers despite reducing urinary glycosaminoglycans3.
+
+Developmental Effects: Rodent studies show altered immune function (thymus mass ↑20%) and testosterone levels (↓15%) at 0.42 mg/kg/day7.
+
+Key Considerations
+Factor	Therapeutic Doses	Nutritional Doses
+Mental Health	Depression symptoms ↓30%1	No direct data
+Metabolic Effects	Fasting glucose ↓12%2	Lipid profile improvements4
+Risks	Grade 1–2 nausea2	Potential adiposity (males)6
+Genistein demonstrates measurable QoL benefits in targeted therapeutic contexts (e.g., menopause, chemotherapy adjunct) but requires careful dosing to avoid hormonal or metabolic trade-offs. Nutritional intake appears generally safe but may have subtle long-term impacts warranting individualised assessment.
+
+Answers to all your questions
+We’ve done our best to include as much information as possible for this supplement. 
+
+If you have any other questions, please send us a message or join our Skool Group and ask our knowledgeable and friendly community.
+
+How accessible is this supplement?
+Genistein is widely available as a dietary supplement in many countries, typically sold over-the-counter in health food stores, pharmacies, and online retailers. However, regulatory classifications and accessibility can differ between countries. It’s crucial to note that while genistein is easily accessible as a supplement, its use for cancer treatment is not approved by major regulatory agencies and should only be considered under medical supervision.
+
+What patient demographic Does this work Best for?
+Genistein’s therapeutic benefits appear most pronounced in specific patient demographics, as evidenced by preclinical and clinical studies:
+
+Young Women with Endometrial Cancer
+Improved progression-free survival in fertility-preservation therapy through prolonged progesterone receptor (PR-B) expression, regardless of oestrogen receptor (ER) status3.
+
+Enhanced responsiveness to progesterone-based treatments via JNK pathway activation and reduced C/EBPβ levels3.
+
+Asian Populations with High Soy Intake
+Epidemiological data link soy-rich diets to:
+
+30–50% lower prostate cancer incidence in Asian men1.
+
+Reduced breast cancer risk in women, particularly with lifelong exposure1.
+
+Postmenopausal Women
+Safe in clinical trials for managing metabolic parameters (fasting glucose, triglycerides) and oxidative stress2.
+
+Potential synergy with hormone therapies in ER± breast cancers, though caution advised for ER+ cases due to genistein’s weak estrogenic activity12.
+
+Cancer-Type Specific Benefits
+Cancer Type	Key Demographic Insights
+Colorectal	Metastatic patients showed 61.5% response rate with FOLFOX/genistein combo2.
+Pancreatic	Improved gemcitabine efficacy (4.9-month survival in phase I)2.
+Prostate	Men with localized disease: reduced metastasis biomarkers after 1-month supplementation1.
+Molecular Subgroups
+ERβ-positive tumours: Enhanced apoptosis via ERβ activation in ovarian and prostate cancers1.
+
+NF-κB/COX-2-driven cancers: Synergy with cisplatin/docetaxel in resistant lung and pancreatic cancers12.
+
+Current evidence suggests genistein may offer targeted benefits for these groups, though further phase III trials are needed to refine demographic-specific protocols123.
+
+Are there any known resistance mechanisms?
+Genistein’s efficacy can be attenuated by specific resistance mechanisms and demographic factors, as evidenced by preclinical and clinical studies:
+
+Genetic & Molecular Resistance Drivers
+1. HER2/neu Overexpression
+
+HER2-amplified breast cancers show reduced genistein sensitivity due to sustained PI3K/Akt pathway activation, even with genistein-mediated tyrosine kinase inhibition14.
+
+30% of breast cancer patients exhibit this resistance mechanism1.
+
+2. Oestrogen Receptor (ER) Status
+
+ERα-positive tumours demonstrate diminished response compared to ERβ-dominant cancers, as genistein’s weak estrogenic activity may paradoxically support ERα+ cell survival54.
+
+Postmenopausal women with ER+ breast cancer show variable therapeutic outcomes in clinical trials5.
+
+3. NF-κB Pathway Activation
+
+Constitutive NF-κB signalling in metastatic cancers counteracts genistein’s anti-invasive effects on MMP-9 and uPAR34.
+
+Prevalent in advanced prostate and pancreatic cancers4.
+
+Metabolic & Pharmacokinetic Factors
+Demographic	Resistance Mechanism	Clinical Impact
+Low Soy Diets	Reduced baseline isoflavone exposure	Blunted chemopreventive effects5
+Rapid Metabolisers	Enhanced glucuronidation (UGT1A1 polymorphism)	Lower bioactive genistein concentrations5
+Obesity	Adipose tissue sequestration	Reduced tumour bioavailability2
+Sex-Specific Limitations
+Men: Androgen-driven prostate cancers exhibit resistance via sustained AR-V7 splice variant expression despite genistein’s anti-androgenic effects4.
+
+Postmenopausal Women: Reduced ERβ expression with age diminishes genistein’s apoptotic efficacy in ovarian/endometrial cancers51.
+
+Therapeutic Context Challenges
+Prior Chemotherapy: Platinum-resistant tumours show cross-resistance to genistein due to ABCG2 efflux pump upregulation14.
+
+Radiotherapy History: Fibrotic microenvironment in irradiated tissues limits genistein penetration3.
+
+These resistance patterns highlight the need for biomarker-guided patient stratification, particularly for HER2+/ERα+ cancers and populations with low lifelong soy exposure. Combinatorial approaches with epigenetic modulators may overcome some limitations45.
+
+Have there been any preclinical studies?
+Preclinical studies have extensively characterized genistein’s anti-cancer mechanisms across various models, revealing dose-dependent and cancer-type-specific effects.
+
+Below is a synthesis of key findings from in vitro and in vivo research:
+
+Cervical Cancer Models
+1. Apoptosis & Cell Cycle Arrest
+
+HeLa Cells:
+
+IC₅₀ of 35 µM induced S-phase arrest, reduced cyclin B1/CDK1, and increased cleaved PARP/caspase-33.
+
+ER stress activation via GRP78/CHOP upregulation at 48–72 hours3.
+
+ME-180 Cells:
+
+G2/M-phase arrest (IC₅₀: 60 µM) with cytochrome c release and caspase-9 activation3.
+
+2. Anti-Metastatic Effects
+
+Inhibited FAK/paxillin phosphorylation, reducing adhesion and migration in HeLa cells (50–100 µM)3.
+
+Downregulated β-catenin, vimentin, and EMT markers (Snail, TWIST)3.
+
+3. Epigenetic Modulation
+
+Demethylated RARβ2 tumour suppressor in SiHa cells (20 µM, 6 days), restoring its expression3.
+
+Contradictory Low-Dose Effects:
+
+0.1–1 µM genistein increased HeLa proliferation via ERα-PI3K/Akt/NF-κB signaling3.
+
+Prostate Cancer Mechanisms
+DU145/PC3 Cells:
+
+25 µM genistein downregulated oncogenic miR-1260b/miR-151, suppressing invasion1.
+
+Upregulated tumour-suppressive miR-574-3p and BASP1, reducing metastasis13.
+
+Breast & Osteosarcoma Insights
+MDA-MB-231 Cells:
+
+Synergy with polyunsaturated fatty acids (5 µM) reduced COX-2/PGE₂ via PPARγ activation2.
+
+MG-63 Osteosarcoma:
+
+PPARγ upregulation (10–50 µM) induced apoptosis, reversible by PPARγ antagonists2.
+
+Antioxidant & Anti-Inflammatory Roles
+Prostate Cancer:
+
+Activated AMPK/PTEN pathways, increasing superoxide dismutase and catalase (25–50 µM)1.
+
+Skin Carcinogenesis (Mice):
+
+Suppressed UV-induced tumours by inhibiting ornithine decarboxylase1.
+
+Key Preclinical Challenges
+Dose-Dependent Dual Effects:
+
+Pro-apoptotic at >25 µM vs. proliferative at <5 µM in hormone-sensitive cancers3.
+
+Treatment Duration Variability:
+
+Short-term (24–72 h) MMP-2 inhibition vs. long-term (8 weeks) upregulation in prostate models1.
+
+These findings underscore genistein’s potential as a multitargeted agent but highlight the need for optimised dosing and context-specific administration in clinical translation.
+
+Are there current clinical trials?
+For the most current and comprehensive list of clinical trials involving genistein in cancer treatment, please refer to reputable databases such as ClinicalTrials.gov (US), the EU Clinical Trials Register, or the WHO International Clinical Trials Registry Platform. These resources provide up-to-date information on ongoing trials, including their phases, objectives, and eligibility criteria.
+
+Are there genetic markers that might affect effectiveness?
+Genistein’s efficacy in cancer therapy is influenced by specific genetic and epigenetic markers, as evidenced by recent studies:
+
+Key Genetic & Epigenetic Modulators
+1. miRNA Regulation
+
+miR-1260b: Downregulated by genistein in prostate cancer, reducing cell invasion/metastasis4.
+
+miR-151: Suppression correlates with inhibited prostate cancer migration4.
+
+miR-29b: Upregulated in multiple myeloma, inducing apoptosis via NF-κB inhibition4.
+
+2. Metastasis-Related Genes
+
+BASP1: Upregulated in prostate cancer patients, suppressing invasion across six cell lines2.
+
+HCF2: Downregulated by genistein, linked to increased metastatic potential2.
+
+3. Methylation-Sensitive Targets
+
+ADCY4: Demethylation reverses prostate tumorigenesis markers6.
+
+NEU1: Hypermethylation suppression enhances anti-metastatic signalling in colorectal/lung cancers6.
+
+4. Oncogenic Pathways
+
+MYC/PTEN Axis: Genistein reduces MYC activity while enhancing PTEN tumour suppression6.
+
+NOTCH3/JAG1: Altered expression disrupts angiogenesis and stem cell signalling in prostate tumours6.
+
+Clinical Implications
+ERK/p38/JNK Phosphorylation: Cervical cancer response depends on genistein-induced ERK inhibition and p38/JNK activation5.
+
+CYP1B1/IGF-1R: Polymorphisms in these genes may affect breast cancer sensitivity to genistein’s pro-apoptotic effects3.
+
+These markers highlight genistein’s context-dependent efficacy, emphasising the need for personalised approaches based on tumour genetics and epigenetic profiles.

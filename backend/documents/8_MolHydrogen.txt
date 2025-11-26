@@ -1,0 +1,501 @@
+Supplement
+Molecular Hydrogen
+Molecular hydrogen (H2) is a neutral, diatomic molecule with potent antioxidant properties, capable of selectively reducing cytotoxic reactive oxygen species (ROS) within cells while preserving beneficial ROS involved in cell signalling.
+Molecular Hydrogen
+Cancer Impact Summary
+Click  to Learn More
+
+Induces Apoptosis
+Yes
+Inhibit Cell Proliferation
+Yes
+Target Specific Pathways
+Yes
+Angiogenesis Inhibition
+Yes
+Role in Immunotherapy
+Yes
+Anti-Inflammatory Properties
+Yes
+Full Supplement Details
+
+Molecular hydrogen (H₂) has emerged as a promising agent in cancer therapy, with growing preclinical and clinical evidence supporting its anti-tumour effects and potential as an adjunctive treatment. Below is a comprehensive overview of the current understanding of molecular hydrogen’s anti-cancer properties, mechanisms of action, and clinical relevance.
+
+Overview of Anti-Cancer Effects
+Molecular hydrogen has demonstrated the ability to reduce tumour growth, inhibit cell proliferation, and promote apoptosis (programmed cell death) across various cancer types, including lung, cervical, ovarian, and colorectal cancers145.
+
+Studies show that hydrogen therapy can decrease cancer cell viability, migration, and invasion, while increasing cell death and reducing oxidative stress in both in vitro (cell culture) and in vivo (animal) models145.
+
+Hydrogen therapy appears to selectively target cancer cells, sparing normal cells, which contributes to its favourable safety profile25.
+
+Mechanisms of Action
+Regulation of Oxidative Stress: Hydrogen acts as a selective antioxidant, scavenging harmful reactive oxygen species (ROS) such as hydroxyl radicals, thus protecting cells from oxidative damage without interfering with beneficial ROS-mediated signalling25.
+
+Induction of Apoptosis: Hydrogen treatment has been shown to accelerate apoptosis in cancer cells, often through the downregulation of proteins involved in cell cycle progression (e.g., SMC3, Cyclin D1, CDK4, CDK6)15.
+
+Inhibition of Angiogenesis and Cancer Stem Cells: Hydrogen suppresses markers associated with angiogenesis (formation of new blood vessels) and cancer stemness (e.g., CD34, Ki67), thereby inhibiting tumour growth and recurrence15.
+
+Modulation of Immune Response: Some studies indicate that hydrogen can enhance macrophage-mediated phagocytosis and downregulate immune checkpoint molecules such as CD47, further contributing to its anti-tumour effects14.
+
+Synergistic Effects with Conventional Therapies: Hydrogen has been shown to enhance the efficacy of chemotherapy (e.g., 5-fluorouracil) and radiotherapy, while also reducing their side effects, such as oxidative damage and inflammation456.
+
+Key Findings from Recent Studies
+Cancer Type	Administration Method	Main Findings
+Lung cancer	Hydrogen gas (20–80%)	Reduced cell viability, migration, invasion; increased apoptosis; tumour weight reduction15
+Cervical cancer	Hydrogen gas (67%)	Promoted apoptosis, decreased cell growth and oxidative stress, reduced tumour growth14
+Ovarian cancer	Hydrogen gas (66.7%)	Inhibited proliferation, invasion, migration, colony formation, and angiogenesis15
+Colorectal cancer	Hydrogen-rich water + 5-FU	Synergistic suppression of tumour progression, improved oxidative stress markers6
+Glioblastoma	Hydrogen gas (67%)	Inhibited tumour growth, improved survival in animal models5
+Safety and Tolerability
+Hydrogen therapy is generally well-tolerated, with a low risk of side effects due to its selective reactivity and rapid elimination via exhalation26.
+
+No significant toxicity has been observed in animal or early human studies, even at high concentrations25.
+
+Clinical Relevance and Future Directions
+While most evidence comes from preclinical and small-scale clinical studies, the consistent anti-tumour effects and safety profile of molecular hydrogen are encouraging234.
+
+Hydrogen therapy may be particularly valuable as an adjunct to conventional treatments, potentially improving outcomes and quality of life for cancer patients346.
+
+Larger, long-term clinical trials are needed to fully establish the efficacy, optimal dosing, and long-term safety of hydrogen therapy in cancer care26.
+
+“From our analysis, H₂ plays a promising therapeutic role as an independent therapy as well as an adjuvant in combination therapy, resulting in an overall improvement in survivability, quality of life, blood parameters, and tumour reduction.”3
+
+Conclusion
+Molecular hydrogen exhibits multiple anti-cancer properties, including the inhibition of tumour growth, induction of apoptosis, and reduction of oxidative stress. Its ability to selectively target cancer cells while sparing normal tissue, along with its potential to enhance the effects of standard therapies and reduce their side effects, makes it a compelling candidate for further research and clinical application in oncology. However, more robust clinical evidence is required before it can be routinely recommended for cancer treatment.
+
+Dosage
+
+No universally established or officially recommended safe dosage of molecular hydrogen (H₂) exists for cancer therapy as of April 2025. However, available clinical studies and reviews provide insight into the typical dosages and administration methods used in research, all of which have demonstrated a favourable safety profile.
+
+Hydrogen-Rich Water:
+Clinical trials have commonly used 1.5 to 2 litres per day of hydrogen-rich water, with concentrations ranging from 0.55 to 0.8 millimolar (mM), over periods of 6 weeks or longer1237. This dosage has been well-tolerated in patients undergoing chemotherapy or radiotherapy, with no significant adverse effects reported.
+
+Hydrogen Gas Inhalation:
+Studies have administered hydrogen gas at concentrations from 1% up to 67% (often mixed with oxygen) for durations of 30 minutes to 6 hours per day, over several weeks or months23410. For example, in lung cancer patients, inhalation of 66.7% hydrogen for 4–6 hours daily over 5 months was reported as safe and beneficial310.
+
+Lower concentrations, such as 1% hydrogen in air, have also been used safely in both animal and human studies1.
+
+Safety Considerations:
+Clinical and preclinical studies consistently report that hydrogen therapy is well-tolerated, with no significant toxicity or long-term side effects observed, even at higher doses or with prolonged administration1235.
+
+Hydrogen’s rapid elimination from the body and selective reactivity with harmful radicals contribute to its strong safety profile5.
+
+There is no evidence of harm from “overdose” in the available literature, though long-term toxicity data remain limited5.
+
+Summary Table: Typical Dosages in Clinical Studies
+Administration Method	Dosage Range	Duration	Safety Profile
+Hydrogen-rich water	1.5–2 L/day (0.55–0.8 mM)	6 weeks+	Well-tolerated
+Hydrogen gas inhalation	1%–67% (30 min–6 h/day)	Weeks–months	Well-tolerated
+Conclusion:
+No official safe dosage of molecular hydrogen has been standardised, but clinical research supports the use of 1.5–2 litres per day of hydrogen-rich water (0.55–0.8 mM) or inhalation of hydrogen gas (1%–67% for up to several hours daily) as safe in cancer patients. More research is needed to determine optimal dosing and long-term safety, but the risk of adverse effects appears very low at these levels.
+
+Cancer Types Tested Against
+Bile Duct Cancer, Bone Cancer, Brain Tumours, Breast Cancer, Cervical Cancer, Colorectal Cancer, Liver Cancer, Lung Cancer, Lymphoma (Hodgkin and Non-Hodgkin), Oral Cancer, Ovarian Cancer, Pancreatic Cancer, Prostate Cancer, Skin Cancer (including Melanoma), Stomach Cancer
+
+Side Effects
+
+Molecular hydrogen (H₂) exhibits an excellent safety profile in cancer therapy, with minimal side effects reported even at therapeutic doses. Below is a detailed analysis of its tolerability, potential risks, and dosage considerations.
+
+Safety Overview
+No Significant Toxicity: Clinical and preclinical studies consistently report that H₂ is non-toxic, non-cumulative, and well-tolerated, even at high concentrations or with prolonged use138.
+
+Selective Reactivity: H₂ neutralises harmful radicals (e.g., hydroxyl radicals) without disrupting beneficial oxidative signalling, reducing collateral damage to healthy cells78.
+
+Reported Side Effects
+While adverse effects are rare, the following mild issues have been noted in studies:
+
+Gastrointestinal: Occasional loose stools, heartburn, or appetite changes (linked to hydrogen-rich water)5.
+
+Neurological: Drowsiness or agitation (observed during prolonged hydrogen gas inhalation)5.
+
+Method-Specific Risks:
+
+Hydrogen gas inhalation: Concentrations above 4% are explosive when mixed with oxygen, requiring strict safety protocols5.
+
+Injectable hydrogen-rich saline: Theoretical risk of infection or injection-site injury5.
+
+Therapeutic Doses in Cancer Studies
+Administration Method	Typical Dosage	Cancer Type Studied	Side Effects Observed
+Hydrogen-rich water	1.5–2 L/day (0.55–0.8 mM concentration)	Colorectal, liver, breast	None significant237.
+Hydrogen gas inhalation	1%–67% for 30 mins–6 hours/day	Lung, ovarian, cervical	Mild drowsiness in some cases458.
+Key Findings:
+
+In colorectal cancer patients, hydrogen-rich water (1.5–2 L/day) combined with chemotherapy (mFOLFOX6) prevented liver damage without compromising treatment efficacy27.
+
+Lung cancer patients inhaling 66.7% hydrogen gas for 4–6 hours daily over 5 months experienced no severe side effects, with improved progression-free survival58.
+
+Considerations for Clinical Use
+No Long-Term Toxicity Data: While short-term safety is well-established, large-scale, long-term studies are still needed8.
+
+Dose Standardisation: Optimal dosing (concentration, frequency, and duration) remains under investigation, though current protocols are empirically safe45.
+
+Conclusion
+Molecular hydrogen therapy is remarkably safe for cancer patients at studied doses, with only minor, transient side effects reported. Its ability to mitigate chemotherapy/radiotherapy toxicity while preserving anti-tumour efficacy makes it a promising adjunctive treatment. However, method-specific precautions (e.g., avoiding explosive gas mixtures) and further research into long-term use are warranted.
+
+Combination Therapies
+
+Molecular hydrogen (H₂) has been extensively tested as an adjunct to conventional cancer therapies, demonstrating synergistic anti-tumour effects and reduced treatment-related toxicity. Below is a synthesis of key findings across chemotherapy, radiotherapy, immunotherapy, and other modalities.
+
+1. Chemotherapy Combinations
+Colorectal Cancer (mFOLFOX6 Regimen):
+
+Hydrogen-rich water (1.5–2 L/day, 0.55–0.65 mM) reduced chemotherapy-induced liver injury (elevated ALT/AST) and improved oxidative stress markers without compromising efficacy15.
+
+Patients experienced fewer side effects, such as appetite loss and taste disturbances59.
+
+XELOX Chemotherapy (Capecitabine/Oxaliplatin):
+
+Hydrogen gas inhalation (66.7%) improved progression-free survival (PFS) and overall survival (OS) in advanced colorectal cancer by modulating PD1+ CD8+ T cells15.
+
+5-Fluorouracil (5-FU):
+
+Preclinical studies showed hydrogen-enhanced 5-FU’s inhibitory effects on colon cancer cells, achieving synergistic tumour suppression36.
+
+2. Radiotherapy Combinations
+Liver Tumour Radiotherapy:
+
+Hydrogen-rich water (0.55–0.65 mM) reduced oxidative stress and improved quality of life during radiotherapy, with no negative impact on tumour response rates15.
+
+Radiation-Induced Skin Damage:
+
+In rat models, hydrogen-rich water accelerated healing of radiation-induced skin injuries by lowering IL-6 and MDA levels while boosting SOD activity56.
+
+Synergy with Photothermal Therapy:
+
+Hydrogen-loaded palladium nanocrystals enhanced photothermal therapy’s anti-cancer efficacy, inducing ROS rebound in cancer cells and improving tumour inhibition in breast and melanoma models56.
+
+3. Immunotherapy Combinations
+Nivolumab (Anti-PD-1) in Lung Cancer:
+
+Hydrogen gas inhalation (66.7%) combined with nivolumab doubled median survival (28 vs. 9 months) and reduced PD1+ T cell exhaustion15.
+
+4. Other Combinations
+Targeted Therapies:
+
+Hydrogen mitigated side effects of tyrosine kinase inhibitors (e.g., gefitinib) and protected against cisplatin-induced nephrotoxicity912.
+
+Vitamin C Synergy:
+
+Preclinical studies reported enhanced radioprotection for normal cells and direct anti-cancer effects when hydrogen was paired with vitamin C11.
+
+Key Benefits of Combination Therapy
+Reduced Toxicity: Hydrogen consistently alleviated oxidative stress, inflammation, and organ damage caused by chemotherapy/radiotherapy6912.
+
+Enhanced Efficacy: Synergistic effects improved tumour suppression and survival rates in lung, colorectal, and breast cancer models135.
+
+Immune Modulation: Hydrogen reversed T cell exhaustion and enhanced anti-tumour immune responses15.
+
+Clinical Evidence Summary
+Therapy Type	Cancer Model	Hydrogen Administration	Outcomes
+Chemotherapy (mFOLFOX6)	Colorectal	Hydrogen-rich water	Reduced liver injury, preserved chemotherapy efficacy15
+Radiotherapy	Liver tumours	Hydrogen-rich water	Improved quality of life, no impact on tumour response56
+Immunotherapy (Nivolumab)	Lung	Hydrogen gas (66.7%)	Doubled median survival, reduced PD1+ T cell exhaustion15
+Photothermal Therapy	Breast/melanoma	Hydrogen-loaded nanocrystals	Enhanced tumour inhibition via ROS rebound56
+Conclusion
+Molecular hydrogen has been successfully tested alongside chemotherapy, radiotherapy, immunotherapy, and targeted therapies, demonstrating both protective and synergistic anti-cancer effects.
+
+While larger clinical trials are needed, current evidence supports its role as a safe adjunct to improve treatment outcomes and reduce side effects in oncology.
+
+Links to Scientific Studies
+
+US National Library of Medicine research on molecular hydrogen
+Europe PMC research on molecular hydrogen
+Pubmed research on molecular hydrogen
+
+Quality of Life Effects
+
+Clinical and real-world studies consistently show that molecular hydrogen (H₂), when administered at therapeutic levels (such as daily inhalation or regular consumption of hydrogen-rich water), can significantly improve quality of life (QoL) for people with cancer—particularly those undergoing active treatment or with advanced disease.
+
+Key Quality of Life Improvements Documented:
+Reduction in Treatment Side Effects:
+Hydrogen therapy has been shown to reduce the severity of common side effects from chemotherapy and radiotherapy, such as fatigue, nausea, appetite loss, insomnia, pain, and gastrointestinal symptoms. In a study involving liver cancer patients receiving radiotherapy, those who drank 1.5–2 litres of hydrogen-rich water daily for six weeks reported improved QoL scores and reduced oxidative stress, with no compromise in the effectiveness of their cancer treatment345.
+
+Improved Physical and Functional Well-Being:
+In a prospective follow-up of 82 patients with advanced (stage III and IV) cancers, daily hydrogen inhalation for over three hours led to significant improvements in fatigue, insomnia, anorexia, and pain after just four weeks. Physical status improved in 41.5% of patients, with the best results seen in lung cancer. Importantly, these benefits were achieved without notable adverse effects67.
+
+Preservation of Organ Function:
+Hydrogen-rich water protected against liver damage in patients receiving chemotherapy for colorectal cancer, resulting in better liver function and overall well-being compared to those who did not receive hydrogen therapy45.
+
+Enhanced Tolerance to Cancer Therapies:
+By mitigating oxidative stress and inflammation, hydrogen therapy enabled patients to better tolerate aggressive treatments, potentially allowing them to complete full courses of chemotherapy or radiotherapy with fewer interruptions345.
+
+Summary Table: Documented QoL Benefits at Therapeutic Doses
+Administration Method	Typical Dose/Duration	Main QoL Benefits Observed
+Hydrogen-rich water	1.5–2 L/day for 4–6 weeks	Reduced fatigue, improved appetite, less nausea, better liver function
+Hydrogen gas inhalation	3+ hours daily for 4+ weeks	Less pain, improved sleep, reduced anorexia, better physical status
+Patient-Reported Outcomes:
+Improvements were most pronounced in lung cancer patients, while those with pancreatic and gynaecological cancers saw more modest gains267.
+
+In studies using validated QoL questionnaires (e.g., QLQ-C30), all domains—including physical, emotional, and social functioning—showed improvement after several weeks of hydrogen therapy267.
+
+No significant adverse effects were observed, and hydrogen did not diminish the anti-tumour effects of standard therapies345.
+
+Conclusion
+At therapeutic levels, molecular hydrogen can meaningfully enhance quality of life for cancer patients by reducing treatment-related side effects, preserving organ function, and improving general well-being. These benefits are well-documented in both clinical trials and real-world studies, especially for those undergoing chemotherapy or radiotherapy, and are achieved without compromising the effectiveness of cancer treatment or causing significant side effects.
+
+Answers to all your questions
+We’ve done our best to include as much information as possible for this supplement. 
+
+If you have any other questions, please send us a message or join our Skool Group and ask our knowledgeable and friendly community.
+
+How accessible is this supplement?
+Molecular hydrogen products are generally available online and in some health food stores. Regulatory frameworks vary globally:
+
+UK/EU: Typically classified as a food supplement rather than a medicine. Subject to general food safety regulations.
+
+USA: Similar to the UK/EU, often sold as a dietary supplement. Regulated under the Dietary Supplement Health and Education Act (DSHEA).
+
+Australia/NZ: Regulatory status might differ, often falling under complementary medicine regulations. The Therapeutic Goods Administration (TGA) may have specific guidelines.
+
+Cancer warriors should be aware that these products are not regulated as strictly as pharmaceuticals, and quality can vary. Consultation with healthcare providers is advised before use.
+
+What patient demographic Does this work Best for?
+No specific patient demographic has been definitively established as most likely to benefit from molecular hydrogen (H₂) therapy in cancer, but current research provides some indications regarding cancer types, disease stage, and patient characteristics that may respond favourably.
+
+Cancer Types Studied
+Gastrointestinal and Respiratory Cancers:
+The majority of clinical and preclinical studies have focused on cancers of the gastrointestinal tract (e.g., colorectal, liver) and respiratory system (e.g., non-small cell lung cancer, NSCLC). These groups have shown consistent improvements in tumour control, symptom relief, and quality of life with H₂ therapy, both as a stand-alone and adjunct treatment237.
+
+Other Cancers:
+There is also evidence of benefit in reproductive, central nervous system, and renal cancers, but these data are less extensive2.
+
+Disease Stage
+Advanced and Metastatic Disease:
+Many studies have included patients with advanced or metastatic cancers, particularly those who have exhausted standard therapies or are experiencing significant side effects from conventional treatment. In these populations, H₂ therapy has been shown to reduce symptoms, improve immune function, and enhance quality of life237.
+
+Treatment Context
+Patients Receiving Chemotherapy or Radiotherapy:
+H₂ has demonstrated the ability to reduce the side effects of chemotherapy (e.g., with 5-fluorouracil in colorectal cancer) and radiotherapy, suggesting that patients undergoing these treatments may benefit from its cytoprotective and symptom-relieving effects57.
+
+Combination Therapy:
+There is evidence that H₂ is particularly effective when used as an adjunct to standard cancer therapies, enhancing anti-tumour efficacy and reducing treatment-related toxicity257.
+
+Other Considerations
+Immunological Status:
+Some studies suggest that H₂ may help restore immune cell populations and reduce T cell exhaustion, which could be especially beneficial for patients with immunosuppression related to advanced cancer or ongoing therapy2.
+
+Safety and Tolerability:
+H₂ therapy has been well-tolerated across all demographics studied, with no significant adverse effects reported, making it suitable for a broad range of patients, including those with poor performance status or comorbidities47.
+
+Summary Table: Populations Studied and Observed Benefit
+Patient Group	Observed Benefit with H₂ Therapy
+Advanced/metastatic NSCLC	Symptom relief, improved immune function, better progression-free survival237
+Colorectal cancer (with chemotherapy)	Reduced tumour growth, fewer side effects, improved quality of life5
+Patients with significant treatment toxicity	Symptom reduction, improved tolerance to therapy257
+Other advanced cancers (liver, renal, CNS)	Preliminary evidence of tumour suppression and symptom relief2
+Conclusion
+While a universally defined demographic has not been established, current evidence suggests that patients with advanced gastrointestinal or respiratory cancers—especially those experiencing significant side effects from conventional therapies or with limited treatment options—may derive the most benefit from molecular hydrogen therapy. Its excellent safety profile further supports its use in a wide range of cancer patients, though larger and more targeted studies are needed to refine patient selection.
+
+Are there any known resistance mechanisms?
+As of April 2025, no specific resistance markers have been identified that predict reduced efficacy of molecular hydrogen (H₂) therapy in cancer or other conditions.
+
+However, research highlights mechanisms and pathways that may influence therapeutic outcomes, offering insights into potential factors affecting responsiveness.
+
+Key Findings from Studies
+Oxidative Stress and Redox Pathways:
+
+H₂’s efficacy depends on its ability to neutralise harmful reactive oxygen species (ROS) like hydroxyl radicals. Tumours with dysregulated antioxidant systems (e.g., overexpressed SOD, CAT) or mutations in redox-sensitive pathways (e.g., Nrf2/Keap1) may theoretically exhibit altered responses to H₂, though this remains speculative.
+
+In sepsis and lung injury models, H₂ suppressed pro-inflammatory cytokines (IL-6, TNF-α) and activated Nrf2, which regulates antioxidant responses. Variability in Nrf2 activity across individuals could influence outcomes614.
+
+Immune Modulation:
+
+H₂ enhances CD127+ regulatory T cells (Tregs) and reduces B cell subsets, as observed in a case of connective tissue disease-associated pulmonary arterial hypertension (CTD-PAH)5. Resistance might arise in patients with severe immune dysfunction or genetic variants affecting Treg/B cell balance.
+
+Autophagy and Apoptosis Regulation:
+
+H₂ inhibits excessive autophagy (via LC3B and Beclin-1 downregulation) and promotes apoptosis in cancer models6. Tumours with mutations in autophagy-related genes (e.g., ATG5, ATG7) or apoptotic pathways (e.g., Bcl-2/Bax) could theoretically resist these effects, though no direct evidence exists.
+
+Metabolic Pathways:
+
+Long-term H₂ exposure in rats altered lipid metabolism genes (Cyp51, Hsd3b1) and NADP levels, suggesting metabolic adaptations that might affect efficacy7. Tumours with aberrant NADP metabolism or lipid synthesis pathways could respond differently.
+
+Limitations and Gaps
+No studies have directly investigated resistance mechanisms or markers in H₂ therapy.
+
+Most research focuses on H₂’s efficacy rather than variability in patient responses.
+
+Genetic or epigenetic factors influencing redox, immune, or metabolic pathways remain unexplored as potential resistance markers.
+
+Conclusion
+While molecular hydrogen’s therapeutic effects are mediated through oxidative stress reduction, immune modulation, and metabolic regulation, no resistance markers have been identified to date. It is likely there are none since H₂ plays a key role in many biological functions throughout the body.  Variability in patient responses may arise from differences in baseline oxidative stress, immune status, or genetic factors affecting targeted pathways. Further research is needed to explore these hypotheses and identify biomarkers predictive of H₂ therapy outcomes.
+
+Have there been any preclinical studies?
+Molecular hydrogen (H₂) has been extensively studied in pre-clinical trials (in vitro and animal models) across various cancer types, demonstrating anti-tumour effects through multiple mechanisms.
+
+Below is a summary of key findings from these studies.
+
+Key Cancer Types Studied
+1. Cervical Cancer
+
+Study Design: In vitro (cell culture) and in vivo (mouse models).
+
+Administration: Hydrogen gas (67% concentration).
+
+Findings:
+
+Reduced oxidative stress (ROS levels) and tumour growth.
+
+Promoted apoptosis (programmed cell death) and decreased cancer cell proliferation14.
+
+2. Lung Cancer
+
+Study Design: In vitro and in vivo (mouse xenografts).
+
+Administration: Hydrogen gas (20–80% concentrations).
+
+Findings:
+
+Decreased cancer cell viability, migration, and invasion.
+
+Downregulation of SMC3 protein expression, leading to apoptosis and reduced tumour weight16.
+
+3. Ovarian Cancer
+
+Study Design: In vitro (PA-1 and Hs38.T cell lines) and in vivo (mouse xenografts).
+
+Administration: Hydrogen gas (33% concentration) and hydrogen-rich medium.
+
+Findings:
+
+32–39% reduction in tumour volume after 6 weeks of inhalation.
+
+Inhibition of cell proliferation (22–39%), invasion (39–72%), and migration (20–38%)6.
+
+4. Colorectal Cancer
+
+Study Design: In vivo (rat models).
+
+Administration: Hydrogen-rich water (HRW).
+
+Findings:
+
+HRW alone suppressed tumour progression comparably to chemotherapy (5-fluorouracil).
+
+Synergistic tumour suppression when combined with 5-fluorouracil, with improved oxidative stress markers2.
+
+5. Liver Cancer
+
+Study Design: In vivo (rat models).
+
+Administration: Hydrogen-rich water.
+
+Findings:
+
+Reduced hepatic carcinogenesis via modulation of lipid metabolism genes (PPAR pathway).
+
+Antioxidative effects, including lowered ROS and improved redox balance4.
+
+6. Endometrial Cancer
+
+Study Design: In vitro (HEC1A and Ishikawa cell lines).
+
+Administration: Hydrogen-rich medium.
+
+Findings:
+
+Increased apoptosis via TNF and NF-κB pathways.
+
+Enhanced radiotherapy-induced apoptosis by 39%4.
+
+Mechanisms of Action
+Antioxidant Effects: Selective scavenging of cytotoxic ROS (e.g., hydroxyl radicals) while preserving beneficial oxidative signalling35.
+
+Apoptosis Induction: Downregulation of anti-apoptotic proteins (e.g., Bcl-2) and activation of caspases16.
+
+Anti-Angiogenesis: Reduced expression of markers like CD34 and Ki67, inhibiting tumour blood vessel formation6.
+
+Metabolic Modulation: Altered lipid metabolism and NADP levels, affecting cancer cell proliferation4.
+
+Immune Modulation: Enhanced anti-tumour immune responses via T-cell regulation1.
+
+Summary Table: Pre-Clinical Findings
+Cancer Type	Model	Administration	Key Outcomes
+Cervical	In vitro/in vivo	Hydrogen gas (67%)	Reduced ROS, tumour growth, and proliferation
+Lung	In vitro/in vivo	Hydrogen gas (20–80%)	Inhibited cell viability, migration, apoptosis
+Ovarian	In vitro/in vivo	Hydrogen gas (33%)	Reduced tumour volume, invasion, migration
+Colorectal	In vivo	HRW	Synergistic suppression with 5-FU
+Liver	In vivo	HRW	Modulated lipid metabolism genes
+Endometrial	In vitro	Hydrogen-rich medium	Enhanced radiotherapy-induced apoptosis
+Safety and Selectivity
+Low Toxicity: No significant adverse effects reported in animal models, even at high concentrations5.
+
+Selective Action: H₂ preferentially targets cancer cells over healthy cells, likely due to their higher baseline ROS levels35.
+
+Conclusion
+Pre-clinical trials demonstrate molecular hydrogen’s broad anti-cancer effects across multiple cancer types, primarily through antioxidant, pro-apoptotic, and anti-angiogenic mechanisms. Its safety profile and selectivity for cancerous cells make it a promising candidate for further clinical investigation.
+
+Are there current clinical trials?
+Molecular hydrogen (H₂) is currently being investigated in multiple clinical trials as an adjunctive or supportive therapy for cancer, but as of April 2025, it is not yet part of large-scale, late-phase (Phase III or IV) trials for cancer treatment.
+
+Current Clinical Trial Status
+Early-Phase and Pilot Trials:
+Most human studies of molecular hydrogen in cancer are early-phase (Phase I or II), pilot trials, or small-scale clinical investigations. These trials primarily focus on safety, tolerability, and preliminary efficacy—often as an adjunct to standard treatments such as chemotherapy, radiotherapy, or immunotherapy248.
+
+Examples of Clinical Studies:
+
+Lung Cancer:
+Trials have investigated hydrogen gas inhalation (typically 66.7% H₂) for 4–6 hours daily in patients with advanced non-small cell lung cancer (NSCLC), both as monotherapy and in combination with immunotherapy (e.g., nivolumab). These studies have reported improved progression-free survival and overall survival, as well as reduced symptoms and side effects2348.
+
+Colorectal Cancer:
+Clinical studies using hydrogen-rich water (1.5–2 L/day) alongside chemotherapy (e.g., mFOLFOX6 or XELOX regimens) have shown reductions in treatment-related liver damage and improved quality of life, with some evidence of enhanced survival238.
+
+Liver Cancer:
+Trials involving hydrogen-rich water during radiotherapy have demonstrated reduced side effects (such as appetite loss and taste changes) and improved oxidative stress markers, with no negative impact on tumour response4.
+
+Combination Therapies:
+Several trials are exploring H₂ as an adjunct to immunotherapies (e.g., nivolumab), chemotherapy, and targeted therapies, with some studies reporting synergistic effects and improved immune function28.
+
+Phase of Current Trials
+Most studies are in Phase I or II:
+These focus on safety, optimal dosing, and early signals of efficacy in small patient cohorts468.
+
+No Phase III or IV trials yet:
+There are currently no large, multicentre, randomised Phase III or IV trials published or registered that would be required for regulatory approval and widespread clinical adoption16.
+
+Summary Table: Clinical Trial Landscape
+Cancer Type	Hydrogen Administration	Phase/Type	Outcomes/Status
+NSCLC (lung cancer)	Inhalation (66.7% H₂)	Phase I/II	Improved survival, reduced symptoms, ongoing
+Colorectal cancer	Hydrogen-rich water	Phase I/II	Reduced liver toxicity, improved QOL, ongoing
+Liver cancer	Hydrogen-rich water	Phase I/II	Reduced side effects, improved biomarkers, ongoing
+Multiple cancers	Inhalation/Water	Pilot/Case studies	Improved immune function, ongoing
+Conclusion
+Molecular hydrogen is being actively studied in early-phase and pilot clinical trials for various cancers, both as a stand-alone and adjunctive therapy. These studies are primarily Phase I or II, with promising results for safety and potential efficacy. However, there are currently no large-scale, late-phase clinical trials (Phase III or IV) completed or underway that would establish H₂ as a standard cancer therapy.
+
+Further research, including larger and more rigorous trials, is needed before molecular hydrogen can be considered for routine clinical use in oncology.
+
+Are there genetic markers that might affect effectiveness?
+As of April 2025, no specific genetic markers have been conclusively identified that predict individual responsiveness to molecular hydrogen (H₂) therapy. However, emerging research highlights its interaction with metabolic, redox, and immune-related pathways, suggesting potential genetic factors that may influence efficacy.
+
+Key Findings from Studies
+NADP and Metabolic Pathways
+
+Long-term H₂ administration in rats altered liver transcriptomes, downregulating genes involved in lipid metabolism and hormone synthesis (e.g., Cyp51, Hsd3b1) and upregulating amino acid catabolism genes (e.g., Gad1, Gls2)4.
+
+NADP (nicotinamide adenine dinucleotide phosphate) emerged as a central regulator of H₂-induced metabolic changes, with reduced NADP levels correlating with shifts in lipid and carboxylic acid metabolism4.
+
+Immune and Inflammation-Related Genes
+
+H₂ inhalation modulated immune response genes, including Cd40, Cd80, and Ccl5, which are linked to macrophage and T-cell activity4.
+
+In lung injury models, H₂ suppressed pro-inflammatory cytokines (e.g., IL-6, TNF-α) and activated the Nrf2/HO-1 pathway, which regulates antioxidant responses25.
+
+Autophagy and Apoptosis Pathways
+
+H₂ inhibited excessive autophagy in lipopolysaccharide-induced acute lung injury by downregulating LC3B and Beclin-12.
+
+Anti-apoptotic effects involved modulation of Bcl-2/Bax ratios and caspase-3/8/9 activity25.
+
+Mitochondrial Complex I Interactions
+
+Preclinical studies suggest H₂ may influence electron transport chain activity at mitochondrial complex I, particularly Fe-S clusters and quinone intermediates, though human genetic variants here remain unexplored1.
+
+Limitations and Future Directions
+Current evidence focuses on H₂-induced gene expression changes rather than pre-existing genetic markers that predict therapeutic outcomes.
+
+No genome-wide association studies (GWAS) or pharmacogenomic analyses have been conducted to identify polymorphisms affecting H₂ efficacy.
+
+Potential candidates for future study include variants in Nrf2, SOD, CAT, and NADPH oxidase genes, given their roles in oxidative stress pathways targeted by H₂25.
+
+Conclusion
+While molecular hydrogen modulates genes involved in metabolism, inflammation, and oxidative stress, no validated genetic markers currently exist to predict its efficacy. Research to date emphasises H₂’s broad mechanistic effects rather than individual genetic predispositions. Further studies exploring genetic polymorphisms in redox and immune pathways may clarify personalised applications for H₂ therapy.

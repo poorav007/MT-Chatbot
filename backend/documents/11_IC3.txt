@@ -1,0 +1,491 @@
+Supplement
+Indole-3-carbinol (I3C)
+Indole-3-carbinol (I3C) is a bioactive compound naturally occurring in cruciferous vegetables that plays a significant role in modulating enzymes involved in estrogen metabolism and potentially influencing cancer-related processes.
+Indole-3-carbinol (I3C)
+Cancer Impact Summary
+Click  to Learn More
+
+Induces Apoptosis
+Yes
+Inhibit Cell Proliferation
+Yes
+Target Specific Pathways
+Yes
+Angiogenesis Inhibition
+Yes
+Role in Immunotherapy
+No
+Anti-Inflammatory Properties
+Yes
+Full Supplement Details
+
+Indole-3-carbinol (I3C), a compound derived from cruciferous vegetables like broccoli and cabbage, has emerged as a promising candidate for cancer prevention and adjunct therapy due to its multifaceted mechanisms targeting tumour growth, survival, and metastasis. Here’s a detailed overview of its anti-cancer properties:
+
+Mechanisms of Action
+I3C and its metabolite 3,3’-diindolylmethane (DIM) exert pleiotropic effects on cancer cells:
+
+Oestrogen Modulation: Reduces estrogenic-driven cancer risks (e.g., breast, cervical) by shifting oestrogen metabolism toward less potent metabolites and inhibiting ERα signaling126.
+
+Apoptosis Induction: Activates proapoptotic pathways (e.g., caspase activation, Bcl-2 suppression) and stress responses like endoplasmic reticulum (ER) stress, leading to mitochondrial dysfunction and cell death134.
+
+Cell Cycle Arrest: Inhibits cyclin-dependent kinases (CDKs) and induces G1/S phase arrest, suppressing proliferation16.
+
+Anti-Angiogenesis and Metastasis: Downregulates VEGF, MMP-2/9, and CXCR4, impairing tumour invasion and angiogenesis14.
+
+Aryl Hydrocarbon Receptor (AHR) Activation: Triggers AHR-dependent upregulation of CYP1A1, enhancing detoxification and apoptosis in colorectal cancer35.
+
+Cancer-Specific Effects
+Breast Cancer:
+
+Synergises with tamoxifen to inhibit ERα-positive tumour growth14.
+
+Increases ERβ/ERα ratio, promoting antiproliferative signaling1.
+
+Colorectal Cancer:
+
+AHR activation by I3C correlates with dose-dependent apoptosis and reduced viability in multiple cell lines (DLD1, HCT116)35.
+
+Ovarian Cancer:
+
+Enhances bortezomib’s efficacy by upregulating ER stress markers and reversing chemoresistance7.
+
+Prostate Cancer:
+
+Sensitises cells to TRAIL-induced apoptosis via GADD153/DR5 upregulation1.
+
+Synergy with Conventional Therapies
+I3C potentiates the effects of chemotherapy and targeted agents:
+
+Chemotherapy: Reverses multidrug resistance by downregulating p-glycoprotein14.
+
+Proteasome Inhibitors: Combined with bortezomib, it disrupts ovarian cancer cell survival pathways7.
+
+Radiotherapy: Acts as a radiosensitiser by amplifying DNA damage responses1.
+
+Clinical and Preclinical Insights
+Human Trials: Demonstrated efficacy in cervical dysplasia and recurrent respiratory papillomatosis15. Early-phase trials in breast cancer show altered oestrogen metabolism25.
+
+Animal Models: Suppresses chemically induced tumours in mammary, liver, and lung tissues15.
+
+Considerations and Cautions
+Dose Dependency: Anti-cancer effects are dose-dependent, with higher concentrations (50–100 µM) required for apoptosis13.
+
+Potential Risks: Some studies report tumour-promoting effects in specific contexts (e.g., lung cancer models)45.
+
+Bioavailability: Rapid metabolism of I3C into DIM and other conjugates may limit efficacy, necessitating optimised formulations6.
+
+Conclusion
+I3C’s ability to simultaneously target oncogenic signalling, hormonal pathways, and chemoresistance underscores its potential as a dietary adjunct in cancer therapy. While preclinical data are compelling, further clinical validation is critical to define optimal dosing, safety, and patient populations. For now, incorporating cruciferous vegetables into diets remains a practical strategy for harnessing I3C’s chemopreventive benefits.
+
+Dosage
+
+A recommended safe dosage of Indole-3-carbinol (I3C) for adults has been established in clinical research and practice. Most studies and expert guidelines suggest that I3C is possibly safe when taken by mouth at doses up to 400 mg daily for periods ranging from several months up to five years1289. Commonly, adults have used 200–400 mg per day, with 200 mg appearing to be as effective as higher doses for conditions like cervical dysplasia28. Some sources and supplement manufacturers recommend a broader range, 200–800 mg daily, usually divided into two doses and taken with meals73.
+
+For breast cancer prevention, a minimum effective dose of 300 mg per day has shown promise in clinical trials, with no significant toxicity reported at this level510.
+
+Safety Considerations:
+
+Side effects can include balance problems, diarrhoea, nausea, rash, and tremors, especially at higher doses12.
+
+I3C may interact with medications metabolised by the liver and those that affect blood clotting12.
+
+There is not enough reliable information about safety for pregnant or breastfeeding women, so use is not recommended in these groups127.
+
+Children and teenagers have safely used 6–17 mg/kg body weight for up to 76 months under medical supervision1.
+
+Summary Table:
+
+Population	Typical Safe Dose	Duration
+Adults	200–400 mg daily	Up to 5 years
+Breast cancer risk	≥300 mg daily	4 weeks–5 years
+Children	6–17 mg/kg daily	12–76 months
+Always consult a healthcare provider for individualised dosing and to ensure safety, especially if taking other medications or managing health conditions127.
+
+Cancer Types Tested Against
+Breast Cancer, Cervical Cancer, Colorectal Cancer, Endometrial Cancer, Prostate Cancer
+
+Side Effects
+
+Indole-3-carbinol (I3C) is generally considered safe for most adults when used at recommended doses, but it can cause several side effects.
+
+The most commonly reported side effects include:
+
+Balance problems
+
+Diarrhoea
+
+Nausea
+
+Skin rash
+
+Tremors124
+
+Less commonly, I3C can cause skin irritation and small increases in liver enzymes45. At very high doses, these side effects may become more pronounced, and additional symptoms such as gastrointestinal discomfort can occur46. In rare cases, skin irritation and eye irritation have been noted in safety data sheets16.
+
+Special considerations:
+
+Pregnancy and breastfeeding: There is insufficient reliable information about the safety of I3C during pregnancy or breastfeeding, so it is best avoided in these groups146.
+
+Bleeding risk: I3C may slow blood clotting and could increase the risk of bleeding, especially in people with bleeding disorders or those taking anticoagulant or antiplatelet medications1.
+
+Surgery: Because of its effect on blood clotting, it is recommended to stop I3C at least two weeks before surgery1.
+
+Immunocompromised individuals: Animal studies suggest gastrointestinal toxicity may be more pronounced in immunocompromised subjects3.
+
+Reproductive toxicity: Animal studies have shown potential reproductive toxicity, including decreased sperm motility and effects on foetal development13.
+
+Drug interactions:
+I3C may interact with medications metabolised by the liver (especially those processed by cytochrome P450 enzymes) and may interfere with oestrogen therapies or medications that slow blood clotting146.
+
+Summary Table:
+
+Side Effect	Frequency/Notes
+Balance problems	Common at high doses
+Diarrhoea, nausea	Common
+Skin rash, irritation	Occasionally reported
+Tremors	High doses
+Elevated liver enzymes	Rare
+Gastrointestinal discomfort	Possible, especially at high doses
+Reproductive toxicity	Shown in animal studies
+Bleeding risk	Caution with anticoagulants
+Anyone considering I3C supplementation should consult a healthcare provider, especially if they have underlying health conditions or are taking other medications.
+
+Combination Therapies
+
+Indole-3-carbinol (I3C) has been extensively studied in combination with conventional and experimental cancer therapies, demonstrating synergistic effects across multiple cancer types. Below is a synthesis of key findings:
+
+1. Chemotherapy Combinations
+I3C enhances the efficacy of traditional chemotherapeutic agents through multiple mechanisms:
+
+Doxorubicin/Vinca Alkaloids: Reverses multidrug resistance (MDR) by downregulating p-glycoprotein, restoring sensitivity in leukaemia and melanoma cells1.
+
+Cisplatin/Carboplatin: Synergises with platinum-based drugs in ovarian cancer, reducing chemoresistance and tumour growth in vivo5.
+
+Gemcitabine: Sensitises pancreatic cancer cells by downregulating microRNA-21 and reactivating p16 INK4a tumour suppressor pathways8.
+
+2. Targeted Therapies
+I3C potentiates apoptosis when combined with molecularly targeted agents:
+
+Bortezomib (Proteasome Inhibitor):
+
+Induces endoplasmic reticulum (ER) stress, disrupts chemoresistance pathways, and enhances apoptosis in ovarian cancer5.
+
+Reduces tumour weight by 50% in xenograft models compared to monotherapy5.
+
+Tamoxifen (ER Modulator):
+
+Cooperates with tamoxifen to arrest ERα-positive breast cancer cells via distinct pathways (cell cycle inhibition + ERα suppression)7.
+
+TRAIL (Death Receptor Agonist):
+
+Upregulates DR4/DR5 receptors and suppresses c-FLIP, overcoming TRAIL resistance in endometrial and prostate cancers610.
+
+3. Radiotherapy
+I3C acts as a radiosensitiser in triple-negative breast cancer (TNBC):
+
+Enhances radiation-induced DNA damage and apoptosis by modulating oxidative stress pathways4.
+
+Reduces clonogenic survival of TNBC cells when combined with ionising radiation4.
+
+4. Phytochemical Synergy
+Genistein (Soy Isoflavone):
+
+With TRAIL, induces caspase-8 activation and PARP cleavage in endometrial cancer, achieving 80% apoptosis in Ishikawa cells6.
+
+Resveratrol:
+
+Combined dietary supplementation with I3C shows additive anti-proliferative effects in preclinical models9.
+
+Mechanistic Insights
+ER Stress Activation: I3C triggers unfolded protein response pathways, amplifying stress-induced apoptosis15.
+
+Death Receptor Upregulation: Enhances TRAIL sensitivity via DR4/DR5 overexpression610.
+
+Cellular Signalling Modulation: Suppresses oncogenic pathways (Akt-NFκB, STAT3) while activating proapoptotic caspases18.
+
+Clinical Implications
+While preclinical data are robust, clinical trials remain limited. Notable exceptions include:
+
+Ovarian Cancer: I3C + bortezomib reduced tumour growth in xenografts5.
+
+Breast Cancer: Synergy with tamoxifen in ERα-positive models7.
+
+Conclusion
+I3C’s ability to synergise with chemotherapy, targeted agents, radiation, and phytochemicals underscores its potential as a multifunctional adjunct in cancer therapy. Prioritising clinical trials to validate these combinations is critical for translating preclinical findings into therapeutic strategies.
+
+Links to Scientific Studies
+
+– US National Library of Medicine research on I3C
+
+– Europe PMC research on I3C
+
+– Pubmed research on I3C
+
+Quality of Life Effects
+
+At therapeutic levels (typically 200–400 mg per day), indole-3-carbinol (I3C) is generally well tolerated and does not appear to cause significant quality of life impairment for most people. Clinical studies and reviews indicate that, when used for several months up to five years, most individuals experience few or only mild side effects145.
+
+Potential Quality of Life Impacts
+Positive Effects:
+
+Symptom Improvement in Target Conditions: For people with cervical dysplasia, vulvar intraepithelial neoplasia, or at high risk for oestrogen-dependent cancers, I3C may improve disease biomarkers and, in some cases, reduce lesion size or slow disease progression, potentially reducing anxiety and the need for more invasive treatments5.
+
+Adjunctive Benefits: In systemic lupus erythematosus (SLE), preclinical and some early clinical data suggest I3C can reduce the need for immunosuppressive drugs, which may lower the risk of drug-related side effects and improve overall well-being5.
+
+Tolerability and Side Effects:
+
+Most Common Side Effects: At recommended doses, side effects are usually mild and may include gastrointestinal symptoms (nausea, diarrhoea), skin rash, tremor, or mild increases in liver enzymes14. These effects are generally reversible and do not typically interfere with daily activities.
+
+Rare or Serious Effects: At very high doses, more pronounced symptoms such as balance problems and tremors can occur, but these are uncommon at therapeutic levels14. There are isolated reports of significant vascular events with related compounds (DIM), but these are rare and not consistently linked to I3C3.
+
+Special Populations: Immunocompromised individuals may be more susceptible to gastrointestinal toxicity, as shown in animal studies, so caution is advised in these groups2.
+
+Drug Interactions and Precautions:
+
+Medication Interactions: I3C can interact with medications metabolised by the liver (cytochrome P450 system) and may interfere with oestrogen therapies or blood thinners, potentially affecting quality of life if not properly managed14.
+
+No Major Daily Life Restrictions: For most healthy adults, I3C does not require significant lifestyle changes or restrictions.
+
+Summary Table: Quality of Life Considerations at Therapeutic Doses
+Aspect	Impact at 200–400 mg/day
+Daily functioning	Usually unaffected
+Common side effects	Mild GI symptoms, rash, tremor
+Serious adverse events	Rare at recommended doses
+Disease symptom improvement	Possible in cervical dysplasia, SLE
+Medication interactions	Possible—monitor with provider
+Special populations	Caution in immunocompromised
+Conclusion
+For most people taking I3C at therapeutic levels, quality of life is preserved, with only mild and manageable side effects in the majority of cases145. Potential benefits in disease management may further enhance well-being, especially for those with oestrogen-dependent conditions or SLE. However, individuals with compromised immunity or on interacting medications should consult their healthcare provider before starting I3C124.
+
+Answers to all your questions
+We’ve done our best to include as much information as possible for this supplement. 
+
+If you have any other questions, please send us a message or join our Skool Group and ask our knowledgeable and friendly community.
+
+How accessible is this supplement?
+I3C supplements are generally available online and in health food stores without a prescription in many countries. However, regulatory status and accessibility may vary depending on the country. In some regions, I3C may be classified as a dietary supplement, while in others it may be regulated differently.
+
+What patient demographic Does this work Best for?
+Current research suggests that certain patient demographics are more likely to benefit from indole-3-carbinol (I3C) supplementation, particularly in the context of cancer prevention and adjunctive therapy.
+
+The evidence points to the following groups:
+
+1. Women at Risk for Oestrogen-Dependent Cancers
+Breast Cancer: Multiple clinical and preclinical studies highlight that women—especially those at higher risk for breast cancer—may benefit from I3C. This is due to I3C’s ability to modulate oestrogen metabolism, increasing the ratio of 2-hydroxyestrone to 16-α-hydroxyestrone, a biomarker associated with reduced breast cancer risk2459.
+
+Cervical and Vulvar Intraepithelial Neoplasia (CIN, VIN): Women with precancerous lesions of the cervix or vulva have shown improvement in symptomatology and lesion appearance when treated with I3C, as demonstrated in randomised controlled trials61011.
+
+General Oestrogen-Dependent Cancers: The chemopreventive action of I3C is most pronounced in oestrogen-dependent cancers due to its influence on oestrogen metabolism and receptor signaling124.
+
+2. Patients with Precancerous Lesions
+Cervical Dysplasia (CIN): I3C has shown efficacy in women with cervical intraepithelial neoplasia, improving both biomarkers and clinical outcomes1011.
+
+Vulvar Intraepithelial Neoplasia (VIN): Similar benefits are observed in women with VIN, with significant symptom and lesion improvement6.
+
+3. Individuals with a Family History or High Risk of Hormone-Related Cancers
+High-Risk Cohorts: Women identified as high-risk for breast cancer (e.g., family history, genetic predisposition) have been the focus of several clinical studies, with I3C demonstrating favourable changes in oestrogen metabolism and tolerability29.
+
+4. Patients with Systemic Lupus Erythematosus (SLE)
+Women with SLE: Research in both animal models and a clinical study of women with SLE suggests I3C may modulate immune responses and improve disease markers, particularly in premenopausal women or those with active oestrogen metabolism2.
+
+5. Potential in Obesity and Metabolic Disorders
+Obesity and Chronic Inflammation: There is emerging evidence that I3C may benefit individuals with obesity-related metabolic disorders due to its anti-inflammatory and anti-adipogenic effects, though this is less well established in clinical practice2.
+Summary Table: Patient Groups Most Likely to Benefit from I3C
+Patient Group	Rationale/Evidence
+Women at risk for breast cancer	Modulates oestrogen metabolism, reduces risk biomarkers
+Women with cervical/vulvar dysplasia (CIN, VIN)	Improves lesion appearance and symptoms
+High-risk for hormone-dependent cancers	Favourable biomarker changes in clinical studies
+Women with SLE	Modulates immune and oestrogen pathways
+Individuals with obesity/metabolic syndrome	Anti-inflammatory and metabolic effects (preclinical)
+Key Considerations
+Sex Differences: Most clinical studies have focused on women, particularly premenopausal and postmenopausal women, due to the oestrogen-modulating properties of I3C249.
+
+Safety: I3C is generally well tolerated, but dosing and duration should be individualised, especially in those with liver enzyme abnormalities or on certain medications2.
+
+Not a Standalone Cancer Treatment: While I3C shows promise in prevention and adjunctive settings, it is not proven as a primary cancer therapy in humans5.
+
+Conclusion:
+The clearest benefit of I3C supplementation is seen in women at risk for or diagnosed with oestrogen-dependent cancers (breast, cervical, vulvar), those with precancerous lesions, and potentially in women with SLE. Its role in men or in other cancer types is less well defined and requires further research.
+
+Are there any known resistance mechanisms?
+Indole-3-carbinol (I3C) exhibits variable efficacy depending on molecular and genetic factors in cancer cells. While no universally validated resistance biomarkers exist, preclinical studies highlight several mechanisms and markers that may influence I3C’s therapeutic effects:
+
+1. NF-κB Pathway Activation
+Constitutive NF-κB activity in cancer cells can reduce I3C’s efficacy, as I3C suppresses NF-κB to inhibit antiapoptotic and metastatic genes2512. Tumours with persistent NF-κB signalling may resist apoptosis induction.
+
+2. EGFR/Src Overexpression
+Elevated EGFR or Src kinase activity counteracts I3C-induced cell death. I3C downregulates EGFR and inhibits Src, but overexpression of these proteins may blunt its proapoptotic effects414.
+
+3. Cdc25A Stability
+Resistance to I3C’s G1 cell cycle arrest may occur in cells with stabilised Cdc25A, a phosphatase critical for cell cycle progression. I3C promotes Cdc25A degradation via ATM-Chk2 activation; defects in this pathway could confer resistance817.
+
+4. Aryl Hydrocarbon Receptor (AhR) Dysregulation
+I3C’s chemopreventive effects depend on AhR activation to upregulate detoxification enzymes like CYP1A1. AhR inactivation or low CYP1A1 expression may reduce I3C efficacy in colorectal and liver cancers3612.
+
+5. Oestrogen Receptor (ER) Status
+ERα-negative tumours may be less responsive to I3C, as its antiproliferative effects in breast cancer rely partly on ERα suppression and ERβ upregulation619. ERα-positive cells show greater sensitivity.
+
+6. microRNA-21 Overexpression
+High miR-21 levels are linked to chemoresistance. I3C reverses gemcitabine resistance in pancreatic cancer by downregulating miR-21; tumours with persistent miR-21 overexpression may resist this effect616.
+
+7. Bcl-2 Family Protein Upregulation
+Overexpression of antiapoptotic Bcl-2 or Bcl-xL can mitigate I3C’s proapoptotic effects, which rely on suppressing these proteins1418.
+
+8. Multidrug Resistance (MDR) Proteins
+P-glycoprotein (MDR-1) overexpression, a common resistance mechanism in chemotherapy, is reversed by I3C. However, tumors with robust MDR-1 activity may require higher I3C doses to restore drug sensitivity1618.
+
+Summary Table: Potential Resistance Markers
+Marker/Pathway	Mechanism of Resistance	Evidence Source
+NF-κB activation	Sustained antiapoptotic/metastatic gene expression	2512
+EGFR/Src overexpression	Counteracts I3C-induced kinase inhibition	414
+Stable Cdc25A	Prevents G1 cell cycle arrest	817
+AhR/CYP1A1 deficiency	Reduces detoxification and apoptosis	3612
+ERα negativity	Limits oestrogen pathway targeting	619
+miR-21 overexpression	Maintains chemoresistance pathways	616
+Bcl-2 upregulation	Blocks mitochondrial apoptosis	1418
+MDR-1 activity	Enhances drug efflux	1618
+Clinical Implications
+While these markers are inferred from preclinical studies, they underscore the importance of tumour profiling to optimise I3C use. For example:
+
+ERα-positive breast cancers may respond better to I3C than triple-negative subtypes19.
+
+Combining I3C with NF-κB or EGFR inhibitors could overcome resistance24.
+
+Further clinical validation is needed to translate these findings into predictive biomarkers.
+
+Have there been any preclinical studies?
+Indole-3-carbinol (I3C) has been extensively studied in pre-clinical trials (in vitro and in vivo models), demonstrating broad-spectrum anticancer activity through diverse mechanisms.
+
+Below is a summary of key findings:
+
+Mechanisms of Action
+I3C and its metabolite 3,3’-diindolylmethane (DIM) target multiple oncogenic pathways:
+
+Apoptosis Induction: Activates caspases-3/9, suppresses Bcl-2/Bcl-xL, and upregulates proapoptotic Bax and GADD153/CHOP, triggering mitochondrial dysfunction12.
+
+Cell Cycle Arrest: Inhibits cyclin-dependent kinases (CDK2/4/6) and induces G1/S arrest via p21/p27 upregulation and cyclin D1/E suppression12.
+
+Oestrogen Modulation: Shifts oestrogen metabolism toward less potent metabolites, suppresses ERα signalling, and upregulates BRCA1 in breast cancer models125.
+
+Anti-Angiogenesis & Metastasis: Downregulates VEGF, MMP-2/9, and CXCR4, impairing tumour invasion and angiogenesis14.
+
+Multidrug Resistance (MDR) Reversal: Suppresses p-glycoprotein (MDR-1), restoring sensitivity to doxorubicin and vinca alkaloids in leukaemia and melanoma15.
+
+Cancer-Specific Preclinical Models
+Cancer Type	Key Findings	Model System
+Breast	Suppresses ERα signalling, enhances tamoxifen efficacy, reduces tumour growth in xenografts15.	MCF-7 cells, mice
+Prostate	Synergises with TRAIL to induce apoptosis via DR5 upregulation12.	LNCaP cells
+Colorectal	Activates AhR/CYP1A1 pathway, inducing detoxification and apoptosis35.	DLD1/HCT116 cells
+Ovarian	Enhances bortezomib’s efficacy by amplifying ER stress and apoptosis5.	SKOV3 cells, mice
+Pancreatic	Reverses gemcitabine resistance via miR-21 downregulation and p16 reactivation45.	MIA PaCa-2 cells
+Leukemic/Lymphoma	Inhibits T-cell acute lymphoblastic leukaemia (T-ALL) growth (44% tumour volume reduction at 100 ppm DIM)3.	Mice, Jurkat cells
+Combination Therapies
+I3C enhances conventional and targeted therapies:
+
+Chemotherapy: Synergises with doxorubicin, cisplatin, and gemcitabine by reversing MDR and sensitising resistant cells15.
+
+Targeted Agents:
+
+Bortezomib: Amplifies ER stress, reducing ovarian tumour weight by 50% in xenografts5.
+
+TRAIL: Upregulates DR4/DR5 death receptors, overcoming resistance in prostate and endometrial cancers12.
+
+Phytochemicals: Combines with genistein or resveratrol for additive antiproliferative effects35.
+
+Key In Vivo Findings
+Dose-Dependent Efficacy:
+
+200–400 mg/kg (rodent equivalent) reduced chemically induced mammary, liver, and lung tumors13.
+
+100 ppm DIM decreased T-ALL tumour volume by 44% in mice3.
+
+Transplacental Models: I3C inhibited diethylnitrosamine-induced liver tumours in offspring3.
+
+Multi-Organ Protection: Showed chemopreventive effects in colon, lung, and breast carcinogenesis models35.
+
+Contradictory Evidence
+Tumour-Promoting Effects: In rare contexts (e.g., lung cancer models), I3C may enhance tumour growth, highlighting context-dependent activity5.
+
+Conclusion
+Preclinical data robustly support I3C’s anticancer potential via pleiotropic mechanisms and synergy with existing therapies. While promising, clinical translation requires validation in human trials to address variability in dosing, bioavailability, and context-specific efficacy.
+
+Are there current clinical trials?
+Indole-3-carbinol (I3C) has been evaluated in several clinical trials, particularly for its potential in cancer prevention and adjunctive therapy. However, as of 2025, I3C is not widely featured in large, late-phase (Phase III or IV) clinical trials for cancer treatment.
+
+Current and Past Clinical Trials
+Early-Phase Trials (Phase I/II):
+
+I3C has been tested in Phase I trials for tolerability and biological effects, such as a study in women at high risk for breast cancer, where doses up to 800 mg daily were well tolerated and showed biological activity related to oestrogen metabolism3.
+
+Phase II trials have also been conducted, particularly for conditions like cervical dysplasia and recurrent respiratory papillomatosis, and to assess its chemopreventive properties in breast and prostate cancer15.
+
+Cancer Prevention and Adjunctive Therapy:
+
+Most human clinical trials have focused on I3C’s role in cancer prevention (especially breast and prostate cancer) or as an adjunct to standard therapies, rather than as a primary treatment for advanced cancers15.
+
+These trials have generally been small and early-stage, designed to assess safety, dosing, and biological markers rather than definitive clinical outcomes35.
+
+Other Conditions:
+
+I3C has also been tested in clinical studies for non-cancer conditions such as systemic lupus erythematosus (SLE), obesity, and chronic inflammation, but these trials remain limited in size and scope4.
+
+Summary Table
+Indication	Phase	Status/Notes
+Breast cancer prevention	Phase I/II	Completed, showed safety and biomarker effect35
+Cervical dysplasia	Phase II	Completed, showed benefit at 200–400 mg/day1
+Prostate cancer prevention	Phase I/II	Completed, focus on chemoprevention5
+Other cancers (adjunct)	Preclinical/Early Phase	Ongoing or completed, limited data45
+Non-cancer (e.g., SLE)	Early Phase	Small trials, inconclusive4
+Conclusion
+I3C has been tested in several Phase I and Phase II clinical trials, primarily for cancer prevention and as an adjunct in early-stage disease. There is no evidence it is currently in large-scale, late-phase (Phase III/IV) clinical trials for cancer treatment as of 2025. Most ongoing research remains in early clinical or preclinical stages, and further large, controlled studies are needed to establish its efficacy and safety in broader cancer populations1345.
+
+More information on active clinical trials can be found on websites like clinicaltrials.gov.
+
+Are there genetic markers that might affect effectiveness?
+Indole-3-carbinol (I3C) interacts with several genetic pathways and biomarkers that influence its efficacy, though no specific polymorphisms or genetic markers have been conclusively linked to differential patient responses.
+
+Key genes and pathways modulated by I3C include:
+
+1. Oestrogen Receptor (ERα) and BRCA1
+ERα suppression: I3C downregulates ERα expression and inhibits oestrogen-responsive genes (e.g., pS2, cathepsin-D), reducing oestrogen-driven proliferation in breast cancer10.
+
+BRCA1 upregulation: I3C enhances BRCA1 expression, which suppresses ERα activity and promotes DNA repair109.
+
+2. Cell Cycle Regulators
+CDK6 inhibition: I3C suppresses CDK6 transcription via Sp1 transcription factor disruption, inducing G1 cell cycle arrest28.
+
+Telomerase (hTERT) downregulation: I3C reduces hTERT expression by disrupting ERα/Sp1 interactions at the hTERT promoter, activating senescence8.
+
+3. Apoptosis and Stress Response Genes
+GADD153/CHOP: I3C upregulates this proapoptotic transcription factor, enhancing TRAIL-induced apoptosis via DR5 receptor activation2.
+
+Bcl-2 suppression: Downregulation of antiapoptotic Bcl-2 family proteins potentiates cell death62.
+
+4. Aryl Hydrocarbon Receptor (AhR) Pathway
+CYP1A1 induction: AhR activation by I3C upregulates detoxification enzymes like CYP1A1, critical for its chemopreventive effects in colorectal cancer12.
+
+Inflammatory gene modulation: AhR signalling suppresses pro-inflammatory cytokines (e.g., IL-1β, CXCL1/2) and chemokines12.
+
+5. Angiogenesis and Invasion Markers
+VEGF/MMP-9 inhibition: I3C reduces VEGF and MMP-9 expression, impairing tumour angiogenesis and metastasis26.
+
+CXCR4 downregulation: Suppression of this chemokine receptor limits cancer cell migration2.
+
+6. Drug Resistance Genes
+MDR-1/p-glycoprotein: I3C reverses multidrug resistance by downregulating p-glycoprotein, enhancing chemosensitivity2.
+
+Summary of Key Genetic Targets
+Pathway/Gene	Effect of I3C	Relevance to Efficacy
+ERα/BRCA1	↓ ERα, ↑ BRCA1	Breast cancer prevention/therapy
+CDK6/hTERT	Transcriptional suppression	Cell cycle arrest, senescence
+AhR/CYP1A1	Activation	Detoxification, anti-inflammatory
+GADD153/DR5	Upregulation	Apoptosis potentiation
+MDR-1	Downregulation	Chemoresistance reversal
+Clinical Implications
+While no patient-specific genetic markers (e.g., SNPs) are yet validated for predicting I3C response, its efficacy is closely tied to the expression of上述 genes. For example:
+
+ERα-positive breast cancer patients may benefit more from I3C’s ERα suppression10.
+
+Tumours with high AhR/CYP1A1 activity may show enhanced detoxification and apoptosis12.
+
+Further research is needed to identify genetic polymorphisms affecting I3C metabolism (e.g., CYP1A1/2 variants) or target engagement.

@@ -1,0 +1,486 @@
+Supplement
+Pterostilbene
+Pterostilbene, a natural compound found primarily in blueberries and grapes, is a potent antioxidant and anti-inflammatory agent that modulates various cellular pathways, offering potential therapeutic benefits across multiple health conditions.
+Pterostilbene
+Cancer Impact Summary
+Click  to Learn More
+
+Induces Apoptosis
+Yes
+Inhibit Cell Proliferation
+Yes
+Target Specific Pathways
+Yes
+Angiogenesis Inhibition
+Yes
+Role in Immunotherapy
+No
+Anti-Inflammatory Properties
+Yes
+Full Supplement Details
+
+Pterostilbene, a natural demethylated analogue of resveratrol found in blueberries and grapes, demonstrates potent anti-cancer properties through multiple molecular mechanisms. Its superior bioavailability and longer half-life compared to resveratrol make it a promising candidate for metabolic therapy in oncology147.
+
+Mechanisms of Anti-Cancer Action
+1. Cell Cycle Arrest
+Pterostilbene induces S-phase and G2/M-phase arrest across cancers by:
+
+Downregulating cyclins (A2, B1, E1) and CDK2139
+
+Upregulating p53 and p21 tumour suppressors13
+
+Activating DNA damage response pathways (CHK2, phospho-H2AX)59
+
+2. Apoptosis Induction
+The compound triggers programmed cell death through:
+
+ROS-mediated caspase activation (caspase-3/-9)129
+
+Mitochondrial membrane depolarization29
+
+Endoplasmic reticulum stress (PERK/IRE1/ATF4/CHOP pathways)10
+
+Downregulation of Bcl-2/Bcl-XL anti-apoptotic proteins15
+
+3. Metastasis Suppression
+Pterostilbene inhibits cancer spread by:
+
+Reducing MMP-2/-9 expression (matrix metalloproteinases)14
+
+Reversing epithelial-mesenchymal transition (EMT) through E-cadherin upregulation46
+
+Blocking NF-κB and MAPK signalling pathways68
+
+4. Targeting Cancer Stem Cells (CSCs)
+In cervical cancer models, it suppresses CSC traits by:
+
+Inhibiting tumorsphere formation14
+
+Downregulating stemness markers (CD133, Oct4, Sox2, Nanog)1
+
+Disrupting STAT3 signaling1
+
+Cancer-Specific Effects
+Cancer Type	Key Findings
+Cervical	50% greater efficacy vs resveratrol in reducing tumorspheres14
+Lymphoma (DLBCL)	58% tumour weight reduction in xenografts via ERK1/2 suppression25
+Breast (Triple-negative)	72% growth inhibition through NF-κB pathway modulation48
+Lung	ER stress activation reduces viability by 63% at 50μM10
+Cholangiocarcinoma	S-phase arrest with 3-fold p53 increase3
+Therapeutic Advantages
+Enhanced Bioavailability: 3-4× higher absorption than resveratrol47
+
+Synergy Potential: Combines effectively with chemotherapy/radiotherapy47
+
+Dual Action: Targets both bulk tumour cells and CSCs17
+
+Low Toxicity: No significant side effects observed in animal studies23
+
+Preclinical data suggest pterostilbene’s multi-target approach could address key cancer hallmarks while overcoming limitations of conventional therapies. Ongoing research focuses on optimising delivery systems and clinical translation strategies4710.
+
+Dosage
+
+Pterostilbene’s recommended safe dosage ranges from 50–250 mg daily based on human clinical trials, with variations depending on therapeutic goals and individual factors.
+
+Here’s an overview of current evidence:
+
+Established Safe Range
+Maximum Tolerated Dose: 250 mg/day (125 mg twice daily) demonstrated safety in a 6–8 week randomized controlled trial with hypercholesterolemic patients15.
+
+Typical Maintenance Range: 50–200 mg/day for general health support28.
+
+Weight-Adjusted Guidance:
+
+≤150 lbs: 215–430 mg/day7
+
+≥200 lbs: 290–580 mg/day7
+
+Dosing Considerations
+Factor	Recommendation
+Initiation	Start with 50–100 mg daily, gradually increasing38
+Cognitive Support	50 mg/day (animal-study derived)56
+Metabolic Targets	215–430 mg/day for cholesterol/blood sugar management37
+Form	Capsules preferred; powder requires precise measurement8
+Safety Profile
+Common Side Effects (≤25% incidence at 250 mg/day):
+
+Mild gastrointestinal discomfort
+
+Transient muscle pain
+
+Increased appetite1
+
+Blood Pressure Considerations:
+
+Paradoxical effects observed (lowering at 50–100 mg vs. elevation at 250 mg in hyperlipidemic patients)13
+
+Requires monitoring in hypertensive individuals3
+
+Special Populations
+Medication Interactions: Caution with antihypertensives, antidiabetics, and statins due to potential synergistic effects7
+
+Long-Term Use: No data beyond 8 weeks; periodic weight monitoring suggested due to PPAR-γ activation potential1
+
+Preclinical models suggest doses up to 730 mg/day might be tolerated7, but human trials confirm safety only up to 250 mg daily1. The compound exhibits a bell-curve response, with optimal benefits typically below 250 mg/day5. Current evidence supports 50–100 mg as a prudent starting dose, reserving higher doses (200–250 mg) for targeted metabolic interventions under medical supervision.
+
+Cancer Types Tested Against
+Breast Cancer, Colorectal Cancer, Lung Cancer, Prostate Cancer
+
+Side Effects
+
+Pterostilbene is generally well-tolerated at recommended doses but may cause mild-to-moderate side effects in specific populations. Current evidence from clinical trials establishes safety up to 250 mg/day for 6-8 weeks, though individual responses vary.
+
+Common Side Effects
+Gastrointestinal discomfort: 10-25% incidence (nausea, diarrhoea) at doses ≥125 mg/day15
+
+Musculoskeletal issues: Occasional muscle pain unrelated to statin use58
+
+Appetite changes: Increased hunger reported in 15-25% of users57
+
+Dermatological reactions: Mild itching in ~5% of cases5
+
+Cardiovascular Considerations
+Blood pressure fluctuations:
+
+250 mg/day elevated BP in hyperlipidaemic patients1
+
+Lower doses (50-100 mg) may reduce BP13
+
+Lipid profile alterations:
+
+LDL-C increases averaging 12-15 mg/dL27
+
+HDL-C reductions in long-term users28
+
+Special Population Risks
+Group	Concerns
+Hypertensive patients	Requires BP monitoring due to paradoxical effects15
+Diabetics	May potentiate glucose-lowering medications13
+Liver disease	Potential enzyme interactions; monitor AST/ALT14
+Pregnancy/Nursing	Contraindicated due to lack of safety data14
+Drug Interactions
+Anticoagulants: Enhanced blood-thinning effects13
+
+Statins: Theoretical myopathy risk (unconfirmed clinically)58
+
+Antihypertensives: Additive BP-lowering potential13
+
+Preclinical models show no toxicity even at 3,000 mg/kg in animals7, but human data remains limited beyond 250 mg/day. The compound’s rapid clearance (≤12 hours) minimises accumulation risks6. Long-term safety beyond 8 weeks requires further study, particularly regarding cardiovascular lipid changes28.
+
+Combination Therapies
+
+Pterostilbene has demonstrated significant therapeutic synergy when combined with various conventional treatments across cancer types and bacterial infections. Clinical and preclinical studies reveal its combinatorial potential through multiple mechanisms:
+
+Cancer Therapy Combinations
+1. Chemotherapy Enhancement
+
+Docetaxel-resistant lung cancer:
+
+Combined with autophagy inhibitors (3-methyladenine/bafilomycin A1)
+
+Achieves 63% viability reduction through dual apoptosis/autophagy modulation1
+
+Overcomes multidrug resistance via AKT/JNK pathway suppression18
+
+Megestrol acetate (endometrial cancer):
+
+72% greater tumour growth inhibition vs monotherapy in xenografts
+
+Synergistic STAT3/ERK pathway suppression3
+
+Enhances caspase-3 activation by 3.8-fold3
+
+2. Targeted Therapy Combinations
+
+Sunitinib (gastric cancer):
+
+58% tumour weight reduction in mouse models
+
+Induces mitochondrial Fe²⁺ retention through PDZD8 inhibition2
+
+Reduces oxidative phosphorylation by 41%2
+
+3. Radiation Sensitisation
+
+Triple-negative breast cancer models show:
+
+2.3× increased DNA damage response
+
+Enhanced PARP-1 inhibition8
+
+Antimicrobial Combinations
+Antibiotic	Bacterial Target	Key Benefit
+Polymyxin B	mcr-1-positive E. coli	60% survival vs 0% monotherapy4
+Gentamicin	S. aureus/P. aeruginosa	5.5→1.25h bactericidal acceleration6
+Mechanistic Synergy
+Oxidative Stress Amplification: 2.8× ROS increase in gastric cancer models2
+
+Metabolic Pathway Disruption:
+
+47% reduction in glutathione levels5
+
+Mitochondrial depolarization in 78% NSCLC cells5
+
+Immune Modulation: 3.2× increase in anti-inflammatory cytokines8
+
+Current clinical trials focus on optimizing dosing schedules, with combination therapies generally showing:
+
+38-60% reduced chemotherapeutic doses required
+
+No reported additive toxicity in human trials78
+
+Paradoxical blood pressure effects require monitoring8
+
+These findings position pterostilbene as a versatile adjuvant capable of enhancing conventional therapies while potentially mitigating resistance mechanisms.
+
+Links to Scientific Studies
+
+US National Library of Medicine research on Pterostilbene
+Europe PMC research on Pterostilbene
+Pubmed research on Pterostilbene
+
+Quality of Life Effects
+
+Pterostilbene supplementation may influence quality of life through several physiological and psychological pathways, based on current clinical and preclinical evidence:
+
+Cognitive Function Improvements
+Neuroprotection: Reduces oxidative stress markers (MDA, 8-OHdG) by 40–60% in neurodegenerative models, potentially slowing cognitive decline in Alzheimer’s/Parkinson’s disease16
+
+Mood Enhancement: Lowers anxiety markers in animal models at 1–2 mg/kg doses through hippocampal-amygdala modulation4
+
+Memory Support: Increases PPAR-α expression in Alzheimer’s models, improving spatial memory retention2
+
+Cardiovascular Health Benefits
+Blood Pressure Management:
+
+Systolic reduction of 7.8 mmHg at 250 mg/day in hyperlipidaemic patients3
+
+Paradoxical effects require individualised dosing (50–250 mg/day)5
+
+Lipid Profile Optimization:
+
+17.1 mg/dL LDL reduction in non-statin users1
+
+HDL preservation through PPAR-γ activation6
+
+Metabolic Impacts
+Parameter	Effect
+Blood Glucose	12–15% reduction in diabetic models6
+Insulin Sensitivity	AMPK activation improves glucose uptake1
+Weight Management	63% BMI reduction in overweight subjects1
+Physical Well-being Considerations
+Anti-inflammatory Effects:
+
+70% NF-κB inhibition reduces arthritis pain in preclinical models2
+
+IL-1β suppression alleviates hypoxic-ischemic brain injury2
+
+Exercise Tolerance: Enhanced mitochondrial biogenesis in cardiac tissue6
+
+Potential Negative Impacts
+Gastrointestinal Discomfort: 10–25% incidence at ≥125 mg doses5
+
+Lipid Paradox: 12–15 mg/dL LDL increase in statin users7
+
+Blood Pressure Variability: Requires monitoring in hypertensive patients5
+
+Longevity & Aging
+DNA Protection: Mimics calorie restriction effects via adiponectin regulation4
+
+Cellular Repair: Activates sirtuins (SIRT1-3) enhancing DNA damage response7
+
+Quality of life trade-offs centre on dosage optimisation – while 50–100 mg/day generally improves metabolic/cognitive parameters, higher doses (200–250 mg) may introduce cardiovascular monitoring requirements. The compound’s rapid clearance (≤12h) allows daytime cognitive benefits without sleep disruption, though long-term safety beyond 4 months remains unconfirmed. Patients report better disease management capacity but require lipid profile monitoring every 6–8 weeks35.
+
+Answers to all your questions
+We’ve done our best to include as much information as possible for this supplement. 
+
+If you have any other questions, please send us a message or join our Skool Group and ask our knowledgeable and friendly community.
+
+How accessible is this supplement?
+Pterostilbene is generally available as a dietary supplement in many countries, including the United States, Canada, and parts of Europe. It can be purchased over-the-counter in health food stores, pharmacies, and online retailers. Regulatory status and accessibility may vary by country.
+
+What patient demographic Does this work Best for?
+Pterostilbene’s therapeutic benefits show varying efficacy across patient subgroups, with current evidence pointing to specific populations that may derive optimal advantages:
+
+Demographic Considerations
+Age:
+
+Middle-aged adults (40–65): Demonstrated 80% compliance in lipid management trials28
+
+Elderly neuroprotection: Preclinical ALS models show functional improvements in aged rodents, though human data remains limited to small ALS cohorts6
+
+Gender:
+
+Female predominance: 71% of trial participants were female, with better LDL response in women (+12.4 mg/dL vs +4.8 mg/dL in males)28
+
+Menopausal metabolic benefits: Enhanced PPAR-γ activation may address oestrogen-deficiency related lipid changes7
+
+Ethnicity:
+
+Caucasian focus: 70% of trial participants, with unknown generalizability to other groups2
+
+Asian population data: Preferential AMPK activation observed in hepatic models7
+
+Condition-Specific Responsiveness
+Health Status	Benefit Profile
+Dyslipidaemia	LDL reduction up to 17.1 mg/dL (non-statin users)8
+Hypertension	Systolic BP ↓7.8 mmHg at 250 mg/day5
+Neurodegeneration	23.2-point ALSFRS-R improvement in ALS6
+Metabolic Syndrome	BMI reduction in 63% of overweight subjects5
+Medication Interaction Effects
+Statin users: Attenuated LDL response (+4.2 mg/dL vs +17.1 mg/dL in non-users)8
+
+Antihypertensive combos: Additive BP-lowering requires dose adjustment5
+
+Antidiabetic agents: Enhanced glucose control in preclinical models7
+
+Current evidence suggests maximal benefit for:
+
+Middle-aged females with dyslipidaemia
+
+Non-statin using hypertensive patients
+
+Neurodegenerative disease patients under combination therapy
+
+Overweight individuals with PPAR-γ related metabolic dysfunction
+
+Demographic limitations persist, with urgent need for studies in non-Caucasian populations and long-term geriatric applications. Pharmacogenetic factors (e.g., CYP2D6 metabolism) may further modulate responses but remain uncharacterised7.
+
+Are there any known resistance mechanisms?
+Pterostilbene’s efficacy can be influenced by several resistance mechanisms identified across cancer types, though its multi-target action partially mitigates these effects.
+
+Key resistance factors include:
+
+1. Drug Efflux Pumps
+MDR1 Overexpression:
+Cisplatin-resistant oral cancer cells initially exhibit multidrug resistance via MDR1 upregulation23. Pterostilbene counteracts this by suppressing MDR1 expression and inhibiting AKT phosphorylation, restoring chemosensitivity26.
+
+2. Autophagy Adaptation
+Pro-Survival Autophagy:
+Some cancers activate autophagy as a resistance mechanism. While pterostilbene induces lethal autophagy in oral2, lung4, and bladder cancers6, co-treatment with autophagy inhibitors (3-methyladenine, chloroquine) reverses this effect26. Tumours with defective Atg/Beclin-1/LC3 pathways may resist this mechanism3.
+
+3. Apoptosis Pathway Defects
+p53 Mutations:
+Mutant p53 lines require 2–3× higher pterostilbene doses for equivalent apoptosis induction compared to wild-type p53 cancers1.
+
+Caspase Inhibition:
+Pan-caspase inhibitors (Z-VAD-FMK) block pterostilbene-induced apoptosis in oral cancers3, suggesting caspase-dependent pathway mutations could confer resistance.
+
+4. Endoplasmic Reticulum Stress (ERS) Dysregulation
+CHOP Pathway Deficiencies:
+NSCLC cells with impaired ERS signalling (PERK/IRE1/ATF4/CHOP) show reduced response to pterostilbene4. CHOP siRNA pretreatment negates pterostilbene’s pro-apoptotic effects in lung cancer models4.
+
+5. Epigenetic/Post-Transcriptional Alterations
+Oncogenic miRNA Overexpression:
+Tumours with elevated miR-17/miR-19a/miR-663b levels exhibit reduced PTEN expression and Akt pathway activation1. While pterostilbene suppresses these miRNAs, baseline overexpression may necessitate higher doses1.
+
+6. Metastatic Plasticity
+EMT Phenotype Maintenance:
+Mesenchymal cancers (high Vimentin/ZEB1, low E-cadherin) show diminished response to pterostilbene’s anti-metastatic effects compared to epithelial tumors14.
+
+Counteracting Strategies
+Resistance Factor	Pterostilbene’s Countermeasure
+MDR1 overexpression	Suppresses MDR1 transcription2
+Pro-survival autophagy	Converts autophagy to apoptosis via ROS/ERS4
+miR-17/miR-19a upregulation	Direct miRNA inhibition restores PTEN1
+Preclinical evidence suggests combining pterostilbene with ERS inducers (thapsigargin)4 or HDAC inhibitors1 may overcome resistance. Its ability to simultaneously target MDR1, autophagy, and apoptotic pathways provides a multi-pronged approach against conventional resistance mechanisms246.
+
+Have there been any preclinical studies?
+Pterostilbene has demonstrated significant potential in preclinical studies, revealing multifaceted anticancer mechanisms and favourable pharmacokinetic properties.
+
+Here’s an overview of key findings across experimental models:
+
+Pharmacokinetic Profile
+Bioavailability: Exhibits 3–4× higher absorption than resveratrol due to its dimethylated structure17.
+
+Metabolism: Undergoes phase II glucuronidation in rats (serum t₁/₂: 1.73 h; urine t₁/₂: 17.3 h)13.
+
+Dose Range: Effective anticancer activity observed at 1–100 μg/mL in vitro and 50 mg/kg in mouse xenografts125.
+
+Anticancer Mechanisms
+1. Cell Cycle Arrest
+
+Induces S-phase arrest in lung squamous cell carcinoma (H520) via cyclin A2/E1 suppression2.
+
+Triggers G2/M-phase arrest in colorectal cancer (CL187) through p53 upregulation5.
+
+2. Apoptosis Induction
+
+Activates intrinsic pathways (caspase-9/-3) in lung cancer models2.
+
+Enhances extrinsic pathways (Fas/FasL) in oral squamous cell carcinoma (SCC-9)5.
+
+3. Metastasis Suppression
+
+Reduces MMP-2/-9 expression by 65–80% in SCC-9 cells5.
+
+Inhibits NF-κB DNA binding activity by 70% through ΙκBα phosphorylation blockade5.
+
+4. Antioxidant Effects
+
+Exhibits ABTS radical scavenging capacity comparable to ascorbic acid18.
+
+Reduces ROS levels by 40–60% in inflammatory models17.
+
+Cancer-Specific Efficacy
+Model Type	Key Findings
+Lung SqCC (H520 xenografts)	50 mg/kg every other day reduced tumour volume by 58%2
+Colorectal CL187 xenografts	72% tumour weight reduction via TDP1/TOP1 inhibition5
+Pancreatic/Breast cancers	50–60% growth inhibition in nude mice6
+Oral SCC-9	80% suppression of cell migration via ERK/JNK/p38 modulation5
+Safety Profile
+Acute Toxicity: No organ weight changes or mortality at 250 mg/kg (rats)1.
+
+Chronic Exposure: Maintained normal liver/kidney function markers over 8 weeks25.
+
+Synergy Potential: Enhances chemotherapy efficacy without additive toxicity in xenografts27.
+
+Preclinical data highlight pterostilbene’s superior therapeutic index compared to resveratrol, particularly in colorectal (IC₅₀ 22.4 vs 43.8 μmol/L) and lung cancer models57. While phase II metabolism may limit bioavailability, its multi-target action against proliferation, metastasis, and oxidative stress positions it as a promising adjuvant for oncology applications.
+
+Are there current clinical trials?
+Information on active clinical trials can be found here.
+
+Are there genetic markers that might affect effectiveness?
+Pterostilbene’s efficacy shows genetic and epigenetic dependencies, with preclinical evidence identifying biomarkers influencing its therapeutic effects across cancer types. These markers primarily involve metabolic enzymes, epigenetic regulators, and oncogenic pathway components:
+
+Metabolic Enzyme Polymorphisms
+CYP2C9:
+
+Strong inhibition (IC₅₀ = 0.12 μM) suggests slow metabolisers may experience enhanced bioavailability3
+
+CYP2C9 variants (*2/*3 alleles) could modulate systemic exposure
+
+UGT1A1/1A3:
+
+Primary glucuronidation enzymes affecting hepatic clearance5
+
+UGT1A1 polymorphisms (e.g., UGT1A1*28) may reduce inactivation rates
+
+Epigenetic Targets
+Marker	Mechanism	Cancer Type
+miR-663b	Downregulation induces apoptosis	Endometrial
+miR-17/miR-19a	Suppression reactivates PTEN/AKT pathway	Liver/Prostate
+DNA methylation	Demethylates ERα/PTEN promoters	Breast/Ovarian
+Oncogenic Pathway Dependencies
+STAT3 phosphorylation status:
+
+Tumours with constitutive STAT3 activation show 58–72% growth inhibition14
+
+JAK2/STAT3 genetic variants may predict response
+
+PTEN expression:
+
+Pterostilbene efficacy amplified in PTEN-deficient cancers via acetylation-mediated reactivation4
+
+E-cadherin/Vimentin ratio:
+
+Epithelial tumours (high E-cadherin) show better EMT reversal than mesenchymal phenotypes4
+
+Tumour Suppressor Interactions
+p53 status:
+
+Wild-type p53 enhances cytochrome C/Smac-mediated apoptosis16
+
+Mutant p53 lines require 2–3× higher doses for equivalent effects
+
+Preclinical models suggest combinatorial approaches targeting these markers could enhance efficacy – e.g., CYP2C9 slow metabolizers might benefit from lower doses, while PTEN-null cancers may require HDAC inhibitor combinations. Clinical validation of these biomarkers remains pending, particularly regarding pharmacogenomic influences on dosing and toxicity profiles.

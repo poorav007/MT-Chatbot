@@ -1,0 +1,115 @@
+Metabolic Talks
+April 1, 2025
+12:50 pm
+Cancer Metabolism Breakthrough: How Ketogenic Diets & Repurposed Drugs Target Tumours
+Professor Thomas Seyfried’s metabolic cancer theory challenges conventional oncology by targeting tumours’ energy weaknesses. By exploiting mitochondrial dysfunction through ketogenic diets and repurposed drugs like Fenbendazole, this approach starves cancer cells of glucose/glutamine while protecting healthy tissue. Discover how metabolic management offers safer, precision strategies to disrupt cancer progression.
+
+Guests
+Professor Thomas Seyfried
+
+
+Professor Thomas Seyfried’s groundbreaking research challenges conventional cancer treatment paradigms by emphasising metabolic management over traditional cytotoxic approaches. His work focuses on targeting the unique energy vulnerabilities of cancer cells through diet, lifestyle, and repurposed pharmaceuticals.
+
+Core Concepts
+1. Two Competing Cancer Theories
+
+Somatic Mutation Theory: Attributes cancer primarily to nuclear DNA mutations, driving precision medicine strategies.
+
+Mitochondrial Metabolic Theory: Identifies damaged mitochondria as the root cause, with mutations being downstream effects of defective energy metabolism1.
+
+2. Cancer’s Metabolic Achilles’ Heel
+Tumour cells rely exclusively on fermentation (not respiration) for energy due to dysfunctional mitochondria. This makes them dependent on:
+
+Glucose (via glycolysis)
+
+Glutamine (via glutaminolysis)
+Normal cells can flexibly use ketones/fatty acids through functional mitochondria1.
+
+The Metabolic Protocol
+Dietary Foundation
+
+Ketogenic Diet: Restricts carbohydrates to lower blood glucose (<2.8 mmol/L)
+
+Therapeutic Ketosis: Targets glucose ketone index (GKI) ≤2.0 using:
+
+Fasting protocols
+
+Moderate exercise
+
+Strategic nutrient timing
+
+Pharmacological Partners
+
+Drug	Mechanism	Advantage
+DON	Glutamine analogue blocker	Starves metastatic cells
+Fenbendazole	Dual glucose/glutamine inhibition	Low-cost repurposed agent
+Key Finding: Ketosis reduces drug toxicity while enhancing tumour-specific targeting1.
+
+Press-Pulse Strategy
+
+Chronic Pressure: Maintain nutritional ketosis
+
+Acute Pulses:
+
+Intermittent high-dose therapeutics
+
+Hyperbaric oxygen therapy
+
+Exercise-induced glutamine depletion
+
+Clinical Evidence & Challenges
+Documented Success
+
+Paediatric glioblastoma models showing tumour regression in preclinical studies
+
+Stage IV cancer survivors like Joe Tippens (lung cancer) using fenbendazole protocols
+
+Improved chemo efficacy at reduced doses when combined with ketosis1
+
+Systemic Barriers
+
+Lack of clinical trials due to:
+
+Pharmaceutical disinterest in non-patentable therapies
+
+Regulatory hurdles for drug repurposing
+
+Institutional bias toward mutation-focused treatments
+
+Oncologists often lack training in cancer metabolism principles1
+
+Patient Empowerment Framework
+Metabolic Monitoring
+
+Continuous glucose sensors (e.g., FreeStyle Libre)
+
+Blood ketone measurements
+
+Regular tumour marker tracking
+
+Therapeutic Synergy
+
+“When you suppress glucose through diet and target glutamine pharmacologically, tumours become metabolically marginalised.”
+
+Adaptive Implementation
+
+Individualized dosing schedules
+
+Combination with standard care when necessary
+
+Stress management to avoid cortisol spikes
+
+The Path Forward
+Seyfried advocates for:
+
+Unified patient advocacy demanding metabolic therapy integration
+
+Reform of cancer funding priorities toward metabolic research
+
+Education initiatives teaching mitochondrial biology in medical schools
+
+“We have a clear biochemical roadmap to manage cancer – now we need the political will to implement it.”
+
+This approach represents a fundamental shift from poisoning tumours to strategically starving them, offering hope for less toxic, more effective cancer management.
+
+While systemic adoption remains slow, growing patient success stories and evolving research continue to validate this metabolic framework.
