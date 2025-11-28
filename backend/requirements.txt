@@ -2,4 +2,6 @@ fastapi
 uvicorn
 chromadb
 requests
+sentence-transformers
 python-dotenv
+
