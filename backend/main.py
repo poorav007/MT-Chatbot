@@ -19,7 +19,7 @@ app = FastAPI()
 # Initialize embeddings + Chroma DB
 DB_DIR = "rag_db"
 TOP_K = 3
-embed_model = SentenceTransformer("sentence-transformers/paraphrase-MiniLM-L3-v2")
+embed_model = SentenceTransformer("all-MiniLM-L6-v2")
 client = chromadb.PersistentClient(path=DB_DIR)
 collection = client.get_collection("docs")
 
