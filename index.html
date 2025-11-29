@@ -148,7 +148,6 @@ async function sendMessage() {
     const msg = chatInput.value.trim();
     if (!msg) return;
 
-    // Display user message
     const userMsgDiv = document.createElement("div");
     userMsgDiv.className = "user-msg";
     userMsgDiv.innerHTML = `<span>${msg}</span>`;
@@ -157,26 +156,27 @@ async function sendMessage() {
 
     chatInput.value = "";
 
-    // Send to backend
     try {
-        const resp = await fetch("https://mt-chatbot.onrender.com", {
-    method: "POST",
-    headers: { "Content-Type": "application/json" },
-    body: JSON.stringify({ question: msg })
-});
+        const resp = await fetch("https://mt-chatbot.onrender.com/chat", {
+            method: "POST",
+            headers: { 
+                "Content-Type": "application/json"
+            },
+            body: JSON.stringify({ question: msg })
+        });
 
-const data = await resp.json();
-
+        const data = await resp.json();
 
         const botMsgDiv = document.createElement("div");
         botMsgDiv.className = "bot-msg";
         botMsgDiv.innerHTML = `<span>${data.answer}</span>`;
         chatMessages.appendChild(botMsgDiv);
         chatMessages.scrollTop = chatMessages.scrollHeight;
+
     } catch (err) {
         const botMsgDiv = document.createElement("div");
         botMsgDiv.className = "bot-msg";
-        botMsgDiv.innerHTML = `<span>Error connecting to server.</span>`;
+        botMsgDiv.innerHTML = `<span>Server error.</span>`;
         chatMessages.appendChild(botMsgDiv);
     }
 }
