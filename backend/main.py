@@ -8,7 +8,7 @@ import chromadb
 
 app = FastAPI()
 
-def chunk_with_overlap(text, chunk_size=200, overlap=50):
+def chunk_with_overlap(text, chunk_size=250, overlap=50):
     words = text.split()
     chunks = []
     start = 0
