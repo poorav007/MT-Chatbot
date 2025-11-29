@@ -47,7 +47,7 @@ def embed_query(text):
             "Content-Type": "application/json"
         },
         json={
-            "model": "text-embedding-3-small",  # super small + free-tier friendly
+            "model": "sentence-transformers/all-minilm-l6-v2",  
             "input": text
         }
     )
