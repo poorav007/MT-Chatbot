@@ -52,9 +52,9 @@ TOP_K = 4
 client = chromadb.PersistentClient(path=DB_DIR)
 
 try:
-    collection = client.get_collection("docs")
+    collection = client.get_collection("documents")
 except Exception:
-    raise SystemExit("❌ ERROR: 'docs' collection not found in rag_db. Rebuild DB!")
+    raise SystemExit("❌ ERROR: 'docuents' collection not found in rag_db. Rebuild DB!")
 
 
 CASUAL_PHRASES = [
