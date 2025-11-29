@@ -8,7 +8,7 @@ import chromadb
 
 app = FastAPI()
 
-def chunk_with_overlap(text, chunk_size=250, overlap=50):
+def chunk_with_overlap(text, chunk_size=200, overlap=50):
     words = text.split()
     chunks = []
     start = 0
@@ -43,7 +43,7 @@ if not OPENROUTER_KEY:
 
 # Chroma
 DB_DIR = "rag_db"
-TOP_K = 6
+TOP_K = 4
 client = chromadb.PersistentClient(path=DB_DIR)
 collection = client.get_collection("docs")
 
@@ -65,7 +65,7 @@ def embed_query(text):
             "Content-Type": "application/json"
         },
         json={
-            "model": "sentence-transformers/all-minilm-l6-v2",  
+            "model": "baai/bge-base-en-v1.5",  
             "input": text
         }
     )
