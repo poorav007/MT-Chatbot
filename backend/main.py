@@ -31,7 +31,7 @@ collection = client.get_collection("docs")
 
 CASUAL_PHRASES = [
     "hi", "hello", "hey", "yo", "sup", "bye",
-    "good morning", "good night", "what's up"
+    "good morning", "helo", "what's up"
 ]
 
 # ---------------------------------------------------------------
@@ -82,12 +82,12 @@ def openrouter_chat(system_instruction, user_prompt):
             "X-Title": "MyRAGApp"
         },
         json={
-            "model": "x-ai/grok-4.1-fast",
+            "model": "meta-llama/llama-3.3-70b-instruct:free",
             "messages": [
                 {"role": "system", "content": system_instruction},
                 {"role": "user", "content": user_prompt}
             ],
-            "temperature": 0.0,
+            "temperature": 5.0,
             "max_tokens": 512
         }
     )
