@@ -14,7 +14,7 @@ CHUNK_OVERLAP = 50    # overlapping words (changed from 150 characters)
 
 # load local embedding model
 print("Loading embedding model (local)...")
-embed_model = SentenceTransformer("all-MiniLM-L6-v2")
+embed_model = SentenceTransformer("baai/bge-base-en-v1.5")
 
 def embed_texts(texts):
     # returns list of lists (vectors)
@@ -122,5 +122,6 @@ if __name__ == "__main__":
     )
 
     print("✅ Ingest complete. Chroma DB saved to", DB_DIR)
+
 
 
