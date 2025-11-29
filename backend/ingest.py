@@ -106,7 +106,7 @@ if __name__ == "__main__":
     print("Starting Chroma client and storing vectors...")
     client = chromadb.PersistentClient(path=DB_DIR)
     # create or get collection; we add embeddings directly so no embedding_function needed
-    collection = client.get_or_create_collection(name="docs")
+    collection = client.get_or_create_collection(name="mt_docs")
 
     # remove any existing docs with same ids (safe re-ingest)
     try:
@@ -122,6 +122,7 @@ if __name__ == "__main__":
     )
 
     print("✅ Ingest complete. Chroma DB saved to", DB_DIR)
+
 
 
 
