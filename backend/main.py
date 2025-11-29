@@ -47,7 +47,7 @@ def embed_query(text):
             "Content-Type": "application/json"
         },
         json={
-            "model": "sentence-transformers/all-minilm-l6-v2",  
+            "model": "baai/bge-large-en-v1.5",  
             "input": text
         }
     )
