@@ -42,10 +42,20 @@ if not OPENROUTER_KEY:
     raise SystemExit("Set OPENROUTER_KEY in .env")
 
 # Chroma
-DB_DIR = "rag_db"
+# Chroma - FIXED PATH for Render
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+DB_DIR = os.path.join(BASE_DIR, "rag_db")
+
+print("Loading Chroma from:", DB_DIR)
+
 TOP_K = 4
 client = chromadb.PersistentClient(path=DB_DIR)
-collection = client.get_collection("docs")
+
+try:
+    collection = client.get_collection("docs")
+except Exception:
+    raise SystemExit("❌ ERROR: 'docs' collection not found in rag_db. Rebuild DB!")
+
 
 CASUAL_PHRASES = [
     "hi", "hello", "hey", "yo", "sup", "bye",
