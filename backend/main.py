@@ -1,4 +1,4 @@
-from fastapi import FastAPI
+rom fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 import os
 import requests
@@ -7,24 +7,6 @@ from dotenv import load_dotenv
 import chromadb
 
 app = FastAPI()
-
-def chunk_with_overlap(text, chunk_size=250, overlap=50):
-    words = text.split()
-    chunks = []
-    start = 0
-    
-    while start < len(words):
-        end = start + chunk_size
-        chunk = " ".join(words[start:end])
-        if chunk.strip():  # Only add non-empty chunks
-            chunks.append(chunk)
-        start += (chunk_size - overlap)
-        
-        if end >= len(words):
-            break
-    
-    return chunks
-    
 
 # CORS
 app.add_middleware(
@@ -42,20 +24,10 @@ if not OPENROUTER_KEY:
     raise SystemExit("Set OPENROUTER_KEY in .env")
 
 # Chroma
-# Chroma - FIXED PATH for Render
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-DB_DIR = os.path.join(BASE_DIR, "rag_db")
-
-print("Loading Chroma from:", DB_DIR)
-
-TOP_K = 4
+DB_DIR = "rag_db"
+TOP_K = 6
 client = chromadb.PersistentClient(path=DB_DIR)
-
-try:
-    collection = client.get_collection("docs")
-except Exception:
-    raise SystemExit("❌ ERROR: 'mt_docs' collection not found in rag_db. Rebuild DB!")
-
+collection = client.get_collection("docs")
 
 CASUAL_PHRASES = [
     "hi", "hello", "hey", "yo", "sup", "bye",
@@ -75,7 +47,7 @@ def embed_query(text):
             "Content-Type": "application/json"
         },
         json={
-            "model": "baai/bge-base-en-v1.5",  
+            "model": "sentence-transformers/all-minilm-l6-v2",  
             "input": text
         }
     )
@@ -86,29 +58,15 @@ def embed_query(text):
 def retrieve_context(query, k=TOP_K):
     q_vec = embed_query(query)
     res = collection.query(query_embeddings=[q_vec], n_results=k)
-    
     docs = res.get("documents", [[]])[0]
     metas = res.get("metadatas", [[]])[0]
-    
-    # Clean empty/irrelevant chunks
-    cleaned_pairs = []
-    for d, m in zip(docs, metas):
-        cleaned = d.strip()
-        # Skip if empty or too short (less than 5 words)
-        if cleaned and len(cleaned.split()) >= 5:
-            cleaned_pairs.append((cleaned, m))
-    
-    # Build combined context
+
     combined = []
-    seen = set()  # Remove duplicates
-    
-    for d, m in cleaned_pairs:
-        if d not in seen:  # Avoid duplicate chunks
-            seen.add(d)
-            src = m.get("source", "unknown")
-            chunk_idx = m.get("chunk")
-            combined.append(f"Source: {src} (chunk {chunk_idx})\n{d}")
-    
+    for d, m in zip(docs, metas):
+        src = m.get("source", "unknown")
+        chunk_idx = m.get("chunk")
+        combined.append(f"Source: {src} (chunk {chunk_idx})\n{d}")
+
     return "\n\n---\n\n".join(combined)
 
 
