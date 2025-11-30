@@ -112,9 +112,7 @@ async def chat_api(data: Query):
         return {"answer": "Not enough information in the documents."}
 
     system_instruction = (
-        "You must answer ONLY using the provided CONTEXT. "
-        "If the answer is not found, reply exactly: 'Not enough information in the documents.' "
-        "Do NOT use outside knowledge."
+        "answer the user queries"
     )
 
     prompt = f"CONTEXT:\n{context}\n\nQUESTION:\n{query}"
