@@ -7,14 +7,14 @@ import chromadb
 from chromadb.config import Settings
 
 # CONFIG
-DATA_DIR = "documents"
-DB_DIR = "rag_db"
-CHUNK_SIZE = 250      # words per chunk (changed from 800 characters)
-CHUNK_OVERLAP = 50    # overlapping words (changed from 150 characters)
+DATA_DIR = "documents"        # where your .txt/.pdf files are
+DB_DIR = "rag_db"            # chroma DB directory
+CHUNK_SIZE = 800
+CHUNK_OVERLAP = 150
 
 # load local embedding model
 print("Loading embedding model (local)...")
-embed_model = SentenceTransformer("baai/bge-base-en-v1.5")
+embed_model = SentenceTransformer("BAAI/bge-base-en-v1.5")
 
 def embed_texts(texts):
     # returns list of lists (vectors)
@@ -44,30 +44,16 @@ def read_documents():
             filenames.append(name)
     return filenames, docs
 
-def chunk_text(text, chunk_size=250, overlap=50):
-    """
-    Chunk text by words with overlap.
-    chunk_size: target words per chunk (default: 250)
-    overlap: overlapping words (default: 50)
-    """
-    words = text.split()
+def chunk_text(text, chunk_size=CHUNK_SIZE, overlap=CHUNK_OVERLAP):
     chunks = []
     start = 0
-    
-    while start < len(words):
-        end = start + chunk_size
-        chunk_words = words[start:end]
-        chunk = " ".join(chunk_words).strip()
-        
-        # Only add non-empty chunks with meaningful content
-        if chunk and len(chunk_words) >= 10:  # Skip tiny chunks
+    text_len = len(text)
+    while start < text_len:
+        end = min(start + chunk_size, text_len)
+        chunk = text[start:end].strip()
+        if chunk:
             chunks.append(chunk)
-        
-        start += (chunk_size - overlap)
-        
-        if end >= len(words):
-            break
-    
+        start += chunk_size - overlap
     return chunks
 
 # --- main ingestion ---
@@ -84,21 +70,12 @@ if __name__ == "__main__":
     metadatas = []
     ids = []
     for i, (name, text) in enumerate(zip(filenames, docs)):
-    chunks = chunk_text(text, chunk_size=CHUNK_SIZE, overlap=CHUNK_OVERLAP)
-    
-    # Clean chunks before adding
-    for j, ch in enumerate(chunks):
-        # Additional cleaning: remove excessive whitespace
-        ch = " ".join(ch.split())
-        
-        # Skip if chunk is too short or empty after cleaning
-        if not ch or len(ch.split()) < 10:
-            continue
-            
-        cid = f"{i}_{j}"
-        all_chunks.append(ch)
-        metadatas.append({"source": name, "chunk": j})
-        ids.append(cid)
+        chunks = chunk_text(text)
+        for j, ch in enumerate(chunks):
+            cid = f"{i}_{j}"
+            all_chunks.append(ch)
+            metadatas.append({"source": name, "chunk": j})
+            ids.append(cid)
 
     print(f"Total chunks: {len(all_chunks)} — creating embeddings (local)...")
     embeddings = embed_texts(all_chunks)
@@ -106,7 +83,7 @@ if __name__ == "__main__":
     print("Starting Chroma client and storing vectors...")
     client = chromadb.PersistentClient(path=DB_DIR)
     # create or get collection; we add embeddings directly so no embedding_function needed
-    collection = client.get_or_create_collection(name="mt_docs")
+    collection = client.get_or_create_collection(name="docs")
 
     # remove any existing docs with same ids (safe re-ingest)
     try:
@@ -122,6 +99,8 @@ if __name__ == "__main__":
     )
 
     print("✅ Ingest complete. Chroma DB saved to", DB_DIR)
+
+
 
 
 
