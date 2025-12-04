@@ -7,8 +7,8 @@ import chromadb
 from chromadb.config import Settings
 
 # CONFIG
-DATA_DIR = "documents"        # where your .txt/.pdf files are
-DB_DIR = "rag_db"            # chroma DB directory
+DATA_DIR = "documents"  
+DB_DIR = "rag_db"            
 CHUNK_SIZE = 800
 CHUNK_OVERLAP = 150
 
@@ -82,10 +82,9 @@ if __name__ == "__main__":
 
     print("Starting Chroma client and storing vectors...")
     client = chromadb.PersistentClient(path=DB_DIR)
-    # create or get collection; we add embeddings directly so no embedding_function needed
+    #---------
     collection = client.get_or_create_collection(name="docs")
 
-    # remove any existing docs with same ids (safe re-ingest)
     try:
         collection.delete(ids=ids)
     except Exception:
@@ -99,6 +98,7 @@ if __name__ == "__main__":
     )
 
     print("✅ Ingest complete. Chroma DB saved to", DB_DIR)
+
 
 
 
