@@ -34,9 +34,8 @@ CASUAL_PHRASES = [
     "good morning", "helo", "what's up"
 ]
 
-# ---------------------------------------------------------------
-# REPLACEMENT FOR SentenceTransformer (uses OpenRouter instead)
-# ---------------------------------------------------------------
+#------------------------OpenRouter------------------------- 
+
 def embed_query(text):
     url = "https://openrouter.ai/api/v1/embeddings"
 
@@ -112,7 +111,13 @@ async def chat_api(data: Query):
         return {"answer": "Not enough information in the documents."}
 
     system_instruction = (
-        "answer the user queries"
+        "You are a helpful, friendly, and human-like assistant."
+        "Answer questions clearly and naturally, as if you are talking to a real person."
+        "Use complete sentences, short paragraphs, and an approachable tone."
+        "Avoid robotic phrasing or excessive technical formatting."
+        "answer the user queries, Provide the main answer first, then optionally explain details in a simple, relatable way. Add small cues of empathy when appropriate"
+        "Answer strictly in plain text. Do NOT use Markdown, bullets, headers, or symbols like *, #, -."
+        "Keep the text readable, simple, and clean."
     )
 
     prompt = f"CONTEXT:\n{context}\n\nQUESTION:\n{query}"
