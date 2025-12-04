@@ -82,7 +82,7 @@ def openrouter_chat(system_instruction, user_prompt):
             "X-Title": "MyRAGApp"
         },
         json={
-            "model": "x-ai/grok-4.1-fast:free",
+            "model": "amazon/nova-2-lite-v1:free",
             "messages": [
                 {"role": "system", "content": system_instruction},
                 {"role": "user", "content": user_prompt}
