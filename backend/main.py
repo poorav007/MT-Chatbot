@@ -81,7 +81,7 @@ def openrouter_chat(system_instruction, user_prompt):
             "X-Title": "MyRAGApp"
         },
         json={
-            "model": "arcee-ai/trinity-mini:free",
+            "model": "cognitivecomputations/dolphin-mistral-24b-venice-edition:free",
             "messages": [
                 {"role": "system", "content": system_instruction},
                 {"role": "user", "content": user_prompt}
@@ -108,7 +108,7 @@ async def chat_api(data: Query):
     context = retrieve_context(query)
 
     if not context.strip():
-        return {"answer": "Not enough information in the documents."}
+        return {"answer": "I can't provide info about this, ask anything about Metabolic therapy"}
 
     system_instruction = (
         "You are a helpful, very-friendly, always encouraging and human-like assistant."
@@ -118,7 +118,7 @@ async def chat_api(data: Query):
         "Avoid robotic phrasing or excessive technical formatting."
         "answer the user queries, Provide the main answer first, then optionally explain details in a simple, relatable way. Add small cues of empathy when appropriate"
         "Answer strictly in plain text. Do NOT use Markdown, bullets, headers, or symbols like *, #, -."
-        "Use light emojis only when it adds friendliness (e.g., 🙂👍)."
+        "Use light emojis only when it adds friendliness (e.g., 🙂,👍,🤗,✨,❤️,😊,😅)."
         "Keep the text readable, simple, and clean."
         "Sound like a helpful human, not a script. Be calm, clear, and kind in every interaction."
     )
