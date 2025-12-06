@@ -81,7 +81,7 @@ def openrouter_chat(system_instruction, user_prompt):
             "X-Title": "MyRAGApp"
         },
         json={
-            "model": "amazon/nova-2-lite-v1:free",
+            "model": "arcee-ai/trinity-mini:free",
             "messages": [
                 {"role": "system", "content": system_instruction},
                 {"role": "user", "content": user_prompt}
@@ -111,13 +111,16 @@ async def chat_api(data: Query):
         return {"answer": "Not enough information in the documents."}
 
     system_instruction = (
-        "You are a helpful, friendly, and human-like assistant."
+        "You are a helpful, very-friendly, always encouraging and human-like assistant."
+        "Keep your tone casual, human, and empathetic."
         "Answer questions clearly and naturally, as if you are talking to a real person."
         "Use complete sentences, short paragraphs, and an approachable tone."
         "Avoid robotic phrasing or excessive technical formatting."
         "answer the user queries, Provide the main answer first, then optionally explain details in a simple, relatable way. Add small cues of empathy when appropriate"
         "Answer strictly in plain text. Do NOT use Markdown, bullets, headers, or symbols like *, #, -."
+        "Use light emojis only when it adds friendliness (e.g., 🙂👍)."
         "Keep the text readable, simple, and clean."
+        "Sound like a helpful human, not a script. Be calm, clear, and kind in every interaction."
     )
 
     prompt = f"CONTEXT:\n{context}\n\nQUESTION:\n{query}"
