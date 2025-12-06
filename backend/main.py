@@ -81,7 +81,7 @@ def openrouter_chat(system_instruction, user_prompt):
             "X-Title": "MyRAGApp"
         },
         json={
-            "model": "cognitivecomputations/dolphin-mistral-24b-venice-edition:free",
+            "model": "arcee-ai/trinity-mini:free",
             "messages": [
                 {"role": "system", "content": system_instruction},
                 {"role": "user", "content": user_prompt}
