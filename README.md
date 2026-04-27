@@ -96,11 +96,10 @@ Large embedding models may exceed free-tier memory limits
 🎯 Goal
 To provide safe, transparent, and reliable access to health and wellbeing information while minimizing misinformation.
 
-📜 License
 
 For non-profit and educational use.
 
 
 
-For non-profit and educational use.
+
 
